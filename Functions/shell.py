@@ -1,6 +1,7 @@
 import os, sys
 from .session import list_languages, load_categories, read_sentences, SentencePicker
 from .config import load_config, save_config
+from .provider import evaluate
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
 
@@ -55,6 +56,13 @@ class Shell:
                 self._print_config()
             elif command.isdigit():
                 self._cmd_start_rounds(int(command))
+        elif self.state == TESTING:
+            if command == 'skip':
+                self._next_question()
+            elif command == 'back':
+                self._to_root()
+            else:
+                self._evaluate_and_print(command)
 
 
     def _cmd_langs(self):
@@ -152,3 +160,21 @@ class Shell:
         print(f"[{self.round_idx}]")
         print(f"Source ({self.cfg['src_lang']}): {src}")
         self.prompt = f"Target (en): "
+
+    def _evaluate_and_print(self, user_text: str):
+        _, src = self.current_pair
+        res = evaluate(src, user_text, self.cfg['src_lang'], 'en')
+        score = res.get("score", 0.0)
+        alts = (res.get("alternatives") or [])[:5]
+        try:
+            score_str = f"{float(score):.2f}"
+        except:
+            score_str = "0.00"
+        print(f"\n- Score: {score_str}")
+        print("- Alternatives")
+        if not alts:
+            alts = [user_text] * 5
+        for alt in alts:
+            print(f"\"{alt}\"")
+        self._next_question()
+
