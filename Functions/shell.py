@@ -37,6 +37,8 @@ class Shell:
         if self.state == ROOT:
             if command == 'ls':
                 self._cmd_ls()
+            elif command == 'config':
+                self._print_config()
 
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
@@ -56,3 +58,7 @@ class Shell:
             print(f"{i}. {name}")
         self.state = ROOT
         self.prompt = '>>> '
+
+    def _print_config(self):
+        print("Current config:", self.cfg)
+
