@@ -44,6 +44,13 @@ class Shell:
                 self._print_config()
             elif command.isdigit():
                 self._cmd_choose_by_number(int(command))
+        elif self.state == CHOSEN:
+            if command == 'ls':
+                self._cmd_ls()
+            elif command == 'back':
+                self._to_root()
+            
+
 
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
@@ -109,3 +116,12 @@ class Shell:
         self.prompt = f"[{name}] >>> "
         print(f"[{name}] >>> Enter number of questions. Example: 10")
 
+    def _to_root(self):
+        self.state = ROOT
+        self.current_cat = None
+        self.picker = None
+        self.round_total = 0
+        self.round_idx = 0
+        self.current_pair = None
+        self.prompt = '>>> '
+        self._cmd_ls()
