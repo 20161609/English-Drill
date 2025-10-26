@@ -1,0 +1,92 @@
+{
+  "ar": {
+    "language_ko": "Arabic",
+    "language_en": "Arabic",
+    "regions": ["Saudi Arabia", "Egypt", "UAE", "Morocco, and many MENA countries"]
+  },
+  "de": {
+    "language_ko": "German",
+    "language_en": "German",
+    "regions": ["Germany", "Austria", "Switzerland (partly)"]
+  },
+  "es": {
+    "language_ko": "Spanish",
+    "language_en": "Spanish",
+    "regions": ["Spain", "Mexico", "many Latin American countries"]
+  },
+  "fr": {
+    "language_ko": "French",
+    "language_en": "French",
+    "regions": ["France", "Belgium", "Switzerland (partly)", "Canada (Quebec)", "many African countries"]
+  },
+  "hi": {
+    "language_ko": "Hindi",
+    "language_en": "Hindi",
+    "regions": ["India (mainly)", "Fiji (partly)"]
+  },
+  "id": {
+    "language_ko": "Indonesian",
+    "language_en": "Indonesian",
+    "regions": ["Indonesia"]
+  },
+  "it": {
+    "language_ko": "Italian",
+    "language_en": "Italian",
+    "regions": ["Italy", "Switzerland (Ticino and others)"]
+  },
+  "ja": {
+    "language_ko": "Japanese",
+    "language_en": "Japanese",
+    "regions": ["Japan"]
+  },
+  "ko": {
+    "language_ko": "Korean",
+    "language_en": "Korean",
+    "regions": ["Republic of Korea", "Democratic People's Republic of Korea"]
+  },
+  "nl": {
+    "language_ko": "Dutch",
+    "language_en": "Dutch",
+    "regions": ["Netherlands", "Belgium (Flanders)"]
+  },
+  "pl": {
+    "language_ko": "Polish",
+    "language_en": "Polish",
+    "regions": ["Poland"]
+  },
+  "pt": {
+    "language_ko": "Portuguese",
+    "language_en": "Portuguese",
+    "regions": ["Portugal", "Brazil", "Angola", "Mozambique, and others"]
+  },
+  "ru": {
+    "language_ko": "Russian",
+    "language_en": "Russian",
+    "regions": ["Russia", "Belarus", "Kazakhstan (widely used)"]
+  },
+  "sv": {
+    "language_ko": "Swedish",
+    "language_en": "Swedish",
+    "regions": ["Sweden", "Finland (minority official language)"]
+  },
+  "th": {
+    "language_ko": "Thai",
+    "language_en": "Thai",
+    "regions": ["Thailand"]
+  },
+  "tr": {
+    "language_ko": "Turkish",
+    "language_en": "Turkish",
+    "regions": ["Türkiye", "Northern Cyprus (used)"]
+  },
+  "vi": {
+    "language_ko": "Vietnamese",
+    "language_en": "Vietnamese",
+    "regions": ["Vietnam"]
+  },
+  "zh": {
+    "language_ko": "Chinese (mainly Mandarin)",
+    "language_en": "Chinese (Mandarin)",
+    "regions": ["China", "Taiwan", "Singapore, and others"]
+  }
+}

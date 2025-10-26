@@ -1,7 +1,13 @@
-import os, sys
+import os, sys, json
 from .session import list_languages, load_categories, read_sentences, SentencePicker
 from .config import load_config, save_config
 from .provider import evaluate
+
+# 현재 파일 기준으로 부모 폴더의 경로 계산
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CONFIG_PATH = os.path.join(BASE_DIR, "langs.json")
+with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+    lang_dict = json.load(f)
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
 
@@ -67,11 +73,18 @@ class Shell:
 
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
+
+
         if not langs:
             print("No languages found under text/. Create text/<src>/ first.")
             return
         print("Available source languages:")
-        print(", ".join(langs))
+        print("["+", ".join(langs)+"]")
+        for lang in langs:
+            c1 = f'{lang}({lang_dict[lang]['language_en']}):'
+            c2 = ', '.join(lang_dict[lang]['regions'])
+            print('-', c1, c2)
+
 
     def _cmd_ls(self, initial=False):
         if not self.categories:
