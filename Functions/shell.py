@@ -49,7 +49,12 @@ class Shell:
                 self._cmd_ls()
             elif command == 'back':
                 self._to_root()
-            
+            elif command.startswith("lang"):
+                self._cmd_lang(command)
+            elif command == 'config':
+                self._print_config()
+            elif command.isdigit():
+                self._cmd_start_rounds(int(command))
 
 
     def _cmd_langs(self):
@@ -68,7 +73,6 @@ class Shell:
         for i, (name, _) in enumerate(self.categories, 1):
             print(f"{i}. {name}")
         self.state = ROOT
-        self.prompt = '>>> '
 
     def _print_config(self):
         print("Current config:", self.cfg)
@@ -125,3 +129,26 @@ class Shell:
         self.current_pair = None
         self.prompt = '>>> '
         self._cmd_ls()
+
+    def _cmd_start_rounds(self, n: int):
+        if n <= 0:
+            print("Enter a positive integer.")
+            return
+        self.round_total = n
+        self.round_idx = 0
+        self.state = TESTING
+        self._next_question()
+
+    def _next_question(self):
+        self.round_idx += 1
+        if self.round_idx > self.round_total:
+            print(f"[session ended] {self.round_total} question(s) completed.")
+            self.state = CHOSEN
+            self.prompt = f"[{self.current_cat}] >>> "
+            return
+        idx, src = self.picker.pick()
+        self.current_pair = (idx, src)
+        print("====================================")
+        print(f"[{self.round_idx}]")
+        print(f"Source ({self.cfg['src_lang']}): {src}")
+        self.prompt = f"Target (en): "
