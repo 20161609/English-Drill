@@ -1,5 +1,5 @@
 import os, sys
-from ..ignore.session import list_languages
+from .session import list_languages
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
 
@@ -28,4 +28,14 @@ class Shell:
         print("Type 'help' for commands.")
 
     def fetch(self, command: str):
-        pass
+        if command == 'langs':
+            self._cmd_langs()
+            return
+
+    def _cmd_langs(self):
+        langs = list_languages(self.text_root)
+        if not langs:
+            print("No languages found under text/. Create text/<src>/ first.")
+            return
+        print("Available source languages:")
+        print(", ".join(langs))
