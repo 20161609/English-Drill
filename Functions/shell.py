@@ -1,5 +1,5 @@
 import os, sys
-from .session import list_languages, load_categories
+from .session import list_languages, load_categories, read_sentences, SentencePicker
 from .config import load_config, save_config
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
@@ -21,6 +21,7 @@ class Shell:
         self.base_dir = _app_base()
         self.cfg = load_config()
         self.text_root = os.path.join(self.base_dir, "text")
+        self.categories = load_categories(self.text_root, self.cfg['src_lang'])
         self.state = ROOT
         self.current_cat = None
         self.picker = None
@@ -41,6 +42,8 @@ class Shell:
                 self._cmd_lang(command)
             elif command == 'config':
                 self._print_config()
+            elif command.isdigit():
+                self._cmd_choose_by_number(int(command))
 
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
@@ -51,7 +54,6 @@ class Shell:
         print(", ".join(langs))
 
     def _cmd_ls(self, initial=False):
-        self.categories = load_categories(self.text_root, self.cfg['src_lang'])
         if not self.categories:
             print(f"No *.txt files under text/{self.cfg['src_lang']}/. Add your source-language sentences there.")
             return
@@ -90,4 +92,20 @@ class Shell:
             self._cmd_ls()
         else:
             print("Usage: lang <src>   (see 'langs')")
+
+    def _cmd_choose_by_number(self, num: int):
+        if num < 1 or num > len(self.categories):
+            print("Index out of range.")
+            return
+        name, path = self.categories[num-1]
+        sents = read_sentences(path)
+        try:
+            self.picker = SentencePicker(sents)
+        except Exception as e:
+            print("Category load error:", e)
+            return
+        self.current_cat = name
+        self.state = CHOSEN
+        self.prompt = f"[{name}] >>> "
+        print(f"[{name}] >>> Enter number of questions. Example: 10")
 
