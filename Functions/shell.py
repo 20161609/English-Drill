@@ -1,6 +1,6 @@
 import os, sys
 from .session import list_languages, load_categories
-from .config import load_config
+from .config import load_config, save_config
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
 
@@ -37,6 +37,8 @@ class Shell:
         if self.state == ROOT:
             if command == 'ls':
                 self._cmd_ls()
+            elif command.startswith("lang"):
+                self._cmd_lang(command)
             elif command == 'config':
                 self._print_config()
 
@@ -61,4 +63,31 @@ class Shell:
 
     def _print_config(self):
         print("Current config:", self.cfg)
+
+    def _cmd_lang(self, cmd: str):
+        parts = cmd.split()
+        if len(parts) == 1:
+            print(f"Languages: source={self.cfg['src_lang']} target={self.cfg['tgt_lang']} (target fixed to 'en')")
+            return
+        if len(parts) >= 2:
+            src = parts[1].lower()
+            if not os.path.isdir(os.path.join(self.text_root, src)):
+                print(f"'{src}' not found under text/. Use 'langs' to see options.")
+                return
+            self.cfg['src_lang'] = src
+            self.cfg['tgt_lang'] = 'en'
+            save_config(self.cfg)
+            print(f"Set language: source={src}, target=en (fixed)")
+            self.categories = load_categories(self.text_root, self.cfg['src_lang'])
+            if not self.categories:
+                print(f"No categories under text/{self.cfg['src_lang']}/ yet.")
+            self.state = ROOT
+            self.current_cat = None
+            self.picker = None
+            self.round_total = 0
+            self.round_idx = 0
+            self.current_pair = None
+            self._cmd_ls()
+        else:
+            print("Usage: lang <src>   (see 'langs')")
 
