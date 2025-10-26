@@ -1,5 +1,6 @@
 from Functions.shell import Shell
 quit_commands = {'q!', 'Q!', 'quit', 'QUIT'}
+
 def __main__():
     try:
         shell = Shell()

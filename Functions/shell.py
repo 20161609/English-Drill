@@ -1,5 +1,6 @@
 import os, sys
-from .session import list_languages
+from .session import list_languages, load_categories
+from .config import load_config
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
 
@@ -18,6 +19,7 @@ class Shell:
         print(f"\"Welcome to {TITLE_NAME}\"")
         self.prompt = '>>> '
         self.base_dir = _app_base()
+        self.cfg = load_config()
         self.text_root = os.path.join(self.base_dir, "text")
         self.state = ROOT
         self.current_cat = None
@@ -32,6 +34,10 @@ class Shell:
             self._cmd_langs()
             return
 
+        if self.state == ROOT:
+            if command == 'ls':
+                self._cmd_ls()
+
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
         if not langs:
@@ -39,3 +45,14 @@ class Shell:
             return
         print("Available source languages:")
         print(", ".join(langs))
+
+    def _cmd_ls(self, initial=False):
+        self.categories = load_categories(self.text_root, self.cfg['src_lang'])
+        if not self.categories:
+            print(f"No *.txt files under text/{self.cfg['src_lang']}/. Add your source-language sentences there.")
+            return
+        print("ls")
+        for i, (name, _) in enumerate(self.categories, 1):
+            print(f"{i}. {name}")
+        self.state = ROOT
+        self.prompt = '>>> '
