@@ -77,6 +77,9 @@ def evaluate(src_text: str, user_tgt: str, src_lang: str, tgt_lang: str):
     ref_item = _best_ref_for_text(src_text, pack) if pack else None
     ref_en = ref_item["ref"] if ref_item and ref_item.get("ref") else ""
     alts_en = ref_item.get("alts", []) if ref_item else []
+
+    print(ref_item != None, ref_item.get("ref") != None)
+
     if os.getenv("MT_PROVIDER"):
         ref_tgt = mt_translate(src_text, src_lang, "en") or ref_en
         score = _overlap_score_lenient(user, ref_tgt or src_text)
@@ -88,4 +91,7 @@ def evaluate(src_text: str, user_tgt: str, src_lang: str, tgt_lang: str):
     rough = min(5.0, max(0.0, (len(words) / 8.0) * 5.0))
     rough = rough * SCORE_SCALE + SCORE_OFFSET
     rough = max(0.0, min(5.0, round(rough, 2)))
-    return {"score": rough, "alternatives": _dedup5([user, user.capitalize(), re.sub(r"\.$", "", user)])}
+    return {
+        "score": rough, 
+        "alternatives": _dedup5([user, user.capitalize(), re.sub(r"\.$", "", user)])
+    }

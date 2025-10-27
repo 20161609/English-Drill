@@ -85,7 +85,6 @@ class Shell:
             c2 = ', '.join(lang_dict[lang]['regions'])
             print('-', c1, c2)
 
-
     def _cmd_ls(self, initial=False):
         if not self.categories:
             print(f"No *.txt files under text/{self.cfg['src_lang']}/. Add your source-language sentences there.")
