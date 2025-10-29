@@ -1,9 +1,11 @@
 import os, sys, json
+
+from Functions.scoring import score_pair
+from Functions.translator import translate_strict
 from .session import list_languages, load_categories, read_sentences, SentencePicker
 from .config import load_config, save_config
-from .provider import evaluate
 
-# 현재 파일 기준으로 부모 폴더의 경로 계산
+# Calculate the path of the parent folder based on the current file
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(BASE_DIR, "langs.json")
 with open(CONFIG_PATH, "r", encoding="utf-8") as f:
@@ -81,7 +83,7 @@ class Shell:
         print("Available source languages:")
         print("["+", ".join(langs)+"]")
         for lang in langs:
-            c1 = f'{lang}({lang_dict[lang]['language_en']}):'
+            c1 = f"{lang}({lang_dict[lang]['language_en']}):"
             c2 = ', '.join(lang_dict[lang]['regions'])
             print('-', c1, c2)
 
@@ -175,18 +177,12 @@ class Shell:
 
     def _evaluate_and_print(self, user_text: str):
         _, src = self.current_pair
-        res = evaluate(src, user_text, self.cfg['src_lang'], 'en')
-        score = res.get("score", 0.0)
-        alts = (res.get("alternatives") or [])[:5]
+        score = min(score_pair(src, user_text), 100)/20
         try:
             score_str = f"{float(score):.2f}"
         except:
             score_str = "0.00"
-        print(f"\n- Score: {score_str}")
-        print("- Alternatives")
-        if not alts:
-            alts = [user_text] * 5
-        for alt in alts:
-            print(f"\"{alt}\"")
+        print(f"\n- Score: {score_str}/5.00")
+        print("- Alternative ->", translate_strict(src))
         self._next_question()
 

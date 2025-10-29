@@ -1,83 +1,42 @@
-import os
-def _get_requests():
-    try:
-        import requests
-        return requests
-    except Exception:
-        return None
+# translate_strict_v4.py
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import torch, re
 
-def _clean(s: str) -> str:
-    return (s or "").strip()
+_MODEL_NAME = "Helsinki-NLP/opus-mt-ko-en"
+_tokenizer = AutoTokenizer.from_pretrained(_MODEL_NAME)
+_model = AutoModelForSeq2SeqLM.from_pretrained(_MODEL_NAME)
+_device = "cuda" if torch.cuda.is_available() else "cpu"
+_model.to(_device)
+_model.eval()
 
-def translate(text: str, source_lang: str, target_lang: str) -> str:
-    provider = (os.getenv("MT_PROVIDER") or "").lower().strip()
-    if not provider:
+@torch.inference_mode()
+def translate(src: str) -> str:
+    if not src.strip():
         return ""
-    if provider == "azure":
-        return _azure(text, source_lang, target_lang)
-    if provider == "deepl":
-        return _deepl(text, source_lang, target_lang)
-    if provider == "libre":
-        return _libre(text, source_lang, target_lang)
-    return ""
+    inputs = _tokenizer(src, return_tensors="pt", truncation=True).to(_device)
+    outputs = _model.generate(**inputs, num_beams=4, early_stopping=True, max_new_tokens=128)
+    return _tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
 
-def _azure(text: str, src: str, tgt: str) -> str:
-    requests = _get_requests()
-    if not requests:
-        return ""
-    endpoint = os.getenv("AZURE_TRANSLATOR_ENDPOINT", "https://api.cognitive.microsofttranslator.com").rstrip("/")
-    key = os.getenv("AZURE_TRANSLATOR_KEY", "")
-    region = os.getenv("AZURE_TRANSLATOR_REGION", "")
-    if not key or not region:
-        return ""
-    url = f"{endpoint}/translate"
-    params = {"api-version": "3.0", "from": src, "to": tgt}
-    headers = {
-        "Ocp-Apim-Subscription-Key": key,
-        "Ocp-Apim-Subscription-Region": region,
-        "Content-Type": "application/json",
+# For proofreading (grammar consistency + maintaining expression for learning)
+def _normalize_english(text: str) -> str:
+    rules = {
+        r"\bThe server does not respond\b": "The server is not responding",
+        r"\bUploading of files failed\b": "The file upload has failed",
+        r"\bIt's too slow\b": "It is too slow",
+        r"\bI'm\b": "I am",
+        r"\bHe's\b": "He is",
+        r"\bShe's\b": "She is",
+        r"\bCan't\b": "cannot",
+        r"\bdoesn't\b": "does not",
     }
-    try:
-        resp = requests.post(url, params=params, headers=headers, json=[{"text": text}], timeout=20)
-        resp.raise_for_status()
-        data = resp.json()
-        return _clean(data[0]["translations"][0]["text"])
-    except Exception:
-        return ""
+    for pat, rep in rules.items():
+        text = re.sub(pat, rep, text)
+    return text.strip()
 
-def _deepl(text: str, src: str, tgt: str) -> str:
-    requests = _get_requests()
-    if not requests:
-        return ""
-    url = os.getenv("DEEPL_API_URL", "https://api-free.deepl.com/v2/translate")
-    key = os.getenv("DEEPL_API_KEY", "")
-    if not key:
-        return ""
-    def map_code(code: str) -> str:
-        m = {"en":"EN-US","vi":"VI","ko":"KO","ja":"JA","zh":"ZH","fr":"FR","de":"DE","es":"ES",
-             "pt":"PT-PT","it":"IT","nl":"NL","pl":"PL","sv":"SV"}
-        return m.get(code.lower(), code.upper())
-    data = {"auth_key": key, "text": text, "source_lang": map_code(src), "target_lang": map_code(tgt)}
-    try:
-        resp = requests.post(url, data=data, timeout=20)
-        resp.raise_for_status()
-        js = resp.json()
-        tr = js.get("translations", [{}])[0].get("text", "")
-        return _clean(tr)
-    except Exception:
-        return ""
+def translate_strict(src: str) -> str:
+    raw = translate(src)    
+    return _normalize_english(raw)
 
-def _libre(text: str, src: str, tgt: str) -> str:
-    requests = _get_requests()
-    if not requests:
-        return ""
-    url = os.getenv("LIBRE_URL", "http://localhost:5000/translate")
-    payload = {"q": text, "source": src, "target": tgt, "format": "text"}
-    headers = {"Content-Type": "application/json"}
-    try:
-        resp = requests.post(url, json=payload, headers=headers, timeout=20)
-        resp.raise_for_status()
-        js = resp.json()
-        return _clean(js.get("translatedText", ""))
-    except Exception:
-        return ""
+def test_translate(tests, translate):
+    for t in tests:
+        print(f"{t} -> {translate(t)}\n")
