@@ -1,0 +1,1665 @@
+Set up two-factor authentication.
+Please request a second approval.
+What data did the audit team request?
+Did the development team provide an estimated timeline?
+Does the development team understand this requirement?
+The development team will be releasing it this week.
+Will the development team be able to deploy it this week?
+Can the development team work on weekends?
+Does the development team need any additional data?
+Once the review is complete, please submit the payment.
+Please send the estimate again.
+Please send us a quote.
+Please report the results.
+Please double-check the approval line.
+Don't forget to include the attached file when submitting your approval.
+Please consolidate the files you need to upload for approval into a single file.
+Please approve the payment.
+Please approve this.
+Please submit your approval.
+Please check the contract expiration date.
+Please send me the contract terms via email.
+Please share the original contract by scanning it.
+Please review the contract again.
+Please print out the contract.
+Please print out the contract and bring it with you.
+Please recover your account access.
+Create an account.
+Please print out the schedule and bring it to the meeting.
+Respond to customer emails promptly.
+Don't miss out on customer inquiries.
+Please process customer requests as quickly as possible.
+Please save customer feedback.
+Please organize the customer feedback.
+Please call the customer representative again.
+The customer company expressed a desire to revisit the SLA terms.
+Please send an apology email to the customer.
+Please get in touch with the customer.
+The customer would like to renegotiate the price.
+Please send a response to the customer immediately.
+Please leave a record of the call for the customer.
+Don't forget to upload it to the shared drive as well.
+Make sure to set the shared link to expire.
+Please take a look at the notice.
+Will the management team approve that budget?
+Did the education team conduct a satisfaction survey?
+Please complete your education application.
+Please submit your completed training records.
+Please check the regulations.
+Does the team know about our changes?
+Does the team plan to support this feature?
+Can the team proceed with this schedule?
+Can the team send the data over today?
+Is the team open to adjusting the meeting time?
+The technical support team has agreed to provide an answer by the end of today.
+The technical team suggested shortening the log retention period.
+The technical team announced that they would be restarting the server early this morning.
+Please submit the draft document.
+If it's an emergency, please let me know by phone.
+Did Manager Kim get a response from the customer?
+Can Section Chief Kim reduce the budget?
+Can Manager Kim lend a hand to our team?
+Did Manager Kim brief the executives on this proposal?
+Has Mr. Kim changed the test schedule?
+Does Team Leader Kim have any other thoughts or opinions?
+Will Team Leader Kim be attending today's meeting?
+Will you be sending our proposal to the customer, Mr. Kim?
+Does Team Leader Kim know about this agenda?
+Does Team Leader Kim agree with this schedule?
+Has Mr. Kim finished his call with the customer?
+Did Kim Dae-ri get back in touch with the customer?
+I'll touch base with the relevant department first.
+Kim Dae-ri will send a response to the email right away.
+Kim Dae-ri replicated the error from yesterday.
+Does Kim Dae-ri recall the details of yesterday's meeting?
+Kim Dae-ri completed the meeting minutes from yesterday.
+Kim Dae-ri will finalize the estimate by the end of today.
+Kim Dae-ri will be working late tonight.
+Kim Dae-ri will include this cost in the budget.
+Has Mr. Kim already reviewed this agenda item?
+I'll share this issue with the development team.
+Where did you save this data, Mr. Kim?
+Mr. Kim is scheduled to go on a business trip this week.
+Manager Kim will complete the handover document by the end of today.
+Manager Kim compiled and uploaded the data.
+Can Manager Kim go into the meeting room now?
+I'll submit the report this afternoon.
+I've got everything planned out for this week.
+Can I write down my API key here?
+I briefed the team leader on the QA results this morning.
+I'll be sharing the QA results with the product team.
+I believe that cooperation from each department is crucial.
+I'll review the development guide and leave my thoughts on it.
+I'll revise the estimate and send it back to you.
+I resent the revised estimate.
+I've also prepared a quote in English.
+I'll let you know as soon as I get the results.
+I'll report the results directly to the team leader.
+I submitted my absence notice this morning.
+I've already submitted the documents for approval.
+I'll move forward as soon as I get the approval.
+Can I just add one approval line?
+I'll prepare the executive briefing materials.
+I'll print out the contract and get it signed.
+I'll compile the customer CS data.
+I've summarized all the questions that came up during the customer meeting.
+I'll summarize the customer's concerns and send them over.
+I've drafted a response to the customer's complaint.
+I will develop a plan to minimize customer complaints.
+I've identified the underlying cause of the customer complaints.
+I'll summarize the customer's requests and pass them on.
+Can I just accept the customer's request in part?
+I'll recreate the customer service manual.
+I'll be preparing a presentation for our clients.
+I'll compile the customer feedback and pass it on to the development team.
+I've confirmed that the customer representative has been replaced.
+I've already reached out to all the clients this morning.
+I've posted the customer feedback on Notion.
+I sent an apology email to the customer.
+I promised the customer that I would get back to them by the end of the day.
+I'll summarize the key points the customer is looking for and send it over.
+I've noticed that customers keep asking the same questions over and over.
+I'll verify the relevant licenses and keep you informed.
+I've set it to administrator mode.
+I'll upload the training video to our company's internal network.
+I'm not available in the afternoon due to my training schedule.
+I'll coordinate the training schedule with the HR team.
+I'll print out the educational materials for you.
+I'd like to learn more about the education support system.
+I'm only available for meetings on Friday afternoons.
+I'll take care of the urgent task first.
+I've set aside the urgent tickets that need to be dealt with right away.
+I'll align my personal goals with the team's objectives.
+I'd like to take on a more significant role.
+I'll be filming a demonstration video tomorrow morning.
+I have a meeting with the finance team scheduled for tomorrow.
+I'm afraid I'll be a bit late for work tomorrow.
+I'll create two more design concepts by tomorrow.
+I will submit the interview evaluation form by tomorrow.
+I'll keep you updated on the situation in real-time.
+I'd like to take a look at the part you're responsible for first.
+I'll make a few minor adjustments to your report.
+I've completed the code review you wrote.
+After hearing the opinions from other departments, I will make a decision.
+Can I join in with the other team?
+I'll draft the budget for next month.
+I'll get a head start on preparing the agenda for our next meeting.
+I'm currently working on the next presentation materials.
+I'll write the release notes for the next version.
+I'll document my goals for the next quarter.
+I'd like to set my goals for the next quarter in advance.
+I've planned the staffing for the next quarter.
+I'd like to add this feature to the next sprint.
+I'll update the schedule for next week.
+I'd like to take another interview next week.
+I'd like to take a day off next week.
+Can I take my annual leave next week?
+I'd like to revisit this issue at our next meeting.
+Can I do the demo in the morning?
+I'll review the design concept once I receive it.
+I've uploaded the design files to the shared drive.
+Should I check with the design team first?
+Can I share the log file with you?
+I checked the log and identified the cause.
+Can I head out a bit early?
+Can I send it directly via messenger?
+May I add the CEO as a reference in the email?
+I'll review the background of the interviewee.
+I'll definitely highlight my project experience during the interview.
+I'll standardize the interview questionnaire.
+I'll provide a numerical breakdown of our performance against our targets.
+I'll simplify the document structure.
+I'll standardize the document template and make it available for sharing.
+I've standardized the document template to match our company's uniform format.
+I've already rolled back the problematic part of the code.
+Should I send an apology email to the customer right away?
+I just received a complaint call from a customer.
+I just checked the system log.
+I'll push the deployment schedule forward to the morning.
+I'll review the pre-deployment test checklist.
+I'll make sure to back up my files before I deploy them.
+I'll keep an eye on the issues that arise after deployment.
+I'll store the backup files in an external storage location.
+I've posted the list of bugs on the issue tracker.
+I also included the interview content in the report.
+I'll match the schedule on the board with the actual schedule.
+I'll go over the security guidelines again.
+I've re-read the security regulations and submitted my signature.
+I'll make sure to brief my team on the security guidelines.
+I'll mediate the issue between departments.
+I'll double-check the department's budget situation.
+I'll break down the reasons behind the cost increase.
+Can I set the cost at this level?
+Can I redo the build now?
+I'd like to create in-house training materials in English as well.
+I checked the company's internal message board.
+I'll be happy to brief you on the company event schedule.
+I've identified a few areas that might be confusing for users.
+Can I create another account?
+I've started working with a new foreign colleague.
+I'll brief the new intern on this task.
+I'll hand over the responsibilities to the new employee.
+I've installed the latest version of the app.
+Can I submit the signature in the afternoon?
+I've posted the server maintenance schedule.
+I'll reannounce the server maintenance schedule.
+I'll update the dashboard with the performance metrics.
+I explained the performance evaluation criteria to the team members.
+I created a test account and shared it.
+I'll also write the new feature manual in English.
+I've written a description of the new feature on the wiki.
+I'll update the training materials for new hires.
+I'll create a new employee onboarding checklist.
+I'll explain the system to the new employee.
+I'll review the proposal for the new project.
+I'll summarize the questions I've prepared for the new developer interview.
+I'll never make the same mistake again.
+I haven't received a response to the email I sent this morning.
+I revised the Excel file you asked for yesterday.
+I've put yesterday's request on the backburner.
+I still haven't opened the file I received yesterday.
+I had already granted system privileges yesterday.
+I received a system check notification yesterday.
+I'll fix the bug that was asked about yesterday.
+I've completed the signature you asked for yesterday.
+I've incorporated the changes you requested yesterday.
+I incorporated the changes you requested yesterday.
+I still haven't received the file I asked for yesterday.
+I've already implemented the feature we discussed yesterday.
+I've already taken care of all the requests that came up at yesterday's meeting.
+I've documented the update history on GitHub.
+I will create a bilingual work manual, in both Korean and English.
+I'll stay on until I've completed the handover of my responsibilities.
+Can I open the file right here?
+I'm currently preparing for a salary negotiation.
+I scanned the receipt and uploaded it.
+I've gone through all the requests that came in from the sales team.
+I need to review the budget plan again.
+I'll recalculate the budget.
+I referred to the proposal I had written earlier.
+I'll review the educational materials again today.
+I've processed all the requests that came in today.
+Can I push back the deadline for today?
+May I request a meeting with you today?
+I'll catch up on the unfinished work tomorrow morning.
+I need to submit the report today.
+I've updated the onboarding documents for our new team members today.
+I've reviewed all the agenda items for today.
+I'll take care of the agenda for today.
+Can I shorten the agenda for today?
+I sent out two reminder emails today.
+I'll submit the approval request by the end of today.
+I'll post the approval line by the end of today.
+I'll resend the contract by the end of today.
+Do I need to finish this by today?
+I'll submit the results report by the end of today.
+I'll get this done, no matter how late I have to work tonight.
+I have two interviews scheduled for this afternoon.
+I'll be distributing it this afternoon.
+I've sorted through all the emails I received today.
+I attended an onboarding training session today.
+I'll complete the onboarding checklist today.
+I'll document the handover details today.
+I applied for remote work today.
+Can I work from home today?
+I'll send the draft SLA by the end of today.
+I'll wrap up the code review by the end of today.
+I sent my daily commute report via email today.
+I'll take care of the paperwork before I head out today.
+Can I summarize today's meeting and share it with you?
+I've reviewed the agenda for today's meeting.
+I'll explain this agenda at today's meeting.
+I'll have a one-on-one meeting with my team members again today.
+I'm free today.
+I'll book the conference room for the morning.
+I've taken care of all the requests I received this morning.
+I'll get ready for the meeting in the morning.
+I won't be at my desk after 2 p.m.
+Can I just cancel the afternoon schedule?
+I've scheduled my afternoon work plan on the calendar.
+I'll be calling the customer this afternoon.
+I'll double-check it in the afternoon.
+I had a rehearsal for the afternoon demo beforehand.
+Can I schedule a call with the client for this afternoon?
+I've also created an English version of the onboarding checklist.
+I'll review the onboarding checklist.
+I've uploaded the completed data to the drive.
+I'll be back after my business trip and report back to you.
+I'm not sure if our service will be able to meet this schedule.
+I'll be happy to highlight the benefits of our service to our customers.
+Can I share this with our team only?
+I'll document our team's risks.
+I'd like to showcase our team's achievements in numbers.
+I'll re-prioritize and share it with you.
+Can I adjust my priorities?
+I'll prioritize this matter.
+I'll also make sure to inform the accounting team about this.
+Can I extend this contract?
+Should I send this contract by today?
+Can I take care of this customer?
+Can I put off this feature until the next version?
+Can I remove this feature?
+From a user's perspective, I find this feature to be quite inconvenient.
+I'd like to know more about why this feature is needed.
+Can I confirm this design?
+Can I delete this document?
+I'd also like to include this sentence in English.
+Should I translate this sentence into English as well?
+Can I pass this issue on to the development team?
+I escalated this issue to the relevant department.
+I'll pass this issue on to the technical support team.
+I'll discuss this issue with the technical team.
+I'll discuss this issue with other departments.
+I'll take another look at this issue from a systems perspective.
+I'll give top priority to this issue.
+I'd like to tackle this issue as a team.
+I'll pass this issue on to the team leader.
+I'll explain this change to the customer first.
+Can I post this change on the notice board?
+I'll also translate this report into English.
+Can I write this report like this?
+I'll take another look at this part.
+I'll brief the team leader on this first.
+Can I simplify this explanation a bit?
+Should I reset this setting to its default?
+I'll double-check if this number is correct.
+Can I round this number up?
+I'll brief the board on this matter tomorrow.
+Can I put this on the agenda for the next meeting?
+I'll share this agenda item at our afternoon meeting.
+I'd like to know if this task aligns with my responsibilities.
+I felt that this task was beyond my scope.
+I'd like to share this task with you.
+I'll take a look at whether we can automate this task.
+I'll reassign the person in charge of this task.
+I'll adjust the priorities for this task.
+I'll make sure to prevent this error from happening again.
+I'll document the steps to reproduce this error.
+I'd like to wrap up this issue by the end of today.
+Should I report this issue to the team leader right away?
+Can I delegate this task to a new hire?
+I'd love to enjoy my work while doing this.
+I'd like to confirm if this schedule is feasible.
+I'll post this information on our company's internal wiki.
+Can I share this information with the whole team?
+Can I remove this page?
+I will make this policy known to all staff members.
+I'll submit this proposal for approval tomorrow.
+I'll upload this file to the team drive.
+Will I be able to follow this format as is?
+I'd like to wrap up this project by next month.
+I think the risks associated with this project are greater than I initially anticipated.
+I'd like to work here for a long time.
+I was wondering if it's okay to record this meeting.
+I'm curious to know if this candidate would be a good fit for our team.
+Should I send this via email instead of Slack?
+I need to brief the CEO directly on this matter.
+I'll prioritize this one.
+I'll also share this with the accounting team.
+I'd like to test this feature out first through an A/B test.
+I'd like to roll out this feature to just one customer first.
+I've checked my attendance for the whole month.
+I'll summarize this month's sales and report on it.
+I'll take a look at the expenses for this month and summarize them.
+I've submitted this month's expense report to the management support team.
+I'll get my finances in order for this month.
+I'll summarize this agenda in an email.
+I've turned this proposal into a presentation.
+I've already brought this issue to the attention of the administrator.
+I'll make sure to register this issue as a preventive measure to avoid it happening again.
+I documented the cause of this issue.
+I need the results by this Friday.
+I've pinned this week's goals to the top of my Slack board.
+I'd like to schedule an interview for sometime this week.
+I'll send the final draft to the client this week.
+I'll take a day off this week.
+I'd like to work remotely only this week.
+I'll focus on this task exclusively for this week.
+I'd also like to include foreign applicants in this recruitment process.
+I'd appreciate some positive feedback on this evaluation.
+I'll document my experience from this project for future reference.
+I'm a bit concerned about the project timeline, would it be possible to make some adjustments?
+I've kept track of the time I've invested in this project.
+I've documented what I learned this time on the wiki.
+Can I create a separate issue number?
+I'll register the issue as a ticket.
+Can I roll back to the previous version?
+I'll make sure to document the handover process in as much detail as possible.
+I'll also document the handover process with a video.
+I handed over the interview questionnaire to the HR team.
+I'll explain the work priorities to the interns.
+I'm assisting the intern with their tasks from the side.
+I'll assign a task to the intern.
+I've set up a shared calendar for our schedule.
+Can I create a shared calendar with a schedule?
+Should I send out the schedule notice now?
+I'll apologize to the customer for the change in schedule.
+I'll send you an email explaining the reason for the change.
+I've already updated the schedule change on the team's Notion.
+I'll post the reasons why I need to change the schedule.
+Unfortunately, my schedule conflicts, so someone else will have to step in.
+I've made all the necessary adjustments to the conflicting schedules.
+Unfortunately, I have a tight schedule, so I'm not sure if I can make it to the afternoon meeting.
+I'll explain the reason behind the delay in detail.
+I want to make it clear that our schedule is quite tight.
+Can I break down the schedule like this?
+May I show the schedule to the team leader first?
+I've shared the data with you, so please take a look.
+Can I send the data to the outside?
+I've separated the data into Korean and English versions.
+I'll log the task into the system.
+Can I change the order of the tasks like this?
+Can I extend my working hours?
+I'll be stepping out for a bit, but I'll keep an eye on the messenger.
+I'd like to grow into a manager in the long run.
+I'll request that the finance team handle the expenses.
+I'll send you the full email.
+I'll explain it again after lunch.
+I'll check on it right after lunch.
+Can I send the proposal today?
+I'll send the weekly report by the end of today.
+I'm waiting for a response from the customer right now.
+May I call the customer now?
+I'm in the middle of another meeting, so I'm not available to take your call right now.
+I'm a bit late because I'm on another call right now.
+I'll upload the documents I just received via electronic payment.
+I'm currently working on a report.
+I'm currently tracking the server logs.
+Can I resubmit it after making some changes?
+I'm fully booked at the moment, so I'd love to catch up with you in the afternoon.
+I'm currently setting up a test environment.
+I've just shared the file with you.
+I'll update the project status now.
+I'm currently organizing the meeting minutes.
+I've already booked the conference room.
+Can I join the meeting online now?
+I will conduct a staff satisfaction survey.
+I'll also translate the job posting into English.
+I also posted the job announcement in English.
+I'll check the attendance records.
+Can I print it in black and white?
+Can I push back my business trip by a day?
+I'll submit the business trip report by tomorrow.
+I'll take into account the feedback from the code review.
+I'll re-upload it after incorporating the client's feedback.
+I've broken down the costs by client into separate tables.
+I sent an email to the client.
+I'll create a table comparing the test results.
+I've organized the test results in Excel.
+After verifying the test results, I will proceed with the deployment.
+I've already set up a test account.
+I'll compile and share the test data.
+Can I take down the test server now?
+I've just restarted the test server.
+I'll make sure to clear out the approval box before I head out.
+I'll do one more backup before I head out.
+I'll wrap up the handover with the outgoing employee.
+I've assigned a team lead for education.
+I'll be sharing my work plan for today on the team channel.
+I'll summarize and report on the team's performance by the end of the month.
+I'd like to hear the team's thoughts first.
+I'd like to clearly express my contribution to the team leader.
+I've reorganized the folder structure to make it easier to navigate.
+Can I submit the proposal now?
+Can I adjust the order of the presentation?
+I've color-coded the project status.
+I've kept the project schedule up to date.
+I'm currently working on the project completion report.
+I'll request the necessary equipment to be purchased.
+I'd like to confirm the successful candidates by the end of today.
+I'll reschedule the meeting with our overseas office.
+I'll double-check the terms of our partnership agreement.
+I'll update the contact information for our partner and share it with you.
+I will revisit the terms with our partner.
+I've referred the accounting-related inquiries to the finance team.
+I'd like to acquire the skills that the company is looking for.
+I'll share the meeting details via email.
+I'll finalize the meeting schedule in advance.
+Can I just shorten the meeting time by 30 minutes?
+I'll add the meeting schedule to my calendar.
+I'll share the meeting minutes.
+Can I just write the minutes in English?
+I'll summarize the meeting minutes and send them to everyone.
+I've posted the meeting minutes on the team channel.
+I've already booked a meeting room for 4 p.m.
+I will send out a notification email to the candidates.
+I'll explain the salary range to the candidate.
+I'll take a close look at the candidate's portfolio.
+Please store the document in accordance with our internal policies.
+Can you tell me your extension number.
+Please review the content.
+Would you mind creating a FAQ for me?
+Can you pass this on to the UX team?
+What's the project that stands out to you the most?
+How do you resolve conflicts?
+What did you do when you had a conflict?
+Will you come in with me?
+Do you think it's better to handle it personally?
+Will you review it now?
+Will you just provide the outcome metrics?
+Do you have access to the payment system?
+Have you done any research on your competitors?
+Have you looked into your competitors?
+Have you taken another look at the contract?
+Can you share the customer's contact information with me?
+Did you take note of all the customer requests?
+Where did you record the customer feedback?
+What value did you bring to the customer?
+Did you understand what the customer was asking for?
+Did you include all the features the customer is looking for?
+Can you meet the customer's desired delivery date?
+Have you submitted your completion certificate?
+Have you already checked the training schedule?
+What do you think about that plan?
+Can you cover my work during that time?
+Did you read the whole thing?
+Will you send the data to the person in charge?
+Did you get that email?
+Can you update that list for me?
+Would you mind posting that document on the shared channel?
+Where did you save that document?
+Have you already registered that issue as a ticket?
+Do you know what's behind that problem?
+Can you get in touch with him again?
+Did you understand that explanation?
+Can you get in at that time?
+Would it be okay if the server crashed at that time?
+Can you print out that notice for me?
+Have you taken a look at that schedule?
+Where did you save that data?
+Did you pass on the data to the team leader?
+Can you sign it before that?
+Why did you delete that file?
+Can you put that ticket on the dashboard for me?
+Have you seen the candidate's resume?
+Do you think that's right?
+Don't you think that's the case?
+Would you mind picking out the most urgent ones from that list?
+Can you take care of the urgent task first?
+Would you like to extend the deadline?
+Do you think technology is okay?
+Can you assist with the technical aspects?
+Can you also test the existing features?
+Do you have any questions for me?
+Don't you find it difficult to work with me?
+Do you have any remaining emails?
+Can you wrap up the remaining work by tomorrow?
+Can you also take a look at my PR?
+Can you take a look at the document I created?
+Did you write down all the requirements I mentioned?
+Will you be able to attend the interview tomorrow?
+Can you give me a draft by tomorrow?
+Will you just fill in your part?
+Can you get help from the other team?
+Can you review it again?
+Did you try logging in again?
+Can you double-check that for me?
+Do you know the schedule for the next deployment?
+Will you be able to go on a business trip next week?
+Have you already spoken with the person in charge?
+Can you just fill in the answers?
+Can you let me know when you get a response?
+Can you make some minor adjustments to the design?
+Have you prepared a backup plan?
+Will you just post the link in the team channel?
+Would you like to add more interview-related expressions?
+What project will you be discussing during the interview?
+What kind of questions would you like to be asked in an interview?
+How do you plan to discuss your salary during the interview?
+How are you doing on Thursday morning?
+Can you take care of it right away?
+Would you like to change the order of the presentation?
+Did you just read the announcement?
+When do you need the data you just requested?
+Can you resend the email you just sent?
+Did you just take note of what you just said?
+Have you checked the backup file?
+Would you mind taking a look at the translation results?
+Can you help me with the translation?
+Would you like to request a legal review first?
+Have you updated the system with the new price?
+What made you change the cover of the report?
+What would you say are your greatest strengths?
+How do you make use of the company's benefits?
+Have you identified the issues users are experiencing?
+Have you prepared any questions in advance?
+Did you send a welcome email to the new person in charge?
+Will you distribute this to the new employees?
+Do you know the name of the new employee who just joined?
+Can you explain the new employee to me?
+Do you know about the new policy?
+Can you quantify your achievements?
+Did you send a request for correction to the customer?
+Can you create a new account?
+Have you reviewed the new employee training plan?
+When are you planning to attend the new employee training?
+What kind of career do you envision for yourself in the future?
+Is it okay if you're working late often?
+What's the first task you need to tackle?
+What kind of support do you need?
+Did you summarize the training content from yesterday?
+Did you check the email I sent you yesterday?
+Did you check the email I sent you yesterday?
+Did you get all the materials you requested yesterday ready?
+When can you start working?
+Can you reorganize your work priorities?
+What's your approach to prioritizing tasks?
+Can you explain the situation where the error occurs?
+Can you adjust the role for me?
+Can you just break down the salary range for me?
+Can I ask you about your salary now?
+Did you attach a receipt?
+Can you do an English interview?
+Can you take a look at the English version?
+Can you also prepare the documents in English?
+Do you plan to apply for a budget increase?
+Have you compared it to the old version?
+Did you attend the training today?
+Did you prepare for the interview today?
+Can you submit the report today?
+Can you give me the results by the end of today?
+Can you give me an answer by today?
+Are you free for a meeting today?
+Do you have any time this afternoon?
+Will you be able to finish your schedule for today?
+Did you check all the changes to your schedule for today?
+Can you adjust your schedule for today?
+Will you be working from home today?
+Did you take a look at the agenda for today's meeting?
+Will you be presenting at the meeting today?
+Can you see the time when the error occurred?
+Do you know when the mistake occurred?
+Do you have to attend the morning meeting?
+Will you be able to attend the morning meeting?
+Do you want to do it online?
+What makes you think you're a good fit for this role?
+What made you apply to this company?
+Have you reviewed the requirements?
+Would you just summarize it for me?
+Do you think our prices are competitive?
+Have you actually used our service?
+Do you understand our organizational structure?
+Do you think you fit in well with our company culture?
+Have you installed the tools we use on our team?
+Do you understand what our team is up to?
+How much do you know about our company?
+Can you tell me what made you apply to our company?
+Do you have any more questions for us?
+Can you adapt to working remotely?
+Do you also need a monthly report?
+Are you open to negotiating the price?
+Where did you get this estimate from?
+Do you think this estimate is reasonable?
+Do you understand the terms of this contract?
+Can you take care of this customer for me?
+Can you reach out to this customer directly?
+Would you like to meet this customer in person?
+Have you tried out this feature?
+Do you think this feature is actually helpful to users?
+Do you think this design fits the customer's needs?
+Can you update this metric daily?
+Can you also write this document in English?
+What made you change this document?
+Have you read this document?
+Who are you going to report this to?
+Can you retest this question for me?
+How would you like to tackle this problem?
+What do you think is the root cause of this problem?
+Can you tell me which version of the software this bug occurred in?
+Do you think it's okay to distribute this version?
+Do you know the format of this report?
+Can you pass this report on to Manager Kim?
+Who do you think should review this report?
+Can you also translate this report into English?
+Can you cover this expense within your budget?
+Do you think this cost is reasonable?
+Can you develop it according to this specification?
+How did you arrive at this figure?
+Can you manage this system on your own?
+How would you explain this agenda to the management team?
+When do you plan to wrap up this agenda?
+Can you take care of this matter right now?
+Would you like to put off this task until next week?
+When do you plan to finish this task?
+Can you wrap up this task by the end of today?
+Can you help me with this task?
+Can you handle this task on your own?
+What do you think is the most crucial skill for this role?
+What do you think is the key to this role?
+Who did you pass this issue on to?
+Can you resolve this issue right now?
+Do you agree with this schedule?
+Do you agree to this schedule?
+Do you agree to this schedule?
+Can you reschedule this for tomorrow?
+Can you print out this document for me?
+Can you open this file?
+Have you opened this file?
+What makes you think this position is a good fit for you?
+Do you have a clear understanding of the project's objectives?
+Are you interested in continuing to be involved in this project?
+Will you continue to be involved in this project?
+Will you continue to be involved in this project?
+Will you be able to continue participating in this project?
+Do you think this screen layout is easy to understand?
+Do you think you'll be able to fit in well with the company culture?
+Can you tell me why you're late with this?
+Can you wrap this up by the end of the day?
+Are you thinking of sharing this with the other team?
+Would you like to try logging in with this?
+Did you inform the department head about the transfer?
+Did you apply for expenses for this month?
+Do you know the target for this quarter?
+Do you think the client will accept this proposal?
+What's your work schedule like this week?
+Are you able to go on a business trip this week?
+Where did you save the previous version?
+What was the most significant achievement you made at your previous job?
+What did you achieve in your previous job?
+What were your achievements at your previous job?
+What tools did you use at your previous company?
+Have you ever led a team at your previous company?
+What's the reason behind your job change?
+Did you let them know about the schedule change?
+Did you share the schedule change with the team?
+Do you think you need to adjust your schedule?
+Can you reschedule for tomorrow?
+Are you keeping your schedule up to date?
+Can you introduce yourself in English?
+Will you be able to prepare more materials?
+Have you backed up your data?
+What kind of career are you looking to have in the long term?
+Did you log the return of the equipment?
+Did you check the equipment beforehand?
+Can you come to the office instead of working from home?
+Do you think the full release is better?
+Do you think it's okay to distribute it globally at the same time?
+Do you think it's a good idea to have a mediator in the middle?
+Are you at the office right now?
+Are you still interested in hearing more about it?
+Are you free right now?
+Are you free now?
+Can you help me with this right now?
+Can you take a break for a bit?
+Can we chat for a minute?
+Can you share the screen with me right now?
+Can you join the meeting now?
+Can you join the meeting now?
+Can you still change your priorities now?
+Can you elaborate on your reasons for applying?
+Can you make it?
+Can you join in?
+Can you share your recent experience of collaborating with others?
+Can you also find the latest style?
+Have you considered any additional risks?
+Do you have any additional thoughts or comments?
+Can you bring in some extra help?
+Do you need any additional information?
+Do you have any additional items you'd like to add?
+Would you like to adjust your work schedule?
+Can you adjust your work schedule?
+Did you let the team leader know about your commute time?
+When do you plan to submit your business trip report?
+Are you all set for your trip?
+Are you all set for your trip?
+Did you post the test results?
+Did you create all the test cases?
+Can you check on it before you leave work?
+Can you install the tool right now?
+Can you just share your ticket number with me?
+Do you think collaboration between teams is necessary?
+Do you have a lot of experience working in a team?
+Will you report to the team leader first?
+Did you ask the team leader about it first?
+Can you rename the file to follow the rules?
+Do you have any issues with the evaluation results?
+Did you bring your portfolio with you?
+Have you prepared the presentation file?
+Can you speak directly to the team leader if you need to?
+Can you help me organize the necessary skill set?
+Can you add more filters to it?
+Did you also upload the Korean version?
+Do you just need the Korean version?
+Would you be able to document the solution for me?
+Can you take another look at the company's rules?
+Are you familiar with the company's rules and regulations?
+How do you understand the company's vision?
+Do you have any ideas to improve our company's policies?
+What role would you like to play in helping the company grow?
+Can you pass on a response to me when you receive it?
+Will you be able to make it to the meeting on time?
+What made you late for the meeting?
+Can you attend the meeting?
+Can you write up the meeting minutes now?
+Do you think it's better to hold the meeting online?
+Do you have to attend the meeting?
+Will you just take care of the follow-up arrangements?
+Please re-upload the missing receipt.
+Could you share your schedule for next week.
+Please designate a person in charge.
+Please tag the person in charge and let them know.
+Please pass it on to the person in charge immediately.
+Please share your answers once you've received them.
+How would you like to implement your pricing policy?
+Would you please designate a leader for each group?
+Have you checked the approval line?
+Can you accommodate the customer's schedule?
+Have you informed the customer of the approval?
+Will you be calling the customer directly?
+Could you take a look at the announcement email?
+Have you checked the notice?
+Do you also need a summary that the administrator can review?
+Would you be willing to grant me permission?
+Can you respond on our behalf during that time?
+Did you designate a replacement for that period?
+Can you cover my work during that time?
+Would you be able to shorten the meeting schedule during that time?
+Have you reviewed the content?
+Do you need a laptop next?
+Please take a look at the list and let me know your top priority.
+Do you have a plan to achieve that goal?
+Do you agree with that goal?
+Can you schedule a meeting at that time?
+Are you available at that time?
+Are you available at that time?
+Do you think you can actually put that idea into practice?
+Will you approve that request?
+Is everything okay with that schedule?
+Are you available to join that schedule?
+Can you present that data?
+Do you think that's sufficient for the data?
+Would you like to take a look at the summary?
+Have you taken a look at that file?
+Do you need more people for that project?
+Would you be able to review the data by then?
+Could you show me only the parts that are technically feasible?
+Please only highlight the parts that are technically impossible.
+Would you like to stick with the current format?
+Can you confirm if the deadline is correct?
+Would you like to create an optimistic schedule?
+Will you take care of the remaining bugs first?
+Are you available for a meeting early tomorrow morning?
+Will you be available for a call tomorrow morning?
+Can you provide feedback by tomorrow?
+Can you provide feedback by tomorrow?
+Do you think it's right for someone to make the final decision?
+Do you think there's a risk of missing out?
+Have you considered any other options?
+Do you have any other contact information?
+Have you considered any other options?
+Do you prefer in-person interviews?
+Can you accommodate the CEO's schedule?
+Do you have anything else to discuss?
+Do you agree with that?
+Do you think it's best to handle just two of them?
+Do you conduct reference checks?
+You can just leave a review.
+Have you read the manual update?
+Would you like to choose what you need to take care of first?
+Would you like to reschedule the interview for a different date?
+Would you like to reset your target numbers?
+Would you be willing to conduct a cultural fit interview?
+Could you take a look at the presentation materials and review them for me?
+Can you document what you just explained?
+Would you be able to print out the distribution materials for me?
+Have you checked the updated structure?
+Do you know the format of the report?
+Have you taken any security training?
+Are you following all the security rules?
+Would you also like to see it on a quarterly basis?
+Will you be deleting the unnecessary account?
+Have you ever seen a similar case?
+Can you check if there's anything missing.
+Will you only be briefed separately by people who have a reason to know?
+Did you brief the team on the new rules?
+Would you be able to introduce me to your new team lead?
+Did you receive the signed contract?
+Could you please share your server usage plan with me?
+Do you think it will have an impact on performance?
+Would you like to add more details?
+Did you receive it?
+Can you double-check the recipient for me?
+Would you like to adjust the order?
+Do you have time?
+Can you spare some time for me?
+What time do you think the demonstration will take place?
+Did you receive the notification?
+Which company do you think is the best?
+How would you like to implement it?
+What kind of tasks would you like to take on?
+What format do you find most comfortable to watch?
+Did you review the meeting minutes from yesterday?
+Would you like to narrow down your job responsibilities?
+What's your salary range looking like?
+Can you handle it within your budget?
+Do you know the budget limit?
+Could you explain the reason behind the change in the budget proposal?
+Do you need the previous version?
+Do you think we need to discuss something today?
+Can you send the contract by today?
+Do you have time this afternoon?
+Can we schedule a brief meeting for this afternoon?
+Do you agree to increase online meetings?
+What made you apply to our company?
+Would you mind starting with some lighter tasks?
+Would you like to take the priority interview first?
+Do you agree to adjust the priorities?
+Would you like to retest it in a production environment?
+Have you met this customer in person?
+Do you think this training will be helpful to our team?
+Would you like to include this feature in this quarter?
+Did you brief your supervisor on this?
+Do you agree to introduce this tool?
+Did you ask the IT team about this issue?
+Will you approve this change?
+Could you explain this part again?
+Do you understand this design?
+Do you think this number is realistic?
+Do you think this order is okay?
+Do you agree with this proposal?
+Do you agree with this proposal?
+Do you think there's something wrong with this?
+How would you like to address this issue?
+Can you take care of this first?
+Do you agree to this schedule?
+Will you also be sending this information to the sales team?
+Do you agree to this proposal?
+Do you think you can hire this candidate?
+What are your strengths in this role?
+Would you like to continue with this recruitment process?
+Do you want to keep this format?
+Do you have to be here for this meeting?
+When can I expect to hear the results of this interview?
+Do you have to attend this interview?
+Are you working from home this week?
+Did you check your previous email?
+Have you received the handover documents?
+Have you reviewed the handover materials?
+Have you checked on the progress of the intern?
+Do you think you can adjust the schedule?
+Can you also get in touch with me again by phone?
+Do you want more access?
+Did you receive the connection information?
+Do you have any more documents I need to prepare?
+Do you think there are features that should be excluded?
+Do you have the latest version of the organization's system?
+Do you think you could be a bit more aggressive?
+Are you seeing the same system as I am right now?
+Will you let the staff know about this?
+Could you tell me about the current situation?
+Can you provide a reference person?
+Can you provide me with some reference materials?
+Will you be incorporating that into the job posting?
+Have you finished checking off the list?
+Do you only need the latest files?
+Could you please tell me who has the final say in this matter?
+Will you be assigning any additional tasks?
+Do you think you need some extra help?
+Do you think we need additional staff?
+Do you need any additional staff?
+Are there any other graphs you'd like to see?
+Do you have any other questions?
+Do you have any additional questions you'd like to add?
+Do you have anyone you'd like to add?
+Did you submit your daily report?
+Did you prepare the necessary documents for your trip?
+Have you checked your calendar?
+You just need to review the case.
+Can you add another portfolio to your submission?
+You can just add a filter and use it.
+Would you be able to decide on the priority of the solution?
+Would you be willing to share it with the PR team as well?
+Can you also do a video interview?
+Would you be able to take minutes for the meeting?
+Please update your dashboard.
+The CEO places a high value on building strong relationships with our customers.
+What feedback did you receive on that achievement?
+The representative instructed us to standardize the document format.
+The CEO has agreed to receive performance reports on a monthly basis.
+The CEO is currently reviewing the hiring of new staff.
+The CEO signed the contract yesterday.
+The CEO would like to trim the budget a bit.
+The CEO will be visiting the office this afternoon.
+The CEO advised us to identify potential risks beforehand.
+How do you see this matter, Mr. President?
+The CEO would like to revisit the direction of this project.
+The CEO emphasized the importance of achieving this quarter's target.
+The CEO praised this achievement.
+The CEO will be visiting the headquarters this week.
+Get your demo environment set up.
+Please review the design guide again.
+Has the design team also prepared a mobile version?
+Can the design team provide us with a new design concept today?
+Did the design team incorporate all the revisions?
+The design team sent three different drafts.
+The design team sent us a preview image today.
+Did the design team consult with an external agency?
+Can the design team adhere to the color guide?
+Please try logging in.
+Please save the report as a PDF and upload it.
+The marketing team requested a brief introduction for social media.
+The marketing team specifically requested that we adhere to the design guidelines.
+The marketing team is asking to see the campaign results right away.
+The marketing team would like to bring forward the campaign schedule.
+Please write your email subject in a clear and concise way.
+Please write the email subject in a clear and concise way.
+Send an email.
+Send the email immediately.
+Please check your email.
+Please provide a detailed account of your thoughts on the interview.
+Can we reschedule the interview?
+Please inform the applicant of the interview schedule.
+Please fill out the interview evaluation form.
+Can you let me know when the next step is?
+Do you think my resume needs some work?
+Could you elaborate on the tasks I'll be responsible for?
+Do you think I'm a good fit for the position I applied for?
+Could you give us a brief overview of the team's atmosphere?
+Before the interview, make sure to review your resume carefully.
+Have you ever used our product before?
+Please rename the document to conform to the rules.
+Please record the person who reviewed the document.
+Please approve the document.
+Save the document in English as well.
+Please also write the document in English.
+Please correct all the typos in the document.
+If you encounter any issues, please report them to me right away.
+If you think you'll be running late for the meeting, please let me know in advance.
+Has Mr. Park logged into the new system yet?
+Did Mr. Park share the outcome of yesterday's meeting with you?
+Can Mr. Park handle this on his own?
+Did Mr. Park check this file?
+Has Mr. Park submitted his business trip report?
+Manager Park will be happy to show the new person around.
+Manager Park is overseeing this project.
+Manager Park coordinated the schedule with the HR team.
+Is Manager Park in the meeting room at the moment?
+Manager Park moved the meeting to the afternoon.
+Mr. Park still hasn't sent the data we requested yesterday.
+The manager handed over the contract to the legal team.
+Could you please send me the presentation materials in advance.
+Please check your itinerary.
+Please confirm the deployment date.
+Make sure to back up your files before deploying.
+Please make sure to test it thoroughly before deployment.
+Run a test before deployment.
+Please list the version information in the table.
+The legal team asked about the timing of the contract extension.
+The legal team has requested the original contract document again.
+The legal team requested that you sign the contract.
+The legal team says the signature is missing.
+Did the legal team say they'd send the revised version by today?
+Please update your schedule on the calendar.
+Please notify the team members of the updated schedule.
+Please send the report as a PDF.
+Please summarize the report briefly.
+Please share the report.
+Please send the report by the end of today.
+Please write a report.
+Please write your report in a standard format.
+Please follow the security regulations.
+Please follow the security regulations.
+If you've lost your security token, please report it immediately.
+Please change your password for security purposes.
+Please bring your security card with you.
+The security team advised us to change our passwords on a regular basis.
+The security team plans to block external link sharing.
+The security team has restricted the use of external storage devices.
+The manager instructed us to accommodate the customer's request as much as possible.
+Did the manager also ask you to discuss with the other team?
+The manager instructed us to implement it as a pilot project first.
+The manager instructed us to simplify the reporting system.
+Did the manager ask you to change the format of the report?
+The manager told me to weigh the cost against the benefits.
+The manager is re-examining the budget.
+How much of the budget did the manager ask you to cut?
+Why did you postpone the meeting?
+Did the manager give you permission to use an external company?
+Are you satisfied with our performance?
+Did the manager hear our team's opinions?
+When did the manager tell us to finish by?
+Did the manager say it's okay with this direction?
+Did the manager ask you to submit this matter by tomorrow?
+Did the manager say he would decide on this matter today?
+Who did the manager ask to share this plan with?
+The manager mentioned that the schedule is quite tight.
+The manager is currently reviewing the possibility of bringing in additional staff.
+Please delete any unnecessary files.
+Please change your password.
+Please change your password regularly.
+Please update your emergency contact information.
+Please recalculate the costs.
+Please organize and submit your expense receipts.
+Handle the expenses.
+Please update the cost code.
+Please apply for the necessary supplies.
+Please submit a report on the incident.
+Post a notice on the company bulletin board.
+Please respond through our internal messaging system.
+Please make sure to lock the office door.
+Please send me the usage details.
+Please return your employee ID.
+Please provide a detailed explanation.
+Please also attach a photo.
+Please submit a post-mortem report.
+Please provide the new employee with the necessary equipment.
+Try out the new template.
+Take a look at the new tool manual.
+Take a look at the new process.
+Please use the new format.
+Could you please let me know the results of the document screening by the end of today.
+Please double-check the documents.
+Please check the documents.
+Please scan your signature and upload it.
+Please add your signature.
+Please sign and return it.
+Please check the server status.
+Please report the results of the server check.
+Please write and send a cover letter.
+Please reflect the changes as soon as possible.
+Please send the revised version again.
+Please send the slide materials before the meeting begins.
+Once approved, please proceed with the action right away.
+Please submit your time log.
+Who is monitoring the system?
+Is the system the same on mobile as well?
+Why does the system always seem to be slow in the morning?
+Can the system be accessed from outside?
+The system will be temporarily shut down during maintenance.
+The system is scheduled to be upgraded over the weekend.
+The system is currently functioning normally.
+Is the system still malfunctioning?
+Please submit your draft.
+Could you create a demo video for me first?
+Could you show the demonstration video to the team.
+Please create a new account and let me know.
+The new employees attended the company introduction session today.
+Which design do you like best?
+Please keep the team informed of the update details.
+Please keep a work log.
+Please print out the work instructions.
+Could you please schedule a time that works for you.
+Have you taken a look at our customer service guide?
+What do you think is the best way to handle shift changes?
+Have you checked if it's eligible for replacement?
+What do you think about that decision?
+Will you be able to prepare on time?
+Please write down the goals you're determined to achieve.
+Who do you think would make a good mentor?
+Please update us every morning.
+You absolutely have to be there.
+Have you prepared your presentation?
+Have you checked the updated line?
+Have you checked the updated content?
+Have you checked the updated salary table?
+Which market do you think came first?
+How much do you think is a reasonable amount?
+What kind of task do you think is suitable for you?
+What criteria do you think is best for dividing things?
+What kind of tasks would you like to be assigned to?
+What kind of automation do you think is needed?
+What tools do you like to use?
+What can you cut back on?
+Have you left a record of your work on the wiki?
+Will you be able to make it to work on time?
+Are you satisfied with the frequency of our meetings?
+Please confirm the extendable date.
+Please attach your receipt.
+The sales team asked me to show them a demo at the customer meeting.
+The sales team asked us to provide the event materials in advance for next month's event.
+The sales team said that this month's target is a bit ambitious.
+The sales team also asks for a job posting.
+Please respond by the end of today.
+Please respond by the end of today.
+Please re-send the corrected version.
+Please prepare for the afternoon meeting.
+Please let me know when it's complete.
+Please stop sharing externally.
+Our representative is only available this afternoon.
+Our department needs to cut costs next month.
+Will our department be hiring more staff next month?
+Our department will be relocating next month.
+Our department head would like to wrap up all the meetings for this week.
+Our department head would like to receive a daily update on the tasks that are running behind schedule.
+Our manager would like to receive a report on the customer's visit.
+Our manager has suggested that we start reducing remote work from the next quarter.
+We'll make sure to post the announcement to everyone on the team.
+Our team will submit our feedback by tomorrow.
+Our team will be entering the testing phase starting tomorrow.
+Who will be handling customer service for our team?
+Can we get some help from other departments?
+Our team will be visiting the client next week.
+Will our team be able to meet the deadline?
+Our team will standardize the naming conventions for documents.
+If we encounter any issues, we'll post them in the group chat right away.
+What's our scope or what's within our area of responsibility?
+We'll reorganize our team's tasks.
+Do we have to put in some extra hours tonight?
+Will our team be able to deliver the results by today?
+Our team will only take consultation calls in the morning.
+Our team will only receive external emails through this account.
+Can we use an external company for our team?
+Do you think it's a good idea for our team to outsource?
+Should our team prioritize developing this feature?
+How do we break down and tackle this issue as a team?
+Our team will give top priority to addressing this issue.
+Would it be better for our team to have two people work on this together?
+Can our team prepare a demo by the end of this month?
+Our team has exceeded its quarterly targets.
+We're having a team dinner this Friday.
+Will we be working late again this week?
+Our team has decided to hold a performance presentation this time.
+Our team will keep a daily record of our progress.
+Should we also create a report?
+Our team will document the test results.
+Can we secure additional testing personnel for our team?
+Would it be better for our team to hold our meetings online?
+Our team leader suggested that we tone down our customer response a bit.
+Our team leader suggested that we assign a dedicated team member to each customer.
+Our team leader suggested that we standardize the document titles.
+Our team leader emphasized the importance of documenting everything.
+Our team leader suggested that we pair a new developer with a mentor.
+Our team leader suggested that we hire more interns for the second half of this year.
+Our team leader suggested that we revisit and set new goals for this year.
+Our team leader asked us to submit a demo video by the end of this week.
+Our team leader suggested we hold meetings once a week instead of more frequently.
+Our team leader suggested that we switch to a new collaboration tool.
+Does our company cover education costs?
+Our company is gearing up for a major expansion into the international market next year.
+From tomorrow, our company will be starting work 30 minutes earlier.
+Our company has shortened the laptop replacement cycle.
+Our company will be conducting a training session for interviewers next month.
+Our company will be undergoing a reorganization next month.
+Our company has decided to give out practice assignments during the interview.
+Does our company plan to disclose its performance-based pay standards?
+Does our company pay overtime pay?
+This year, our company has set new KPIs.
+Will our company be hiring interns again this year?
+Will our company be revising its remote work policy?
+Are we considering applying this project to international markets as well?
+Our company is scheduled to undergo an external audit this month.
+Our company has recently revamped its welfare system.
+Does our company have a policy on remote work?
+We need to run the QA process again.
+Do we need to resolve customer complaints within a day?
+Should we keep customer information secure?
+We will hold our customer meetings online.
+We need to narrow down the scope that our clients are looking for.
+Can we meet the deadline for the development?
+Can we make any adjustments to that condition?
+Do we need to submit the draft by Friday?
+Do we need to submit the demo video by tomorrow?
+Can we release the next version ahead of schedule?
+Are we gearing up for the next quarter's hiring process?
+Should we anticipate the risks beforehand?
+We need to retrain on security protocols.
+We need to get approval for the costs first.
+Should we be collecting user feedback?
+We need to follow the new rules.
+We will be conducting a performance review next week.
+Are we planning to introduce a new tool?
+How much can we adjust it?
+Should we standardize our work processes?
+We need to trim our budget a bit.
+We'll wrap up the interviews for our new recruits today.
+Do we need to make a decision by today?
+We need to gather our opinions by the end of today.
+We'll discuss it after the external meeting is over.
+Should we provide an official response on this matter?
+We need to revisit and adjust our goals for this quarter.
+We'll be conducting a code review this week.
+Should we clearly define our roles in this project?
+Should we investigate the cause of the delay?
+Do we need to submit our financial statements to the public?
+Do we hold a full meeting every month?
+We will rewrite the job description.
+We will announce the final successful candidates next week.
+Will we be checking in on team goals on a quarterly basis?
+We will share the evaluation results with all staff members.
+Are we currently understaffed?
+We have very little room for negotiation.
+Can we switch to a different collaboration tool?
+The operations team plans to implement a two-step login process.
+The operations team is planning to introduce a new monitoring tool.
+The operations team instructed us to create new employee accounts a day in advance.
+The operations team is looking to revamp their incident response process.
+The operations team has updated the format of incident reports.
+Please don't delete the original file.
+Please submit the original document.
+Please send me the original document.
+Please double-check this estimate.
+Does this contract require your approval?
+Can we extend this deadline?
+Who is responsible for the final approval on this document?
+Who should I show this document to first?
+This document should be stored in a secure folder.
+Do you also need this document in English?
+Can you finish reading this document by the end of today?
+This document is not allowed to be taken out of the country.
+Should I also share this document with the HR team?
+This document should only be used with the latest version.
+Take a look at this document.
+This report will be submitted directly to the management team.
+The report will be shared tomorrow morning.
+Should I submit this report directly to the department head?
+The report must be accurate in its numbers.
+Does this report just need numbers?
+Should this report be updated with the latest numbers?
+Can I attach a lot of files to this report?
+Should I send this report ahead of the meeting?
+Can I handle this myself?
+The schedule was changed at the customer's request.
+Has this schedule already been agreed upon with the customer?
+This schedule is coordinated with other departmental schedules.
+Does the other team know about this schedule?
+Any changes to this schedule must be announced in advance.
+Can we move this schedule to the morning?
+Can I change this schedule to the afternoon?
+Can this schedule be conducted entirely online?
+Is this schedule intended for a larger number of attendees?
+Can we proceed with this project without customer approval?
+Who is in charge of overseeing this project from start to finish?
+Does this project require a presentation?
+Which department is ultimately responsible for making the final decision on this project?
+Will this project fit within our budget?
+Where can I get funding for this project?
+This project is taking longer than expected.
+The testing for this project will be completed by the end of today.
+What's taking so long to get this project approved?
+Can we outsource this project?
+Should we be jointly responsible for this project?
+What are the potential risks or hazards associated with this project?
+This project needs to be up and running by the end of this month.
+Will there be any further changes to the project schedule?
+This project requires additional test personnel.
+Send the email right away.
+Take a look at the images after downloading them.
+Let's reset our priorities for this week.
+Has the relocation team finalized the seating arrangements?
+Register your issue with the tracker immediately.
+Has the HR team shared their training plan with you?
+Has the HR team finalized the interview schedule?
+The HR team has created a new template for interviewer feedback.
+The HR team has updated the salary tables.
+Can the HR team send out offer letters?
+The HR team is asking for the status of this year's training completion.
+Can the HR team adjust the start date of new hires?
+Did the HR team mention that they need additional information related to the hiring process?
+Has the hiring schedule been finalized?
+The HR team has extended an offer to the final candidate.
+Has the HR team received all the candidate information?
+The HR team asked me to provide a detailed evaluation of the candidates.
+Please update your schedule.
+Please add the schedule to your calendar.
+How did the management team evaluate that indicator?
+Please submit your job application documents.
+Please send the data by today.
+Gather your data into a single folder.
+You're free to get up from your seat.
+Please keep a record of your working hours.
+Please log out once you're finished with your work.
+To rent the equipment, please make a reservation in advance.
+Please inspect the equipment.
+Please check the inventory quantity.
+The finance team asked me to get approval up to the second level.
+The finance team claims that the expense code is incorrect.
+The finance team requested the original receipt.
+The finance team specifically instructed me to note the reasons for the budget overrun.
+The finance team is asking for more documentation to support the card transactions.
+Please check the restart notice.
+I'm planning to conduct the first round of interviews online.
+I'll create the additional case that QA has requested.
+I've incorporated all the feedback from the QA team.
+I've organized access permissions for the development server.
+I think the development schedule is running behind schedule.
+I've reviewed the estimate again.
+I left a response to the customer's inquiry.
+I'll respond to customer inquiries right away.
+I'll brief the team on the outcome of our customer meeting.
+I'll review and finalize the agenda for our customer meeting.
+I'll summarize the customer's concerns and share them with you.
+I've compiled and posted the customer complaints.
+I'll try contacting the customer again.
+I'd like to discuss a long-term contract with our client.
+I'll get in touch with the customer right away.
+I've compiled the security items that the customer requested.
+I'll be sharing the draft with the team soon.
+I can provide you with the attendance rates in numerical form.
+I've compiled all the urgent requests in one place.
+I've checked the remaining budget.
+My work schedule is flexible tomorrow.
+I'll have the estimate ready by tomorrow.
+I'll update the test case by tomorrow.
+I'll be out of the office a lot starting tomorrow.
+I've selected the features that will be included in the next version.
+I'd like to fill the position in the next quarter.
+I'll be conducting a technical interview with the candidate next Wednesday.
+I'll start making preparations for my trip next week.
+I've taken a leave of absence for next week.
+I plan to take my annual leave next week.
+I've already entered all my plans up to next month.
+I'll replace the person in charge by the end of today.
+I checked with the person in charge to confirm.
+I'm planning to make some adjustments to the database structure.
+I've finalized the schedule with the design team.
+I've broken down the risk factors into a table.
+Unfortunately, due to a scheduling conflict, only one person can attend the interview.
+I've sorted out the interview schedules that conflict with each other.
+I've made a list of questions for the interview.
+I've formatted the document to match our company's standards.
+I also wrote the document in English.
+I created a video to reproduce the issue and sent it to you.
+I've identified the issue and am taking steps to address it.
+I've sent out the meeting link to everyone.
+I rearranged the presentation order.
+I've included the company logo in the presentation materials.
+I've organized the presentation materials in a way that's easy to follow.
+I just checked the server log.
+I just posted the updated version.
+I just uploaded the revised file.
+I shared the pre-deployment checklist with everyone.
+I'd like to standardize the report format.
+I'll submit the report by this afternoon.
+I've also prepared a notification email for those who didn't pass.
+I re-read the company's internal rules.
+I announced it through the company's internal messaging system.
+I requested access to the company's internal system.
+I'll post the new policy in both Korean and English.
+I explained the job to the new intern.
+I'll explain the team structure to the new team members.
+I shared the updated schedule with the department.
+I can show you the performance test results by comparing them.
+I've incorporated all the changes.
+I'll test the new feature first.
+I'm currently preparing a presentation on our new service.
+I've written a welcome guide for new employees.
+I created an account for the new employee.
+I'd like to join the new project.
+I've identified the strengths of our new team members.
+I'll recreate it in a version that's more user-friendly for practitioners.
+I sent an apology email to the customer yesterday.
+I worked late into the night yesterday.
+I checked all the materials you asked for yesterday.
+I was told that the work I requested yesterday is still not finished.
+I backed up the work I did yesterday.
+I documented the ideas that came out of yesterday's meeting.
+I've been taking over a new job since yesterday.
+I will submit a weekly sales report.
+I've compiled the sales requirements.
+I worked with the sales team to adjust the price.
+I've updated the budget plan.
+I've already backed up my old data.
+I've updated the customer response manual today.
+I'll be handling the presentation on education today.
+I need to submit my report today.
+I'd like to wrap up the agenda for today.
+I'll post the payment by the end of today.
+I'll let you know the results by the end of today.
+I'll submit the approval by the end of today.
+I submitted my budget request today.
+I was a bit late to work this morning.
+I'll be focusing on researching the data today.
+I'm working from home today.
+I sent the contract to the client today.
+I've booked a team lunch for today.
+I'll be chairing the team meeting today.
+I'll wrap up the handover of my work by the end of today.
+I've finished responding to all my emails this morning.
+I had two meetings scheduled for the morning.
+I've corrected all the typos.
+I'll touch base with the development team this afternoon.
+I'd like to rehearse the presentation that's scheduled for this afternoon.
+I broke down the onboarding schedule by day.
+I had shared the meeting schedule with you in advance.
+I compared the quotes from external companies.
+I've compiled a report summarizing our department's performance.
+I've summarized the pros and cons of our product.
+I'll reset our team's goals.
+I've compiled a list of the skills our team needs.
+I remotely connected to the system.
+I'd like to clearly define my decision-making authority.
+I have finally approved this contract.
+I think it's best to implement this feature first.
+I'll pass this issue on to another department.
+I think we need to tackle this issue first.
+I find it challenging to handle this task on my own.
+I'll re-evaluate the priorities for this task.
+I'll prioritize this issue.
+I'll submit this data to the CEO.
+I'll share this information with the team.
+I'm really looking forward to attending this training.
+I'm aware of the sales target for this month.
+I applied for the training this month.
+I've projected our sales for this quarter.
+I've included both the table and the graph in the analysis results.
+I'll explain this agenda at tomorrow's meeting.
+I'll move this agenda to next week's meeting.
+I'll wrap things up by the end of this week.
+I'm scheduled to visit the customer company this week.
+I'd like to do a team-building activity this week.
+I sent an inquiry email to the HR team.
+I've compiled a list of tasks for the interns.
+I'll deploy it with the default settings for now.
+I've been conservative with my budget from the start.
+I've created a realistic schedule to start with.
+I just sent out a shared schedule via email.
+I will notify all staff members of the schedule changes.
+I've sent you an email with the updated schedule.
+I have a lot on my plate, so I really need to prioritize.
+I can explain the reason for the delay in our schedule.
+I'll check it as soon as I get back to my seat.
+I'll head to the conference room in a bit.
+I've organized my long-term tasks into a list.
+I requested that the finance team handle the expenses.
+I've taken care of the request that was passed on to me.
+I'm aware that the deadline is tomorrow.
+I grouped the major errors into several categories.
+I'm currently sorting out the customer's requests.
+I can create a demo with the current version.
+I've assigned the issue to the relevant person.
+I'm currently standing outside.
+I'm currently checking the test server.
+I attended a training session last week and summarized the key points.
+I've made the indicator dashboard more user-friendly.
+I'll manage the final document under its version name.
+I've scheduled a client meeting for 3 p.m.
+I've compiled the client's requirements.
+I've compiled a record of communication history for each client.
+I shared the test results in a spreadsheet.
+I've created the test results in Excel.
+I've just set up a new test server.
+I'll check it out first in a test environment.
+I'll upload the results before I head out.
+I'll return the equipment before I head home.
+I've been tracking our team's performance on a monthly basis.
+I'll compile the team's budget usage reports.
+I've provided a more detailed description of the position.
+I'll summarize the project's risk factors and post them.
+I'll be writing a project completion report.
+I've reorganized the project folder structure.
+I need to synchronize my schedule with the overseas office.
+I requested a contract extension from our partner company.
+I'll be in touch with the partner company again.
+I'll be using the company laptop until tomorrow.
+I've gone over the company policy again.
+I've updated the company profile to the latest version.
+I'll summarize the expenses for the company dinner and submit them to the finance team.
+I've broken down the meeting agenda into three key points.
+I'd rather not overcomplicate the meeting topic.
+I've updated the meeting attendee list.
+I tried to keep the minutes as brief as possible.
+I've booked the conference room for an hour.
+I'm aware that we're short on meeting rooms.
+I also drafted the meeting minutes in English.
+I've reviewed the candidate's portfolio.
+I've posted the list of people on vacation.
+Please respond to the phone call.
+Please request access.
+Please schedule a regular maintenance check.
+Please check the title rules.
+Clean up duplicate files.
+Please post important notifications to the team channel.
+Please highlight the key points.
+Please upload the supporting documents.
+Please report any tardiness.
+Please handle the current inquiries first.
+Please ask for help.
+Please upload your portfolio.
+Have you done any research on our company?
+What role did you hold at your previous company?
+The support team would like to modify the nighttime response protocol.
+The support team is working to speed up ticket processing.
+Keep a record of your progress.
+Please share your progress with me daily.
+Could you please let me know if you can attend.
+Please send the final list of attendees.
+Could you please let me know the outcome of the processing.
+Please submit your attendance records.
+Please check your attendance records.
+Please keep your messenger open as soon as you arrive at work.
+Please post the printouts on the bulletin board.
+If you need any printed materials, please feel free to drop by the office.
+Please submit your travel report.
+Subscribe to our calendar.
+Please send a completion email to the client.
+Please record the test results.
+Add more test cases to the mix.
+Add a test case.
+Please verify the test case.
+Please run the test again.
+Do the team members understand this policy?
+Did the team members agree to the schedule change?
+Please also share the same information with your team members.
+The team leader is waiting for the results to be reported.
+The team leader instructed us to incorporate customer feedback immediately.
+Did the team leader speak with the customer?
+Will you be contacting the customer directly?
+Will the team leader be presenting tomorrow?
+The team leader is heading out on a business trip tomorrow.
+The team leader suggested that we simplify the design.
+What format do you prefer, sir?
+The team leader checked all the emails yesterday.
+The team leader mentioned that he's only available for consultations this afternoon.
+Can you tell me why the schedule was delayed?
+Have you had a chance to review our report?
+Have you taken a look at our schedule?
+Does the team leader have any plans to expand our team?
+The team leader is waiting for us to make the first move and make a proposal.
+The team leader will submit this report to the CEO.
+The team leader is expecting results at this level.
+The team leader has approved this agenda.
+Who will you be delegating this task to?
+Did the team leader ask if this schedule is feasible?
+Did the team leader ask for this data in English as well?
+Will the team leader be looking at this data today?
+The team leader would like me to take care of this matter.
+The team leader instructed us to wrap up this case as quickly as possible.
+The team leader has scheduled three meetings for this week.
+The team leader is taking a close look at this project.
+The team leader can add one more person to the team.
+The team leader doesn't want to change the schedule.
+The team leader asked me to simplify the data.
+Is the team leader available to talk right now?
+Please rename the file to conform to the rule.
+Please rename the file to conform to the naming convention.
+Please upload the file to the shared folder.
+Upload the file to the shared folder.
+Please re-download the file and double-check it.
+Please attach the file.
+Please check the file.
+Please don't share your password with anyone outside.
+Please create a poster file and send it over.
+Could you take a look at the presentation.
+Please document the process in the manual.
+Please update the project plan to the latest version.
+Please update the project plan.
+Please update the project schedule.
+Please update the project status daily.
+Please tidy up your project folder.
+Please update your profile to the latest version.
+Please print out the document and bring it to the meeting.
+Feel free to reach out to me on messenger if you need anything.
+If needed, adjust the priorities first.
+Please create and distribute the event materials.
+Please post the status report.
+Keep your status board up to date.
+If you need any help or assistance, please don't hesitate to ask.
+Let's get started with the video conference.
+Please leave your feedback after reviewing.
+The accounting team informed us that the receipt is missing.
+Please send me the membership fee statement.
+Please make sure to meet the deadline for your response.
+Could you please resend the meeting link.
+Please send me the meeting agenda in advance.
+Can we reschedule the meeting?
+Please add the meeting schedule to your calendar.
+Please send the action items after the meeting.
+Please review the meeting minutes.
+Please share the meeting minutes.
+Please take minutes.
+Share the meeting minutes on the team channel.
+Let's get started with the meeting.
+Please book the conference room first.
+Please book the conference room first.
+Please book a meeting room.
+Did the candidate request a meeting to discuss the treatment?
