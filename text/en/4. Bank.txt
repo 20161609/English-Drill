@@ -1,0 +1,1622 @@
+Can you help me with the ATM error?
+Can you pull up the transaction history for me right now?
+Can you please prevent the account from being automatically closed?
+Can you temporarily suspend my account?
+Can you change the account address for me now?
+Can you please confirm if there's a fee for closing the account?
+Would you mind switching to automatic payment for my utility bills?
+Would you mind changing it to a joint account?
+Can I keep my existing account?
+My card was locked because I entered the PIN incorrectly three times.
+I'd like to reactivate the payment approval text message service.
+I'd like to change my account password to a longer one.
+I'd like my passport number to be included on the account ownership certificate.
+I'd like to convert my account to a long-term savings plan.
+I'd like to return the money.
+I'd like to cancel one of them and get a refund.
+I've checked my account and found that someone has sent me money by mistake.
+I'd like to be able to share this account information with my spouse.
+I need to top up my account because my automatic transfer is scheduled for tomorrow.
+I plan to transfer my account to a different bank.
+I'd like to set up a regular transfer of a fixed amount to a different account every month.
+I haven't received the verification code that was sent to me via text.
+I came to collect the money my parents sent me.
+I'd like to use a different form of identification instead of my lost passport.
+I'd like to know where I can find an ATM with no fees.
+I'd like to know the check-out date.
+I'm looking for a product that won't affect my credit score.
+I discovered that I had made a double charge on my card yesterday.
+I'd like to receive the English transaction records.
+I'd like to know where I can check the interest rates on my savings account.
+I'd like to know the account number I used to use.
+I need to submit my pay stub today.
+I need to send cash urgently today.
+I'd like to use only the remittance that's completed by today.
+I'd like to check where the remittance I received today came from.
+I'd like to handle it in cash only today.
+I have a receipt for the wire transfer I received from a foreign bank.
+I'd like to convert all my foreign currency balances to Canadian dollars.
+I'd like to minimize the foreign exchange remittance fees as much as possible.
+I'd like to set up automatic rent payments.
+I need to submit the letter from the bank to my employer.
+I'd like this account to remain open throughout my stay.
+I'd like to temporarily suspend this account.
+I'm planning to put this money into a short-term deposit account.
+I'd like to confirm that my online application was received correctly.
+I'd like to temporarily pause the automatic premium payments.
+I'd like to start using the automatic savings feature from this month.
+I'm trying to show you the error that's been happening with my bank app.
+I'm looking to make a transaction that requires third-party verification.
+I'd like to check if there's a slightly higher interest rate available.
+I only need the transaction records from the past three months.
+I'd like to send the deposit to the landlord from here.
+I think my check has gone missing, so I'd like to cancel it.
+I'd like to have my card reissued due to loss.
+I'd like to prevent my card from being automatically converted to international payment.
+I'd like to set up an account to receive a government grant from Canada.
+I need to print out the deposit history from my Korean account and submit it.
+I'd like to know the current balance exactly.
+I'd like to deposit the check that was sent to me in the company's name.
+Can you transfer it to another bank today?
+Can you turn the payment approval text service back on for me?
+Can you print out a copy of your account ownership certificate right away?
+Can you also include your passport number on the account ownership certificate?
+Can you tell me how much the account maintenance fee is?
+Can you tell me how much the international transfer fee is?
+Can you check if your automatic bank transfer is set up correctly for tomorrow?
+Can you tell me what to do if I accidentally transfer money to someone else's account?
+Can you reschedule the loan repayment date to a different day?
+Can you also add a note to the monthly transfer to a different account?
+Can you turn off the text notification?
+Can you confirm if the deposit transfer will arrive on the same day?
+Can you confirm if the money your parents sent has been deposited into this account?
+Can you cancel all the lost checks and issue new ones?
+Can you block the lost check card immediately?
+Can you allow me to use my account with a different form of identification instead of my lost passport?
+Can you also set up a business account here?
+Can you re-register with your new signature?
+Can you send me a new checkbook to my home?
+Can you tell me where I can find an ATM with no fees?
+Can you explain the conditions under which there's no commission?
+Can you tell me when the check deposit will be processed?
+Can you tell me when the check can be withdrawn?
+Can I apply for a credit card here and get it approved immediately?
+Can you show me where you see the interest rates on the app screen?
+Can you look up the account number you used to use and write it down for me?
+Can you tell me which country the remittance from today came from?
+Can you set up the account you created today to be ready for use right away?
+Can you show me the details of the transfer you made today?
+Can you tell me the maximum amount I can deposit today without incurring a fee?
+Can you suggest a way to complete the remittance by the end of today?
+Can you sign up for online banking by today?
+Can you confirm that the transfer went to the correct account today?
+Can you let me know when I can use the money if I deposit it today?
+Can you confirm that you paid in cash today?
+Can you tell me how much I can exchange today?
+Can you confirm if we can just pay in cash today?
+Can you match the online application you submitted with the documents you're filling out here?
+Can you link the remittance receipt from abroad to my account?
+Can you exchange all your foreign currency for today's exchange rate?
+Could you possibly lower the foreign exchange remittance fee a bit?
+Can you issue a document for salary transfer here?
+Can you set the monthly rent automatic transfer amount to increase annually?
+Can you show me how to connect to the bank app?
+Can you check if the bank app error is related to an account issue?
+Can you write the letter that the bank issued in English?
+Can you tell me if this account is also available to non-residents?
+Before closing this account, can you transfer the remaining balance to another bank?
+Can you tell me if there's a fee for closing this account?
+Can you set up a deposit notification for this account?
+Can you transfer this money to a deposit account?
+Can you also send this letter via email?
+Can you check if there's any money deposited under this name?
+Can you recommend the highest interest rate product available at this point?
+Can you add someone else as a co-owner to this account?
+Can you set up automatic transfers to this account?
+Can you also send me this month's invoice via email?
+Can you please verify and cancel the duplicate payment for me?
+Can you check the system to see why the verification code isn't being sent to you?
+Can you reset my internet banking password for me?
+Can you please make sure the automatic payment for the insurance premium doesn't skip this month?
+Can you set a different amount for your automatic savings each month?
+Can you return the money that was mistakenly deposited to the person who originally sent it?
+Will you let me know when the government subsidy arrives?
+Can you remind me of my account number again?
+Can you tell me why my account is locked?
+Can you recheck my mortgage terms for me?
+Can you tell me if it's possible to grant access only to my spouse?
+Can you change my password to something more secure?
+Can you open an account with just my ID?
+Can you confirm if my name is registered correctly?
+Can you update my address right away?
+Will you be able to keep this account active even after my stay is over?
+Can you tell me why my card was declined?
+Can you see why my card is locked right now?
+Can you block my card from being automatically accepted for international transactions?
+Can you tell me both my current balance and my available balance?
+Can you assist me in obtaining third-party certification right here and now?
+Can you link your debit card directly to the account I set up for you?
+Will you let me know by text when all the requests I made today are taken care of?
+Can you process the remittance I'm sending today right away?
+Can you confirm if I can deposit a large amount today?
+Can you tell me if I can get the same service at other locations in Ottawa as well?
+Can you temporarily suspend my account usage so I don't incur any fees?
+Can you check if I can cancel this transfer?
+Can you provide me with the SWIFT information I'll need when I send it to Korea?
+Can you provide me with a printout of your transaction history for the past three months in English?
+Can you tell me if I can change my credit card limit on the same day?
+Can you expedite the reissuance of my card with fast shipping?
+Can you also open an account in a different currency, not just Canadian dollars?
+Can you increase the daily transfer limit for me?
+Do you have any student account benefits available?
+Can you also print out the deposit history in English for the Korean account?
+Can you provide the necessary information when sending money to Korea?
+Can you show me how to send money to an overseas account?
+Can you walk me through the security procedures I need to follow when logging in from abroad?
+Can you set up this card to be usable abroad?
+Can you increase the cash withdrawal limit immediately?
+Can you deposit the company check into my personal account?
+Can you turn on the mobile banking notifications for me?
+Can I turn off text notifications?
+Would you also be able to include the names of your spouse and children?
+Did the money your parents sent arrive?
+Can you completely block my lost card?
+Can you change my password here?
+Can I also open a business account here?
+Would you be able to prepare the necessary documents for my new employer?
+Would you mind setting it to show the remittance note?
+Can you tell me how to avoid paying a fee?
+Can you explain the fee conditions?
+Can you deposit the check today, please?
+Can you reconnect the app to my account for me?
+Could you please print it out in English?
+Could you please let me know the deposit's maturity date?
+Would you be able to transfer the interest from my savings account to this one?
+Could you send me the content via email today?
+Can you check the remittance that came in today?
+Can you bump up the limit for today, please?
+Can you make online payments possible?
+Can you convert all the foreign currency to CAD for me?
+Can you confirm the automatic monthly rent payment?
+Can I use this account for submitting to the company?
+Can I keep this account for a long time?
+Can you please mark this account as a dedicated rental account?
+Can I only receive notifications via email?
+Can you increase the transfer limit for me?
+Can you show me how to register for internet banking?
+Can you set up automatic transfers starting from today?
+I'd like to report a malfunctioning ATM.
+I'd like to know if the ATM fee is different from the branch fee.
+Can I resolve the ATM issue here?
+I'd like to confirm the ATM error at the counter.
+I'd like to confirm the ATM error.
+I'd like to set a separate ATM withdrawal limit for my kids' accounts.
+The ATM deposit amount was entered incorrectly.
+I'd like to get a replacement ATM deposit receipt, please.
+I'd like to correct the ATM deposit error.
+I'd like to know when the ATM deposit will be processed.
+I'd like to adjust the ATM withdrawal limit on my app.
+I'd like to adjust the ATM withdrawal limit only at the branch.
+I'd like to increase my ATM limit a bit.
+I'm here to report an issue that occurred at the ATM.
+Can I resolve the issue that arose at the ATM here?
+I didn't get a receipt from the ATM.
+Can I also withdraw foreign currency from an ATM?
+I'd like to check the transaction history at the ATM at the branch.
+My card didn't come out of the ATM.
+My card got eaten up at the ATM.
+How much can I withdraw from an ATM at one time?
+I need to transfer to BC.
+I'd like to register a new OTP device.
+I'd like to report that I've lost my OTP.
+I'd like to check my account without having to enter my OTP.
+I'd like to be able to send money without having to use OTP.
+I'd like to make a deposit without an OTP.
+I'd like to be able to prevent overseas remittances without an OTP.
+I'd like to authenticate using OTP only.
+I'd like to temporarily disable OTP.
+I'd like to reissue my OTP.
+I'd like to switch my OTP to my phone.
+I'd like to use a four-digit PIN number.
+I'd like to increase the PIN number to six digits.
+I'd like to set up automatic transfers to my family account.
+I plan to send it to my family account quite frequently.
+I'd like to restrict transfers to only family accounts.
+I'd like to be able to view my family account on my app.
+Can I still get the money even if I come here instead of my family?
+Can I transfer the funds under my family name?
+I'd like to receive notifications for my family's card payments.
+I'd like to be the one to approve the family card payment.
+I'd like to file a report for my family card loss on my behalf.
+I'd like to receive my family card usage history in CSV format.
+I'd like to see my family card usage history on a monthly basis.
+I'd like to receive my family card usage history in English.
+I'd like to receive my family card usage history via email.
+I'd like to receive my family card usage history in Korean.
+I'd like to block online payments for my family card.
+I'd like to pay the reissue fee for my family card from this account.
+I'd like to set my own family credit card limit.
+I'd like to block my family card from making international transactions.
+I need a joint account with my family.
+I have a lot of family members to send money to.
+I'd like to set a transfer limit on my family's account.
+I'd like to set a withdrawal limit on my family's account.
+I'd also like to check my account under my family's name.
+Even if my family comes to pick up the money, can I still get it?
+I'm going to go collect the money that my family sent.
+I'd like my family to be able to check the account details online.
+Can I just have my family members view my account?
+Can I just have my family check my account?
+Can I set it up so that only my family can access my account?
+I don't have a family in Canada, can I still receive a remittance?
+I'd like to switch my personal account to a business account.
+I'd like to receive transaction details via API.
+I'd like to receive the transaction details in CSV format.
+I'd like to receive the transaction details in PDF format.
+I'd like to receive the transaction details in an Excel format.
+I'd like to print out my transaction history.
+I'd like to update the name of my trading partner.
+I'd like to add the trading partner as a favorite.
+Can I turn off transaction notifications?
+I'd like to receive transaction notifications via text message.
+I'd also like to receive transaction notifications through KakaoTalk or something similar.
+Why was I restricted from trading?
+I'd like to increase the transaction limit a bit.
+I'd like to receive a payment failure notification.
+I'd like to receive a payment cancellation notification.
+I'd like to know how long it takes to cancel the payment.
+I'd like to receive my account statement in English.
+I'd like to change the account holder's name.
+Could you please check if my account number has been updated?
+I'd like to confirm that my account number hasn't changed.
+I'd like to change my account nickname.
+Can I set my own account nickname?
+I need to reset my account password.
+I'd like to make my account password longer.
+I'd like to change my account password to make it even more secure.
+I'd like to change my account password.
+I'd like to set my account password to numbers only.
+Can I change my account password here?
+I need a way to view my account status at a glance.
+I'd like to re-register my account with a new signature.
+I'd like to obtain an English-language account ownership certificate.
+Can I get a certificate of account ownership in English?
+I need to submit a certificate of account ownership to the company.
+I'd like to obtain a certificate of account ownership.
+I'd like to receive account notifications in both email and text messages.
+I'd like to keep my account language set to Korean.
+I'd like to change the account name to English.
+I'd like to change the account name to English.
+Can I change the account name to English?
+Even if I change the account name to English, will the card still show the original name?
+I'd like to write my account name in English.
+I'd like to change the account name to the company name.
+I frequently transfer money to my account.
+I'd like to confirm that I'm the account holder.
+I'd like to open a new account.
+I'd like to avoid incurring account cancellation fees.
+Can you tell me if there's a fee for closing my account?
+I'd like to know if there's a fee for closing my account.
+I'd like to consult with you before closing my account.
+I'd like to know why my account is showing up as an international transaction.
+What do I need to do to unlock my account when it's locked?
+I need to find out why my account was suspended.
+I'd like to check if my account has ever been hacked.
+I'd like to reactivate my account right away.
+I'd like to close my account.
+Will I be charged a fee if I close my account?
+Can I transfer my remaining balance to another bank when I close my account?
+Can I transfer my remaining balance to another bank when I close my account?
+Can I open two accounts?
+Will I incur a higher fee if I create multiple accounts?
+Can I create multiple accounts in different currencies?
+I'd like to get some advice before I finalize my account.
+Can I temporarily block my account?
+I'd like to temporarily deactivate my account.
+Can I just close my account for a minute?
+I'd like to temporarily freeze my account.
+I'd like to temporarily deactivate my account.
+Can I temporarily deactivate my account and then reactivate it?
+I'd like to temporarily suspend my account.
+I'd like to set my account to long-term storage.
+Can I schedule a consultation before I close my account?
+I'd like to close my account online, rather than in person at a branch.
+Before closing my account, I'd like to transfer all the remaining balance.
+I'd like to keep my account open without incurring any fees.
+I'd like to open a new account.
+I'd like to close all my accounts except for one.
+I'd like to set up an account in the company's name.
+Can I receive it via email instead of the account number?
+Can I check my account number here?
+I'd like to compare the fees associated with each account.
+I'd like to lift all the restrictions on my account.
+I'd like to have two-factor authentication enabled when I log in to my account.
+I need to leave a note in the account.
+I'd like to add a two-step verification process to my account.
+I'd like to check if there are any unusual transactions on my account first.
+I'm concerned that there might have been some suspicious activity on my account.
+I'd like to know if there are any restrictions on my account.
+I'd like to know if the fee is automatically deducted from my account.
+Can I set up automatic currency exchange from my account?
+I'd like to withdraw cash from my account.
+I'd like to receive the customer center's phone number via text message.
+I'd like to have a separate account for my utility bills.
+I'd like to have my utility bills automatically deducted, except for the utility bill itself.
+I'd like to pay my utility bills at the bank.
+Can I set up automatic payments for my utility bills to be deposited into this account?
+I'd like to set up automatic payments for my utility bills through this account.
+Can I set up automatic payments for my utility bills?
+I'd like to check if my utility bills have been paid.
+I'd like to switch to a joint account.
+I'm looking to transfer ownership of the joint account to someone else.
+Can I change the other owner of the joint account?
+Can I transfer ownership of the joint account to someone else?
+I'd like to set up a joint account.
+Can I make it a joint account?
+I need a document that has been certified by a recognized authority.
+I'd like to cancel that payment, please.
+I'd like to know where the deposit got stuck.
+I'd like to cancel the automatic fee.
+I'd like to verify my pay stub at the bank.
+I'd like to set up this account to cover my dorm fees.
+Can I set up automatic payment for my dorm fees?
+Can I change my existing account address right here?
+I'd like to keep my existing account and add a new one.
+I'd like to keep my existing account.
+I'd like to keep my existing account and just open a new one.
+I'd like to add my spouse to my existing account.
+I need to update the address associated with my existing account.
+I'd like to transfer my existing automatic transfer to a different account.
+Can I transfer my existing direct debit to a different account?
+I'd like to reprint the payment receipt.
+I'd like to set up automatic transfers to start from next year.
+I'd like to add a description to the details.
+I'd like to receive the details in PDF format only.
+I'd like to request that you send the details via paper mail.
+I'd like to check the automatic transfer schedule for tomorrow beforehand.
+I was wondering if I could come back tomorrow.
+I'd like to see at a glance how my money is automatically transferred to another account.
+I'd like to lower the limit to other countries.
+Can I register a card from another country?
+Can I transfer funds to someone else's account?
+I'd like to save someone else's account as a favorite.
+Can I deposit someone else's check?
+I'd like to know if someone else can deposit on my behalf.
+I'd like to return the money that was sent to me by mistake.
+I'm trying to verify if someone else has deposited into my account.
+I'd like to know if someone else has accessed my account.
+I'd also like to transfer funds to another bank account.
+I'd like to transfer my other bank account to this one.
+I'd like to transfer my account to another bank.
+I need to transfer the money to a different bank.
+What information do I need to transfer to another bank?
+I need to transfer it to a different bank.
+How much is the transfer fee when I send it to another bank?
+What information do I need to transfer money to another bank?
+I plan to transfer the money to a different bank.
+I'd like to receive the same service at other locations as well.
+Can I get the same service at other locations as well?
+Can I get the same treatment at other locations as well?
+Will my account number remain the same even if I transfer it to a different branch?
+I'd like to transfer my reservation to a different location.
+I'd like to know what tasks can be completed on the same day.
+I still haven't opened a checking account.
+I'd like to know how long the waiting time is.
+I'd like to receive a notification about the loan payment due date.
+Can I get a loan consultation right now?
+I'd like to switch to a different loan repayment account.
+Can I change the repayment date for my loan?
+Can I change the repayment date for my loan?
+I'd like to see my loan repayment history.
+I'd like to postpone my loan repayment schedule.
+I'd like to adjust my loan repayment schedule.
+Can I set up automatic loan payments?
+I'd like to change the repayment date for my loan.
+I'd like to postpone the loan repayment date a bit.
+I'd like to receive the loan documents via email.
+I'd also like to receive the loan documents in paper form.
+I'd like to just turn on the loan notification.
+I'd like to have the loan interest automatically deducted, but not the entire amount.
+I'd like to recalculate the interest rate on the loan.
+I need to check if my loan and account are linked.
+I'd like to know the maximum amount I can borrow.
+I'd like to know if there's a fee for early repayment of the loan.
+I'm not looking to take out a loan right now.
+I'd like to restrict the transfer to only registered individuals.
+I'd like to block the login attempt after multiple failed attempts.
+I'd like to receive a text message when I fail to log in.
+I'd like to check my login history.
+Do I need to turn on two-factor authentication every time I log in?
+I'd like to know how to settle the debt if there's a negative balance.
+Can I still withdraw money with an expired card?
+I'd like to set up automatic monthly payments of the same amount.
+Can I view my monthly automatic transfer records?
+I'd like to see only the monthly card statements.
+I'd like to lower my mortgage interest rate.
+Can I switch all notifications to email only?
+I'd like to receive all notifications via email only.
+I'd like to block payments from countries I'm not familiar with.
+I haven't used mobile banking yet.
+I'm trying to reconnect this account with the mobile app.
+I'd like to handle it all through my mobile.
+I'd like to receive all mobile banking notifications.
+I'd like to keep mobile banking notifications on.
+Can you show me how to turn on mobile banking notifications?
+How do I set up mobile banking?
+I'd like to turn on mobile banking.
+Can I reset my mobile app password?
+I'd like to turn off all mobile app notifications.
+I'm not sure why I'm not getting authenticated on the mobile app.
+Can I adjust the limit on the mobile app?
+I'm using a mobile app for the first time.
+I'd like to know if it's possible to delete my account from my mobile.
+Can I deposit a check by taking a photo of it on my mobile?
+I'd like to submit my ID, which I took a photo of on my mobile.
+I'd like to know if I can cancel my card immediately on my mobile.
+I'd like to avoid incurring text message fees.
+Can I just receive app notifications instead of text messages?
+I'd like to turn off the text notification service.
+I'm going to temporarily disable my text notification service.
+I'd like to turn off the text notifications.
+I'd like to switch my text notifications to email notifications.
+Can I just turn off the text notifications for a bit?
+Can I temporarily turn off the text notifications?
+Can I open an additional US dollar account?
+Can I create a minor's account on their behalf?
+I'd like to prevent withdrawals from minor accounts.
+I'd like to add my spouse to the account.
+Can I add my spouse as a joint account holder?
+I'm planning to add my spouse as a joint owner.
+I'd like to set up a transaction limit for corporate accounts.
+I'd like to lift the restrictions on corporate account transactions.
+I'd like to forward the corporate account documents to someone else.
+I'd like to receive the corporate account documents via email.
+I'd like to collect the corporate account documents in person at the branch.
+I'd like to update the signature on our company's corporate account.
+I'd like to revoke access to the corporate account.
+I'd like to add access to the corporate account.
+I'd like to manage my corporate account separately.
+I'd like to view my corporate account on my personal app.
+I'd like to set up a separate notification for my corporate account.
+I'd like to know if it's possible to transfer funds from a corporate account to a personal account.
+I need to reset my OTP due to security concerns.
+I'd like to set the security level to the highest setting.
+I'd like to use it with a lower security level, if possible.
+I'd like to undergo a security check.
+I'd like to work without a security card.
+Can I transfer money without a security card?
+I need a temporary account to hold the deposit.
+I need to pay the deposit to the landlord.
+I'd like to receive a notification when the deposit is released.
+I plan to regularly send money to my parents' account.
+Can I set up a regular direct deposit for my parents?
+Can I set up a regular direct deposit for my parents?
+I came to collect the money my parents sent me.
+I'm looking for the money my parents sent me.
+I'd like to receive a statement every quarter.
+I'd like to know if there's a reissue fee after I report the loss.
+Will I still be able to deposit even after I report it lost?
+Can I report a lost item here?
+I'm here to report a lost item.
+Can I use the card I previously reported as lost again?
+Can I recover the card I reported lost?
+I've found the card I had reported missing.
+I'd like to block the card that I reported as lost.
+I'm going to cancel the card I reported as lost.
+Can I confirm if my lost card is really blocked?
+I don't remember my lost card number.
+Can I stop the card from being lost right away?
+I'd like to block the lost card completely.
+Can I stop the card from being lost now?
+Can I stop the card from being lost right now?
+Can I use the card again if I find it?
+I'd like to know if there are any payments made from the lost card.
+I'd like to resubmit my ID card remotely.
+Can I close my account remotely?
+I'd like to change my password hint.
+Can I still access my account even if I enter the wrong password?
+I'd like to reset my password.
+I'd like to be able to change my password more frequently.
+I've entered the wrong password three times.
+Can I change my password at the counter?
+I'd like to have a separate emergency fund account.
+I need proof of my account balance to apply for a visa.
+I'd like to learn about the process for handling fraudulent payments.
+I'd like to set up another separate account for business purposes.
+Can I also set up a business account?
+I'd also like to set up a business account.
+Can I open a business account here?
+I'd like to know if I can still have an account even without a business registration.
+I'd like to set up a separate business account.
+I'd like to hide the unused account.
+I'd like to have a different username and account name.
+Can I still apply for the new customer benefits even if I sign up now?
+I'd like to apply the new transfer limit today.
+I'm looking to apply for a new checkbook.
+I'd like to receive a new checkbook by mail.
+Can I ask you to send me a new checkbook to my home?
+I'd like to receive my new check card by mail.
+Can I use the new account I just created right away?
+Can I take advantage of the new customer benefits now?
+I'd like to receive notifications when a new device is logged in.
+I'd like to know if it's possible to delete the document issuance record.
+I'd like to know how much the document issuance fee is.
+I'd like to pay the document issuance fee directly from my account.
+I'd like to pay the document issuance fee by card.
+I'd like to pay the document issuance fee in cash.
+I'm wondering if it will still be issued even though I missed the deadline for submitting the documents.
+I'd like to receive the documents in PDF format, please.
+I'd like to delegate the documents to someone else.
+I'd like to print out multiple pages of documents at once.
+I'd like to issue the documents on a date other than today.
+I'd like to have the documents issued with a date from the beginning of this year.
+I'd like to receive the documents in multiple emails.
+I'd like to receive the documents in the standard government format.
+I'd like to submit the documents in the standard format required by the submission agency.
+I'd like to have the documents issued with a date of last month.
+I'd like to know what to do when the document can't be printed.
+I'd like to receive the documents in the school's standard format.
+I'd also like to send the documents to Korea.
+I'd like to receive the documents in the company's standard format.
+I'd like to have the amount listed in US dollars on the document.
+I'd like to display the amount in Korean won on the document.
+I'd like to have the amount listed in Canadian dollars on the document.
+I'd like to add today's date to the document.
+I'd like to redact the account number listed on the document.
+I'd like to make all the account numbers listed on the document visible.
+I'd like to update the address listed on the documents.
+I'd like to include a specific date in the document.
+I'd also like to include the exchange rate in the document.
+I'd like to change the signature image.
+I'd like to sign it myself.
+I'd like to insert a space between the surname and given name.
+I'd like to receive a separate breakdown for tax purposes.
+I'd like to know if I can submit it directly to the tax reporting agency.
+I'd like to use my tax refund account in Canada.
+I'd like to use my tax refund account in Korea.
+I'd like to receive my tax refund details in PDF format.
+I'd like to receive my tax refund in English.
+I'd like to receive my tax refund details as a receipt.
+I'd like to receive a notification when my tax refund arrives.
+I'd like to know when my tax refund will be deposited.
+I'm using a safety box.
+Can I get a small loan?
+Can I make the remittance note visible to the recipient?
+I'd like to make the remittance note visible.
+Can you see the remittance note for the recipient?
+Can I confirm if the remittance note is visible to the recipient?
+I'd like the remittance note to be visible to the recipient.
+I'm not sure what to put as the purpose of the transfer.
+I'd like to request that the remittance hold be lifted.
+I'd like to know if the reason for the transfer is required.
+I'd like to resubmit the reason for the transfer.
+I'd like to know if it's okay to write the reason for the remittance in Korean.
+I'd like to pre-register the recipient of the transfer.
+I'd like to know why the remittance documents were rejected.
+I'd like to know if the remittance documents have been received.
+I'd like to re-upload the remittance documents.
+I'd like to resubmit the remittance documents, which I need to reissue.
+I'd like to send the remittance documents via email.
+I'd like to submit the remittance documents at the counter.
+I'd like to send the remittance documents via fax.
+I'd like to correct the spelling of the remittance signature.
+I'd like to know how fast the transfer is.
+I'd like to know if the transfer fee is automatically deducted.
+I'd like to know if the transfer fee varies depending on the currency.
+I'd like to re-enter the recipient's name for the transfer.
+I'd like to get the remittance review processed quickly.
+I'd also like to include the recipient's address on the remittance receipt.
+I'd also like to include my address on the remittance receipt.
+I'd like to see the remittance processing status in real-time.
+I'd like to reapply for the remittance limit review.
+I'd like to set different remittance limits for each country.
+I'd like to know why the transfer was put on hold.
+I'd like to double-check if this is the correct account to transfer the funds to.
+I'm not sure what to choose when sending money.
+I'd like to block suspicious logins automatically.
+Can I see the conditions for waiving the fee?
+Can I receive the fee notice in Korean?
+I'd like to use a fee-free method.
+I'd like to know the conditions that qualify for a fee discount.
+I'd like to make sure that the fee doesn't get charged again.
+I need a notification before the fee is charged.
+I'd like to understand the exact terms of the fee.
+I'd like to know exactly when the fee will be applied.
+Can I get a breakdown of when the fees are applied?
+I'd like to know how much the commission will be.
+Can you tell me where I can find an ATM with no fees?
+I'd like to switch to a fee-free account.
+Can I switch to a fee-free account?
+I'd like to transfer my account to one with no fees.
+If there's a way to do it without any fees, I'd like to go with that.
+I'd like to know if there's a fee involved.
+I'd like to calculate the fees in advance.
+Is there a way to avoid paying a fee?
+I'd like to minimize the commission as much as possible.
+I'd like to confirm if the recipient's account is closed.
+I'd like to know if the recipient's account is inactive.
+I'm not aware of the recipient's bank information.
+I'd like to know the recipient's bank code, please.
+I'd like to know if I can contact the recipient's bank directly.
+I'd like to change the bank account for the recipient.
+I'd like to know if I need to enter the recipient's name only in English.
+I'd like to know if it's okay to enter the recipient's name in Korean.
+I'd like to confirm whether the recipient has received the money.
+I'd like to know the bank that issues the check.
+I'd like to know who issued the check.
+I'd like to report a lost check.
+I suspect that the check has been tampered with.
+I'd like to get the check authenticated first.
+I'm going to keep track of the dates when I can withdraw my check.
+Can I receive a text message about the available dates for check withdrawal?
+Can you tell me when I can withdraw my check?
+I'd like to know if there's a shortage of funds in the check.
+I'd like to know if there's a reissue fee for the check.
+I'd like to reopen the check payment process.
+I'd like to stop issuing checks.
+I'd like to temporarily block the payment of the check.
+I'd like to verify the authenticity of the check.
+I'd like to know when the check will be deposited.
+I'd like to know who sent the check.
+I'd like to know the process if I lose my check.
+I'd like to split the check into multiple payments.
+Can I deposit the check and get it back right away?
+I need to deposit the check.
+I'd like to request that the check be reissued in my name.
+I'd like to receive the check in a currency other than Canadian dollars.
+I'd like to use the cheque outside of Canada.
+I'd like to deposit the check after exchanging it.
+I'd like to make my hidden account visible again.
+I'd rather not leave a copy of my ID.
+I brought my ID with me here.
+I don't have my ID with me today, but can I bring it later?
+I only have one ID, is that okay?
+I'd like to know my credit score.
+I'd like to change my credit card payment account.
+Even if I change my credit card payment account today, will there be any fees?
+I'd like to transfer my credit card payment account to this account.
+Can I change my credit card payment account now?
+I'd like my credit card payments to be automatically deducted from my account.
+I'd like to change my credit card payment date.
+I'd like to temporarily reduce my credit card limit.
+I'd like to increase my credit limit to match my credit score.
+I'd like to increase my credit card limit.
+Do I qualify for a credit card?
+I'd like to receive only withdrawal notifications for my child's account.
+I'd like to take care of my child's account.
+I'd like to receive a deposit notification for my child's account.
+I'd like to set up automatic transfers to my child's account.
+I'd like to change my ID.
+I'd like to set my own notification time.
+I'd like to receive notifications only during the day.
+I'd like to receive notifications in both languages.
+Can I only receive notifications via text message?
+I'd rather not receive notifications at night.
+I'd like to receive notifications only through app push notifications.
+I'd like to receive notifications in English.
+I'd like to know if I can completely turn off notifications.
+Can I only receive notifications via email?
+I'd like to know if I can turn notifications on and off by category.
+I'd rather not receive notifications on weekends.
+I'd like to receive notifications in Korean.
+I'd prefer to receive notifications only via email, not on my phone.
+From now on, can I only receive email receipts?
+From now on, can I just request to receive email receipts instead?
+From now on, I'd like to receive only email receipts.
+From now on, I'll only be accepting email receipts.
+From now on, I'll only be making cash deposits at the counter.
+I'm getting overwhelmed by all the app notifications, so I'd like to turn them off.
+Can I use it at the counter without needing the app?
+Can you show me how to reconnect my app and account?
+I'm trying to reconnect my app and account.
+Can I see why my app and account got disconnected?
+What account would you recommend I open?
+What happened to the transfer yesterday?
+I'd like to verify the amount I transferred yesterday.
+My passport is almost expired.
+I'd like to match my passport name with my bank account name.
+Do I just need my passport?
+I'd like to conduct my business only with a passport.
+Can I exchange Canadian dollars here?
+Can I just transfer the money here in cash?
+I was wondering if I can exchange currency here.
+I'd like to turn off notifications while I'm traveling.
+I'd like to know if my contact information is still valid even if it's an international number.
+I'd like to receive the statement only at the end of the year.
+I'd like to receive the English specifications.
+Can I receive the English statement for up to six months?
+Can I get the English specifications right here?
+Can I get the English specification sheet now?
+I'd like to receive the English statement for just one month.
+I need to submit the English specifications to the company.
+I'd like to change the order of my English name.
+I'd like to double-check the spelling of my English name.
+Can I change my English name later?
+Can I get a copy of my English bank statement right here?
+I need a copy of my English bank statement.
+Can I get a certificate of account in English?
+I'd like to have my name written in English on the receipt.
+I'd like to reprint the receipt.
+I'd like to receive the receipt only as a photo.
+I'd like to receive the receipt in Korean.
+I'd prefer to be guided only through text messages since my English is limited.
+Can I still work online after business hours?
+I'd like to know the exact business hours.
+I need to submit bank documents to support my green card application.
+I'm currently waiting for my green card.
+I'd like to be notified a few days before my deposit matures.
+I'd like to just turn on the deposit maturity notifications.
+Can I receive a reminder about the maturity date of my deposit?
+Can I receive a text message about the expiration date of my deposit?
+I'd like to know the deposit's maturity date in advance.
+I'd like to check the maturity date of my deposit.
+I need to check the maturity date of my deposit.
+I'd like the interest from my savings to be deposited into this account.
+I'd like to know the interest rate on my savings account.
+Can I deposit the interest directly into this account?
+Can I set up this account to receive my interest directly into it?
+I'd like to receive the interest on my savings in this account.
+I'd like to request that you transfer the interest on my deposit.
+Can I convert my savings into a fixed deposit?
+I'd like to know if I can just walk in and start working without a reservation.
+Can I ask you to remind me of my old account number again?
+I need to verify my old account number again.
+Can I reactivate my old account?
+Can I use it as soon as I open it today?
+I need to wrap up all my business today.
+Could you please raise my payment limit just once today.
+I'd like to check the amount I paid today right away.
+I just came to check my account information today.
+I'd like to open an account today.
+Can I open an account today?
+I'd like to open a new account today.
+I'd like to open a new account today.
+I'm planning to close my account today.
+I need to send money urgently today.
+I just want to see the money that came in today.
+I'd like to start using the automatic transfer I registered today right away.
+Can I make an overseas transfer directly from the account I just set up today?
+Can I use the account I just created today?
+I'd like to use the account I just set up today.
+Can I use the account I just set up for rent payments right away?
+I need to let my parents know about the account I just set up.
+Can I review all the changes I made today at once?
+I'd like to see all the changes I made today documented.
+I'd like all the requests I made today to be documented.
+I'd like to ask you to reprint the document I received today.
+Can I cash the check I received today right away?
+I'm going to deposit the check I received today as soon as possible.
+Can I find the check I received today right away?
+I'm going to deposit the check I received today.
+I'm going to deposit the cash I received today as soon as possible.
+Can I cancel the money I sent today?
+I'd like to take advantage of the new customer benefits that were introduced today.
+I need to make two transfers today.
+I really need to make a transfer today.
+Can I confirm if the remittance will arrive today?
+When will it arrive if I send the money today?
+The money I sent today needs to arrive by today.
+I'd like to wrap up all the changes by the end of today.
+Can I wrap up all the changes by the end of today?
+I need to complete the remittance by today.
+Will I be able to confirm the deposit by today?
+Can I get everything done by the end of today?
+I'd appreciate it if it could be taken care of by today.
+I'm okay with not getting the card today.
+Can I wrap up my work quickly today?
+I'd like to wrap up my work as quickly as possible today.
+I'd like to verify the remittance that arrived today.
+I'd like to know who sent the remittance that arrived today.
+I'd like to see the breakdown of the fees for the remittance that came in today.
+I'd like to know who the remittance came from today.
+I'm trying to figure out where the remittance I received today came from.
+I need to verify who the deposit is from today.
+Can I confirm that everything I requested today has been recorded?
+Can you confirm that everything I requested today has been recorded?
+I'm planning to submit the letter I received from the bank today to the company.
+I'd like to cancel the transfer I made today.
+I'd like to see the amount I deposited today right away.
+Can you please check why the amount I deposited today isn't showing up?
+Can I use the money I deposited today right away?
+Can I use the money I deposited today right away?
+Can I use the money I deposited today now?
+I'm wondering why the money I deposited today isn't showing up.
+Can you please check why the money I deposited today isn't showing up?
+"If there's an issue with the check I deposited today, can I get a call about it?"
+I'd like the check I deposited today to be processed smoothly.
+"If there's an issue with the check I deposited today, can I get a call about it?"
+I'd like the cash I deposited today to be reflected immediately.
+I made a deposit today, but the other party claims they didn't receive it.
+I'd like to take care of this at the counter today.
+I'd like to use the most cost-effective method available today.
+I'd like to use only the simple items that are processed today.
+I'd like to receive the email with the details of what I processed today.
+Can I receive the receipt for the work I completed today via email?
+I'd like to receive the details of what I handled today via email.
+Can I receive the email with the details of what I handled today?
+I'd like to confirm the details of what I handled today via email.
+I'd like to receive a summary of the tasks I completed today in one document.
+I'd also like to receive the work I completed today via email.
+I really need to change my card password today.
+I really need a card today.
+I'd like to know why the card failed today.
+Can I just get the card today, please?
+I plan to transfer a large sum of money today.
+I plan to deposit a large sum of money today.
+I need to deposit a large sum of money today.
+Can I get the content from today via email?
+I'd like to know if the limit change will take effect immediately today.
+I'd like to know the cash withdrawal limit for today.
+I have a large cash deposit today.
+I'm only depositing cash today.
+I'm planning to deposit cash today.
+I'd like to know the current exchange rate today.
+I'd like to exchange money at the best rate today.
+I'd like to exchange some money today.
+I'm going to deposit the amount I exchanged today into this account.
+Can I deposit the cash I exchanged today into my account instead of paying in cash?
+Can I only deposit the money I exchanged today into my account?
+I'm planning to deposit the money I exchanged today into my account right away.
+Can I transfer the money I exchanged today right away?
+Can I deposit the money I exchanged today into my account instead of paying in cash?
+I'd like to receive a receipt via text message only today.
+Can I increase the transfer limit for today only?
+Can I increase the transfer limit significantly today?
+I'd like to temporarily lift the withdrawal limit for today.
+I'd like to raise the limit for today only.
+I'd like to pay in cash today.
+I was wondering if today is a bank holiday.
+I'd like to receive all my old records as certificates.
+I'd like to know if I can delete my old records.
+I'd like to reprint the old documents.
+I'd also like to use this account at other locations, including Ottawa.
+Even if I transfer my account to a different branch in Ottawa, will my account number remain the same?
+Will I be treated the same at other locations, aside from Ottawa?
+I'd like to work only at the Ottawa office.
+I'd like to transfer my account to a different branch in Ottawa.
+I'd like to request that you enable online payment options.
+Can I use this account for online payments?
+I'd like to sign up for online banking by the end of today.
+Can I link this account to my online shopping payments?
+I'd like to set a different daily withdrawal limit online.
+I'd like to set a very low online withdrawal limit.
+I'd like to be able to change the online withdrawal limit only through the app.
+I'd like to be able to change my online withdrawal limit only at the counter.
+I'd like to block all online withdrawals.
+I'd like the branch manager's name to be included in the online output as well.
+I find the counter more convenient than online.
+I need to track the deposit that came from a foreign account.
+I'd like to receive mail at my foreign address.
+I'd like to receive my card at a foreign address.
+I'd like to receive money from abroad.
+I'd like to send back the money I received from abroad.
+I'd like to declare the money I've received from abroad.
+I'd like to send the money I've earned from abroad back to Korea.
+I'd like to verify the origin of the money I received from abroad.
+I'd like to know the process I need to follow when logging in from abroad.
+I'd like to know if I can process a check I received from abroad.
+I reported my lost item to the authorities in a foreign country.
+I'd like to minimize the fees as much as possible when traveling abroad.
+I'd like to deposit a check from abroad.
+I'd like to get a replacement card from abroad.
+I'm looking for a product that's specifically designed for foreign accounts.
+I'd like to know if I don't need to have a foreign registration number.
+Do foreigners also have credit cards?
+As a foreigner, I'm concerned about the process.
+Can I receive my salary in a foreign currency account?
+What happens if I close my foreign currency account?
+I'd like to exchange my foreign currency account for Korean won.
+I plan to make frequent foreign currency deposits.
+I'd like to convert all my foreign currency balances to Canadian dollars.
+Can I exchange my foreign currency today?
+I'd like to convert all my foreign currency balances to Canadian dollars.
+I'd like to receive a notification when foreign currency is received.
+I'd like to have my foreign currency automatically exchanged as soon as it comes in.
+I'd like to receive notifications only when foreign currency is received.
+Can I exchange the foreign currency I received for Canadian dollars?
+I'm planning to exchange the money I received from abroad.
+I'd like to exchange the money that was deposited in foreign currency as soon as possible.
+Can I transfer money to a foreign currency?
+I'd like to exchange my foreign currency for Canadian dollars.
+I'd like to open an account that only accepts foreign currency.
+I'd rather pick it up in person at a branch rather than having it sent to me by mail.
+Can I use the card that was sent to me by mail right away?
+I'd like to see the details even before the mail arrives.
+I need a bank account to receive my salary.
+I'd really appreciate it if I could receive a notification when my salary is deposited.
+Can I receive a text message with my monthly salary deposit notification?
+Can I transfer my salary to a different account?
+I need a bank account to receive my salary.
+Can I set up my paycheck to be deposited into this account?
+Can I have my salary deposited into this account?
+I'd like to receive my salary directly into this account.
+I'd like my salary to be automatically transferred to my account as soon as it's deposited.
+I'd like to check if my salary has been paid correctly.
+I check my balance every month.
+I'd like to have a separate account for my monthly rent.
+Can I set up automatic rent payments?
+Can I increase the automatic rent payment amount?
+I'd like to have the rent paid directly from this account.
+I'd like the rent to be automatically deducted from my account.
+I need an account to receive the rent payments on behalf of the tenants.
+I'd like to have my rent automatically deducted, excluding the monthly rent.
+I need an account for international students.
+I'd like to receive a reminder before the expiration date.
+Can I fix the bank app issue right here?
+Can I reconnect my bank app and account?
+I'd like to get confirmation that there's an issue with the bank app.
+I'd also like to use the bank app on my PC.
+I'm going to reinstall the bank app on my new phone.
+I need to reconnect my bank app to my new phone.
+Can I check why the bank app isn't working here?
+I'd like to do as much of my banking as possible online.
+I'd like to have a brief conversation with a bank employee in English.
+I'd like to have a long conversation with a bank employee in Korean.
+I'm not sure how the bank code and branch code differ.
+I'd like to resend the email to the bank.
+I'd like to ask the bank to explain it again over the phone later.
+I'd like to be informed when the bank staff changes.
+I'd like to have a fixed contact person at the bank.
+Can I pick up the letter I received from the bank today?
+I need to submit the letter issued by the bank to the company.
+Unfortunately, the card issued by the bank isn't accepted for online shopping.
+I'd like to know if it's okay to record our consultation at the bank.
+I'd like to request that the bank document the details of our consultation.
+I'd like to schedule a consultation appointment at the bank for next week.
+I'd like to reschedule my consultation appointment at the bank for today.
+I'd like to make a consultation appointment at the bank only online.
+I'd like to cancel my consultation appointment at the bank.
+I'd like to ask the bank to explain the documents slowly.
+I'd like to know if the bank's fee policy changes.
+I'd like to have my identity verified again at the bank.
+I'd like to be notified when new products are released at the bank.
+I'd like to request that the bank stamp the documents I handled today.
+I'd like to request that the bank send me an email summarizing the details of what was processed today.
+I've brought all the identification documents that the bank requires.
+I'd like to know when I need to submit the documents required by the bank.
+Can I hear again what kind of identification the bank is asking for?
+I'd like to ask the bank to explain the terms in simpler terms.
+I'd also like to receive the messages I sent to the bank via text message.
+I'd like to request an interpreter from the bank.
+I'd like to know if there's a special exchange rate at the bank.
+I need a bank statement in the name of the bank president.
+Can I keep this account number unchanged?
+Can I change the password for this account on a regular basis?
+I'd like this account to be registered under both my names.
+I'd like to keep this account open.
+I'd like to know why this account has been deactivated.
+How much is the fee for this account?
+I'd like to make sure this account doesn't automatically close.
+I'd like to keep this account from being automatically closed.
+I'd like this account to remain active even after my stay is over.
+I'd like this account to remain active even after my stay is over.
+I'd like to know if this account is active.
+I plan to make regular deposits to this account for my family.
+I'd like to pay my utility bills using this account.
+Can I check if my utility bills are being paid out of this account properly?
+I'd like to keep track of the foreign currency that comes into this account separately.
+I'd like to add a note to the deposit I receive into this account.
+I'd like to transfer the money I received into this account to another account as soon as possible.
+Can I automatically transfer the money I received into this account to another account?
+I'd like to use the money sent to this account as soon as possible.
+I plan to send my parents a regular allowance through this account.
+I'd like to set up automatic transfers to this account to occur only twice a month.
+I'd like to receive a refund from the Canadian government through this account.
+Can I sign up for investment products using this account?
+I'm planning to pay my school fees using this account.
+I'll only pay my utility bills through this account.
+I'll only be sending church donations through this account.
+I'd like to receive my salary only through this account.
+I'd like to receive all my remittances through this account.
+I'd like to make all my international transactions through this account.
+I'd like to use this account with my family.
+I'd like to share this account with my family.
+Can I make this account only visible to my family?
+I plan to use this account for both personal expenses and tuition fees.
+I'd like to keep this account going.
+I'd like to change the ownership of this account to joint.
+Can I change the account to a joint account?
+Can I set up this account as my direct deposit account?
+I use this account as my payroll account.
+I'd like to use this account only for urgent matters.
+I'd rather not share this account with anyone else.
+Can I transfer this account to a different branch?
+I'm planning to close this account and transfer it to a different bank.
+I'd like to close this account and transfer the remaining balance to a different bank.
+I'll also let my parents know about this account.
+I'd like to use this account for both business and personal expenses.
+I'd like to use this account for business purposes.
+I plan to use this account solely for business purposes.
+I need to inform my new employer about this account.
+Can I share this account with my new employer?
+I need to inform my new employer about this account.
+Can I confirm if I can use this account for my new job?
+I'd like to use this account only when I'm traveling.
+I also plan to use this account for online payments.
+I also plan to use this account for online payments.
+I'm planning to set up this account for online shopping payments.
+I plan to use this account for my monthly salary.
+I plan to use this account for both my salary and rent.
+I plan to use this account for my monthly salary, rent, and utility bills.
+I'd like to set this account up as a dedicated rental account.
+Can I set this account to be used only for rent payments?
+I plan to use this account solely for paying rent.
+I'd like to use this account for my monthly rent.
+I'd like to keep this account.
+I'd like to switch this account to the standard type that the bank recommends.
+I'd also like to keep this account open as a temporary address.
+I'll just keep this account open temporarily.
+Can I keep this account in a long-term storage status?
+I'd like to keep this account in a long-term storage.
+I'd like to use this account when I receive government assistance.
+I'd like to add this account directly to my company's payroll.
+I'd like to designate this account as my main account.
+I'd like to use this account just for paying my rent.
+Can I use this account in both Canadian and US dollars?
+Can I use this account in both Canadian and US dollars?
+I'd like to use this account in both Canadian and US dollars.
+I'd like to keep this account even after I leave Canada.
+I'd like to keep using this account even after I leave Canada.
+I'd like to keep using this account once I become a Canadian citizen.
+I'd like to set this account to be used only in Canada.
+I'd like to keep a record of this account even if I close it.
+I plan to keep this account active even when I return to Korea.
+Do I really need to explain why I want to close this account?
+I'd like to keep this account active and not cancel it.
+I'd like to use this account for automatic mobile phone bill payments.
+I'm trying to register this account in our company's payroll system.
+I also plan to use this account for company expenses.
+I'd like to make this account accessible to the company's finance team for their review.
+I'm going to submit this account to the company.
+I'd like to grant this account family viewing rights.
+I'd like to add another currency to this account.
+I'd like to receive a notification as soon as a deposit is made into this account.
+I'd like to leave a separate note on this account.
+Can I see the list of apps linked to this account?
+I'd like to view all the apps linked to this account at once.
+I'd like to change the type of card linked to this account.
+I'd like to add another automatic savings to this account.
+I'd like to receive a balance notification on this account, please.
+I'm trying to receive the Canadian government payment into this account.
+I'd like to check if there are any unusual transactions in this account.
+I just want to confirm that this account is properly linked to my card.
+I'd like to confirm that this account and card share the same name.
+I'd like to know the date this account was opened.
+I'd like to bump up the rating on this account a notch.
+I'd like to know the fee policy for this account.
+I'd like to review the fee conditions for this account.
+I'd like to change the language setting on this account to English.
+Can I change the language of this account to English?
+I'd like to know the cash withdrawal limit for this account.
+Can you check if I have an account with this bank?
+I'd like to temporarily block online payments with this card.
+Can I use this card to pay for my online subscription?
+I'd like to use this card to withdraw cash abroad.
+I'd like to change just one letter in my name.
+I'd like my name to be written exactly the same as it is on my passport.
+I'd like to include Korean in the name as well.
+Can I still register even if my name is long?
+I'd like to receive email notifications only.
+I'd like to authenticate only through email.
+I'd prefer to receive it in paper form, not via email.
+Can I just print out the transaction history for this month?
+I'm going to print out this month's transaction records and submit them.
+I'd like to know if there's a fee waiver available this month.
+I'd like to know why I was charged a fee this month.
+I'd like to just review the bank statements for this month.
+I'd like to request a fee waiver for this month only.
+I'd like to skip the automatic transfer this month.
+Can I skip the automatic transfer this month?
+Can I temporarily stop the automatic transfer this month?
+Can I temporarily suspend my automatic bank transfers for this month?
+I'd like to make international payments only for this month.
+I'd like to request that the fee be waived for this month only.
+I'd like to raise the limit this month only.
+I'd like to temporarily increase the limit this month.
+I'd like to just review the transaction history for this week.
+Will I be notified right away if there's an unusual transaction?
+I'd like to know if interest income is automatically reported.
+I'd like the transfer note to be visible to the recipient.
+I'd like to keep the transfer notification on.
+I'd like to request that you resend the transfer receipt.
+Can I permanently increase the transfer limit?
+Can I increase the transfer limit today?
+I'd like to temporarily increase the transfer limit for today only.
+I'd like to increase the transfer limit.
+I'd like to know why the transfer failed.
+I'd like to know why the transfer didn't go through.
+I'd like to require two-factor authentication when making a transfer.
+I'd like to be able to authenticate only once when transferring funds.
+Does the fee remain the same every time I transfer?
+I'd like to require my approval every time I make a transfer.
+I'd like to set up two authentication methods.
+I'd like to simplify the authentication process by reducing the number of authentication methods.
+What should I do if I don't receive the verification code?
+I'd like to recreate my internet banking account.
+I'd like to start using internet banking again.
+I'd like to use internet banking.
+I'd like to use internet banking.
+Can I register for internet banking here?
+I'm registering for internet banking for the first time.
+Why is my internet banking account locked?
+I've never exchanged money online before.
+I'm curious to know what kind of work can only be done in person, not online.
+Can I temporarily increase the limit?
+I'd like to set up a temporary business account.
+I'd like to receive a notification when a deposit fails.
+I'd like to just turn on the deposit notification.
+Can I receive the deposit receipt via email?
+Despite depositing, my balance remains the same.
+Can I receive the deposit and withdrawal records in Korean?
+I'd like to check my transaction history.
+I'd like to receive a call from the customer center regarding the failed automatic payment.
+I'd like to receive notifications only through app push when my automatic payment fails.
+I'd like to receive automatic payment failures via email only.
+I'd like to know the reason why automatic payment didn't go through.
+Can I exclude this month's automatic payment from my insurance premium?
+I'd like to temporarily suspend my automatic insurance payments.
+I'd like to see my entire history of automatic payments on my card at once.
+I'd like to reactivate automatic payment.
+I'd like to cancel my automatic payment altogether.
+I'd like to temporarily pause my automatic payments.
+Can I check the conditions for automatic cancellation?
+Can I set up automatic transfers to increase the amount each year?
+I'd like to increase the automatic transfer amount every year.
+Can I adjust the automatic transfer amount?
+Can I change the automatic transfer date?
+I'd like to receive my automatic transfer records in an Excel format.
+I'd like to receive my automatic bank transfers via email.
+I'd like to change the order of my automatic bank transfers.
+I'd like to lower my priority for automatic transfers.
+I'd like to prioritize automatic transfers.
+I'd like to have the automatic transfer fail and then have it withdrawn from another account instead.
+I'd like to be able to retry the automatic transfer if it fails.
+I'd like to receive a notification when my automatic transfer fails.
+I'd like to set up automatic transfers every other week.
+I'd like to postpone the automatic transfer to the day after a public holiday.
+I'd like to schedule my automatic bank transfers to take place before holidays.
+I'd like to set up automatic bank transfers.
+I'd like to set up automatic transfers to go out on the 1st of every month.
+I'd like to resume direct debit immediately.
+I'd like to set up automatic transfers on a quarterly basis.
+I'd like to cancel my automatic bank transfer.
+I'd like to set up automatic transfers to occur once a year.
+Can I start setting up automatic transfers from today?
+Can I set up automatic transfers to start from today?
+I'd like to set up automatic transfers on a weekly basis, rather than monthly.
+I'd like to search for my name through the automatic transfer system.
+I'd like to take a break from automatic transfers this month.
+I'd like to temporarily suspend my automatic bank transfers.
+I'd like to temporarily suspend my automatic bank transfers.
+Can I convert my direct debit to an investment?
+I'd like to set up automatic transfers only on specific dates.
+I'd like to set up automatic transfers to occur only once a month.
+Can I set a different amount for my automatic savings each month?
+Can I adjust the automatic savings amount?
+Can I create multiple automatic savings accounts with different amounts?
+I'm planning to start an automatic savings plan from this month.
+I'd like to show only the accounts I frequently send to.
+I'd like to know if I can view last year's records.
+Can I print out a balance statement right away?
+I'd like to obtain a balance certificate.
+I'd also like to receive the balance proof in US dollars.
+I'd like to have the balance proof in Canadian dollars only.
+I'd like to know both my balance and the amount I can use.
+Could you explain the difference between my balance and the amount I can use?
+Can you explain why the balance and available balance are different?
+I'd like to return the money that was mistakenly given to me.
+Can I return the money I mistakenly received through the bank?
+Can I return the money I mistakenly received to the person the bank sent it to?
+I'd like to return the money that was mistakenly deposited to the person who originally sent it.
+Can I get the money I sent to the wrong account back?
+I'd like to confirm if I've received the scholarship.
+I'd appreciate it if you could verify the scholarship with the bank when it hasn't been received.
+Can I get a replacement card sent to a different address?
+I'd like to have a separate savings account.
+I'd like to be notified by text when my installment savings account matures.
+I'd like to set up automatic deposits to be made when my savings account matures.
+I'd like to change the maturity date of my savings account.
+What's the penalty fee if I withdraw my savings account early?
+I'd like to set aside my money like I'm saving for a rainy day.
+I'd like to handle it electronically only.
+Unfortunately, I'm unable to verify my phone number.
+I'd like to switch to a savings account instead of a regular savings account.
+How much interest would I earn if I convert it to a regular savings account?
+Can I convert my regular savings account to a regular savings account without any penalties?
+What do I need to submit to receive the government payment?
+I'd like to request government funding again.
+I need to register my account to receive government assistance.
+I'd like to change the account where I receive government assistance.
+I need to designate an account to receive government subsidies.
+I'd like to receive the government subsidy into this account.
+Will I receive a text message when the government subsidy is deposited into my account?
+I'm curious to know why I haven't received the government subsidy.
+Can I have the government subsidy deposited into this account?
+Can I set up automatic government subsidies to come in?
+I'd like to have the government funds clearly distinguished from the rest.
+Can I reactivate my frozen account today?
+I'd like to know why my account was suspended.
+I'd like to keep my account from being automatically closed.
+I'd like to receive all the money that comes into my account as a notification.
+I'd like to receive notifications when money is deposited into my account.
+I'd like to restrict deposits to my own account only.
+I'd like to lift the restrictions on my account.
+I'd like to transfer the money that was deposited into my old account to this one.
+I'd like to set up automatic transfers to my loan account.
+I'd like to receive my invoice via email.
+I'd like to authenticate when my phone isn't in my name.
+I'd like to add my spouse to the joint ownership.
+I'd like to add my spouse as a co-owner of this account.
+I'd like to set up automatic transfers to my parents' account.
+I'd like to review my document issuance history.
+Can I re-register my signature?
+I'd like to leave my signature with the bank again.
+I'd like to re-register my signature with the bank.
+I'm going to re-register my signature with the bank.
+I'd like to know if my signature is registered.
+My signature and the signature on my bank account are different.
+Can I check my credit score here?
+I'd like my passport number to be included on the document.
+I'd like to know when my savings account will automatically be renewed.
+I only use accounts in my own name.
+I already have a savings account in my name.
+I'd like to know if any mail addressed to me has arrived.
+I'd like a bank account in my own name.
+I'd like to know how my name is stored in the system.
+Can I change my email address later?
+Could you please update my email address.
+I'd like to set up automatic transfers to my savings account.
+My phone number will be changing soon.
+I'd like to let you know that my address has changed.
+I'd like to transfer my card payment from this account to a different one.
+I'd like to print out a complete record of my card usage.
+I'd like to restrict my card usage to Canada only.
+I'd like my card to be used for online recurring payments as well.
+I'd like to know if my card has exceeded its limit.
+I'd like to print out my bank statement.
+I'd like to change the name on my bank account to English.
+I'd like to change the name on my bank account to English.
+I'd like to set up automatic transfers to my investment account.
+I'd like to open another account in my company's name.
+I'd like to integrate my company's accounting software.
+I came to confirm the remittance I received.
+I'd like to cancel the transfer I made.
+I'd like to know if there are any benefits for our main customers.
+I'll bring the address verification document tomorrow.
+Can I bring proof of address later?
+Can I submit my proof of address later?
+I'll provide the necessary documentation to verify my address.
+What should I do without proof of address?
+I only have proof of address via email.
+I need to update my information since my address has changed.
+My address has changed, so I need to update my information.
+Can I use a temporary address?
+I'd like to change my address right now.
+I'd like to add a middle name.
+I'd like to know if there's a negative balance in my account at the moment.
+I'd like to see the current balance and the pending amount separately, please.
+I'm looking for an account in my name right now.
+Can I resubmit it later since my current address is temporary?
+I'd like to know if the card has arrived at the branch yet.
+I only have a copy of my passport with me right now.
+Can I just receive the transaction history from last month via email?
+I need to print out my transaction history from last month.
+I really need to see the transaction records from last month.
+I need to print out my account statement from last month.
+I'd like to know why I was charged a fee last month.
+I'd like to know why the deposit was delayed last week.
+I'd like to know if there's a feature similar to direct deposit.
+I need a document with the contact information for the branch.
+I'd like to know if the fees vary by location.
+I'd like to hear the explanation directly from the branch.
+Can I get a replacement even if I'm not a branch location?
+I need a document with the branch manager's signature.
+I've forgotten my debit card PIN.
+I'd like the automatic transfer amount to increase when the rent goes up.
+Can I set my rent to be automatically deducted?
+Can I set up my rent to be automatically deducted?
+I'd like to pay my rent automatically every month.
+I'd like to have the rent paid directly from this account.
+I'd like to set up automatic payments from this account to cover my rent.
+I'd like to send the account certificate to the landlord.
+Can I reduce the transfer fee I pay to the landlord?
+Can I reduce the transfer fee I need to pay to the landlord?
+Can I be shown an alternative way to make a deposit, rather than through the counter?
+Can I also get guidance on how to make a deposit, aside from the counter?
+I'd like to know if I can pay the window fee with a credit card.
+I'd like to keep a record of the name of the person who served me at the counter.
+Can I keep my account active even after my stay is over?
+I'd like to shorten the processing time for the check.
+I'd like to send the check back to the payee.
+I'd like to register my check online.
+I've already deposited the check, but it still hasn't been credited to my account.
+I also need a credit card, not just a debit card.
+I'd like to hear more about debit cards, rather than just checking cards.
+I'm always forgetting my check card PIN.
+I'd like to reduce the credit limit on my debit card.
+I'd like to get a new check card.
+Can I get a debit card made today?
+Can I get my debit card today?
+I'd like to get a replacement for my debit card.
+I need to get a new check card issued.
+Can I get a debit card now?
+I'd like to know the difference between a debit card and a credit card.
+I'd like to know if there's a minimum deposit required.
+I'd like to receive a notification when my withdrawal fails.
+I'd like to just turn on the withdrawal notifications.
+Can I increase my withdrawal limit just for today?
+I'd like to make sure to check your ID when you withdraw.
+I'm going to re-register my card PIN.
+Can I reset my card PIN?
+I'd like to change my card PIN to something easier to remember.
+Can I reissue my card PIN here?
+I'd like to know the card's renewal date in advance.
+I'd like to use an alternative account when I don't have a card payment account.
+I'd like to set it up to block automatically when there's no card payment account.
+I'd like to choose from multiple card payment accounts.
+I'd like the business name to be displayed on the card payment text message.
+I'd like to receive the card payment approval text message again.
+Can I get a text message confirming my card payment again?
+I'd like to receive card payment notifications only in the morning.
+I'd like to receive card payment notifications only two days in advance.
+I'd like to receive a card payment notification a week in advance.
+I'd like to receive card payment notifications only in the evening.
+I'd prefer not to receive card payment notifications on weekends.
+I'd like to receive a card payment notification a day in advance.
+My credit card spending limit is too low.
+I'd like to change the payment date for my card.
+I'd like to change my card payment date to the end of the month.
+I'd like to change the payment date for my card to the middle of the month.
+I'd like to change the payment date for my card to the first of the month.
+Can I set my own payment date for the card?
+I don't recall the exact date of the card theft.
+I'd like to report the card theft right here.
+I'd like to be notified a month before my card expires.
+I'd like to prevent unauthorized card usage.
+I'd like to make sure to report my lost card.
+Can I report a lost card even if I'm abroad?
+I'd like to know if I can split the payment with my card.
+I'd like to reset my card password.
+How many digits can I set for my card password?
+I'm not sure what my card password is.
+I'd like to receive the card approval text message again.
+I'd like to withdraw cash without using a card.
+I'd like to know the expiration date of my card in advance.
+Can I lower my daily card spending limit?
+Can I get a new card reissued quickly?
+I'd like to get my card reissued as soon as possible.
+I'd like to get a new card with expedited shipping.
+I'd like to know if I have any credit card points.
+I'd like to transfer my card points to my account.
+I'd like to adjust the credit limit for my family card as well.
+Can I increase my credit limit right away?
+I'd like to temporarily reduce my credit card limit for today.
+I'd like to keep my credit card limit separate for offline transactions only.
+I'd like to have a separate credit card limit for online transactions only.
+I'd like to have a separate credit card limit for international transactions.
+I'd like to block international card transactions.
+Can I block international card transactions?
+I'd like to temporarily block international card transactions.
+Can I temporarily disable international card payments?
+I'd like to block international card transactions.
+I'd like to reinstate my card for international use.
+I'd like to temporarily block my card from being used abroad.
+I'd like to know if the card is accepted for international transactions.
+I'm not sure exactly when the card went missing.
+I'd like to know why my card was declined.
+I'd like to know if my card is still pending approval.
+I'm not sure where my card is.
+I'd like to know where the card is located.
+I'd like to know where my card was used.
+I'd like to know which device the card was used on.
+I'd like to know which website the card was used to pay for.
+I'd like to know which currency the card was charged in.
+I'd like to set up my card to block online payments for fraudulent transactions.
+I need to know why my card was declined.
+How do I verify my card when it arrives in the mail?
+I'd like to restrict the card to online use only.
+If my card gets blocked abroad, can I contact you here?
+Can I prevent my card from being automatically approved when I'm abroad?
+I'd like to make sure my card isn't automatically declined when I use it abroad.
+I'd like to see my payment history.
+I'd like to adjust the daily spending limit on my card.
+Do I have to pay a transfer fee when transferring between Canadian accounts?
+I'd like to know when remittances are processed on Canadian public holidays.
+I'd also like to have a US dollar account, in addition to my Canadian dollar account.
+I'm currently using a Canadian dollar account.
+I'd like to trade only in Canadian dollars.
+Can I close my account from outside of Canada?
+I'd like to delete my login history from outside of Canada.
+I need to be able to log in from outside Canada.
+Can I log in from outside Canada without my account getting blocked?
+Can I still log in from outside Canada without my account getting blocked?
+I'm planning to send money from outside of Canada.
+Can I use the app from outside of Canada?
+Can I learn how to use the app safely outside of Canada?
+I'm not eligible for certification outside of Canada.
+I'd like to use the app safely even outside of Canada.
+I'd like to use this card even outside of Canada.
+Can I transfer it outside of Canada?
+I need to send money out of Canada.
+I need a way to authenticate when I don't have a Canadian number.
+I'd like to get certified with a Canadian phone number.
+I'd like to know what documents I need to submit when filing my Canadian taxes.
+Can I use a temporary account if I don't have a Canadian ID?
+Can I also transfer money for free to other banks in Canada?
+I'd like to know if I can get a free replacement in Canada.
+I only need an account that can be used within Canada.
+I'd like to work only with a Canadian driver's license.
+I'm new to the Canadian banking system, so could you explain it to me.
+Can I keep this account even if I leave Canada?
+I'd like to continue using this bank while I'm in Canada.
+I'm using a bank for the first time in Canada.
+Should I let you know in advance when I'm going to deposit a large amount?
+I'd like to know if the counter is open on Saturdays.
+I'd like to report that I've lost a copy of my bankbook.
+I'd like to sign a copy of my bankbook.
+I'd like to have a copy of my bankbook stamped with the branch's seal.
+I'd like to receive a copy of my bank statement with the account number redacted.
+I'd like to receive a copy of my bank statement with all the account numbers included.
+I'd like to know if there's a fee for re-issuing a copy of my bank statement.
+I'd like to receive a scanned copy of my bank statement.
+I'd like to receive a copy of my bank statement in English.
+I'd like to ask you to resend the bank statement to my email.
+I'd like to ask the landlord to send me a copy of the bank statement via email.
+I'd like to receive a color copy of my bank statement.
+I'd also like to receive a copy of my bank statement via fax.
+I'd like to ask you to send a copy of my bank statement to the school's email.
+I'd like to receive a copy of my bank statement in Korean.
+I'd like to request that you send a copy of my bank statement to the company via email.
+I'd like to receive a copy of my bank statement in black and white.
+I'd like to have a copy of my bank statement sent to my family's name as well.
+I'd like to know how long a copy of my bankbook is valid for.
+I'd like to request that it be deleted if the copy of my bankbook goes to the wrong place.
+I'd like to have a copy of my bank statement sent to me in my name only.
+Can I open an account with just a credit card, without a bankbook?
+I'd like to take a look at my bank statement.
+I lost my bankbook, can I get a replacement?
+I think I need to get a new bankbook.
+I'd like to convert my investment account to a regular account.
+I'd like to know if I can withdraw from my investment account.
+I'd like to receive a notification when a certain amount is exceeded.
+I'd like to be able to leave on specific dates.
+I'd like to receive a notification when a specific deposit is made.
+I'd like to see a breakdown of how I've used my points.
+I'd like to know if I can pay the points as a fee.
+I'd like to use the points as a fee.
+I'd like to know if I can exchange my points for cash.
+I need an account to receive my freelance income.
+I'd like to know the requirements for a premium account.
+Can I get a list of the required identification documents again?
+What's the daily transfer limit?
+I'd like to increase my daily transfer limit.
+Can I temporarily increase my daily transfer limit?
+Can I increase my daily transfer limit now?
+I'd like to increase the daily transfer limit to a higher amount than it is now.
+I need to submit some bank documents to the school.
+I'd like to submit a tuition payment receipt to the school.
+I'd like to switch my student account to a regular account.
+Can I get a student fee waiver?
+Am I eligible for a student fee waiver?
+Do you offer any discounts for students?
+Will I still be exempt from the fee if I submit my student ID later?
+Will I still be exempt from the fee even if I prove later that I'm a student?
+I can provide documents to prove my student status.
+As a student, I was wondering if I'm eligible for a fee waiver.
+As a student, I'm on the lookout for affordable products with low fees.
+As a student, I'd like to be exempt from the fee.
+As a student, I'd like to save on the fees.
+I plan to invest a large sum of money all at once.
+How much is the fee when I receive it through a Korean account?
+Can I receive the remittance details sent to my Korean account in English?
+I need to print out the remittance details that were sent to my Korean bank account.
+I'd like to print out the transaction history of the money I transferred to my Korean account and submit it.
+I'd like to know if I can receive the money through a Korean account.
+I'd like to know if remittances are accepted even on Korean holidays.
+I'd like to know what documents I need to submit when filing my Korean taxes.
+I have a Korean passport and a Canadian address.
+Do I just need a Korean passport?
+Can I open an account with a Korean passport?
+Can I use my Korean driver's license as proof?
+I'd like to know if it can be stored in Korean won.
+Can I set up automatic transfers to my Korean bank account?
+Can I make a regular bank transfer to a Korean bank?
+I'd like to know the consultation hours for Korean language.
+I was wondering if you offer Korean language counseling.
+I'd like to know if there's a fee associated with the money I received from Korea.
+I'd like to exchange the money I received from Korea back into Canadian dollars.
+I'd like to verify the money I received from Korea.
+I'd like to know what to do if the recipient in Korea doesn't receive it.
+I have my identification documents, including my ID card and passport, from Korea.
+Can I receive the remittance details I sent to Korea in English?
+I'd like to know what the recipient needs to do when I send it to Korea.
+When I send it to Korea, I'd like to know where I can find the bank code.
+What information do I need to send to Korea?
+I'd like to know what information I need to send to Korea.
+I'd like to send a small amount to Korea multiple times.
+Do I need a SWIFT code to send money to Korea?
+I'd like to print out the record of the money I sent to Korea.
+I have a remittance to send to Korea.
+Can I transfer money to Korea today?
+I'd like to send a large sum of money to Korea all at once.
+I'd like to raise the limit to Korea.
+I often send money to the Bank of Korea.
+I'd like to receive a notification when I've exceeded my limit.
+Can I set a different limit each month?
+I'd like to change the installment payment period.
+I'd like to pay off the installment plan in full.
+Despite living abroad, I'd like to keep my account active.
+I'd like to notify the bank that I'll be living abroad.
+I'd like to just turn on notifications for international payments.
+Can I find out when my overseas payment refund will be processed?
+I'd like to confirm that the refund is processed correctly after the international payment is made.
+Can I block international payments?
+I'd like to receive notifications for overseas logins right away.
+I'd like to have the overseas remittance information in writing.
+Can I get the overseas remittance information on paper?
+Can I receive the overseas remittance information on paper?
+Can I block foreign income from coming in?
+I need your contact information in case I get scammed while shopping online from abroad.
+I need a card that can be used abroad.
+I need to verify the overseas remittance.
+Can you tell me who the remittance from abroad is for?
+Can you tell me where the remittance from abroad is coming from?
+What happens if I don't receive the verification code from abroad?
+Can I use this card without any issues abroad?
+Can I use this card abroad?
+I'd like to get a refund for the cash withdrawal that didn't go through.
+I'd also like to withdraw cash in US dollars.
+I'd like to withdraw cash only in Canadian dollars.
+I'd like to know if I can withdraw cash multiple times on the same day.
+I'd like to know if I can withdraw cash at other locations as well.
+Unfortunately, my cash withdrawal attempt failed, and the money was withdrawn anyway.
+I was withdrawing cash when the machine suddenly stopped working.
+I'm going to deposit the cash into my account.
+I'm going to deposit some cash.
+Can I still open an account even though I don't have any cash on hand?
+I'd like to deposit the cash and verify it immediately.
+Can I also pay online with my cash card?
+Where can I find the exchange rate?
+I'd like to know the current exchange rate.
+I'd like to know how many times a day I can check the exchange rate.
+I'd like to know if the exchange rate applies even on holidays.
+I'd like to receive a notification when the exchange rate changes.
+I'd like to know when the exchange rate is updated.
+I'd like to receive a notification when the exchange rate exceeds a certain threshold.
+I'd like to receive a notification when the exchange rate drops below a certain threshold.
+I'd like the exchange rate to be applied automatically.
+I'd like to know how the exchange rate is applied.
+I'd like to exchange it when the exchange rate is favorable.
+I'd like to know if the exchange rate applies on weekends as well.
+What's the current exchange rate?
+I'd like to make a small adjustment to the exchange amount.
+Is there a separate exchange fee?
+I'd like to deduct the currency exchange fee directly from my account.
+I'd like to pay the exchange fee with my card.
+I'd like to pay the exchange fee in cash.
+I'd like to include my passport number on the exchange receipt.
+I'd like to include my address on the exchange receipt.
+I'd like to receive two exchange receipts, please.
+I'd like to keep the exchange receipt.
+I'd like to know if I can make a reservation for currency exchange.
+I'd like to know if I can cancel the currency exchange.
+I'd like to deposit the exchanged amount back into my account.
+I'd like to break down the currency I need to exchange into smaller amounts.
+I'd like to keep my company funds and personal funds separate and manage them accordingly.
+Can I transfer the funds that came in under the company's name to my personal account?
+Can I deposit the money that came in under the company's name into my account?
+I'd like to receive the money deposited into my account under the company's name.
+I'd like to transfer the funds deposited into my company's account to my personal account.
+I'd like to keep my company expenses and personal expenses separate.
+My phone number isn't a Canadian one.
+I'd like to authenticate using only my phone.
+Would you be able to register it as a government-funded account?
+Can you tell me the current exchange rate, please?
+"If it's a mistaken deposit, can you please return it to me?"
+Can you make a debit card for me right away?
+Can you turn on the card approval text again, please?
+Can you block international card payments for me?
+Can you help me open a bank account?
+Can you help me open a bank account?
+Can you make it available for international use?
+Can you process the cash deposit for me?

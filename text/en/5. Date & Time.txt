@@ -1,0 +1,1477 @@
+Are the buses running on Sunday?
+Are we doing it this afternoon?
+Are we doing this again next year?
+Are we doing weekly check ins?
+Are we leaving in an hour?
+Are we meeting at noon?
+Are we meeting at the usual time?
+Are we meeting every Tuesday at 6 pm?
+Are we meeting in the morning or afternoon?
+Are we meeting this Friday evening?
+Are we meeting this afternoon?
+Are we meeting this evening?
+Are we meeting this morning?
+Are we off on December 25?
+Are we on track to finish today?
+Are we starting at the top of the hour?
+Are we starting on time today?
+Are we still doing it this month?
+Are we still meeting this month?
+Are we still on for 3 pm?
+Are we still on for 6 pm?
+Are we still on for 8 am sharp?
+Are we still on for Friday night?
+Are we still on for tonight?
+Are we supposed to start at midnight?
+Are you available at 7 in the evening?
+Are you available later tonight?
+Are you available on Thursday at 3 pm?
+Are you available on Tuesday at 10 am?
+Are you available right now?
+Are you available the first week of May?
+Are you available this evening?
+Are you busy around noon tomorrow?
+Are you busy on Friday?
+Are you coming back before midnight?
+Are you coming back next week?
+Are you free after 6 pm?
+Are you free at 2 pm?
+Are you free at 4 pm?
+Are you free at 9 am on Monday?
+Are you free at the end of the month?
+Are you free for 30 minutes now?
+Are you free next week?
+Are you free on May 20 2026?
+Are you free on Saturday morning?
+Are you free on the 21st?
+Are you free right after lunch?
+Are you free right now?
+Are you free this afternoon?
+Are you free this week?
+Are you free tomorrow afternoon?
+Are you free tomorrow morning?
+Are you free tomorrow night?
+Are you going to be late again?
+Are you leaving at 6 in the morning?
+Are you on vacation next week?
+Are you staying here all day?
+Are you working late tonight?
+Are you working this weekend?
+Can I arrive five minutes early?
+Can I book it for 4 pm?
+Can I book it for July 10 2026?
+Can I book it for May 20?
+Can I call you after lunch?
+Can I call you before dinner?
+Can I call you in 10 minutes?
+Can I call you in an hour?
+Can I call you later today?
+Can I call you tomorrow?
+Can I call you tonight at 8 pm?
+Can I call you tonight?
+Can I change the date?
+Can I change the time?
+Can I come by in the evening?
+Can I come in late tomorrow?
+Can I extend the deadline to Friday?
+Can I extend the deadline?
+Can I leave early today?
+Can I pay at the end of the week?
+Can I see you this evening?
+Can I send it before 2 pm?
+Can I shorten the meeting?
+Can I submit it by Friday?
+Can I submit it later today?
+Can I submit it tomorrow morning?
+Can I submit it tonight?
+Can I switch to Friday?
+Can I take the day off tomorrow?
+Can I take the exam next month?
+Can we check in again next week?
+Can we check in every Monday?
+Can we check in later today?
+Can we delay it by 15 minutes?
+Can we delay it by one hour?
+Can we delay it to next Friday?
+Can we do it 30 minutes later?
+Can we do it at 4 pm on Friday?
+Can we do it in an hour?
+Can we do it in the morning?
+Can we do it later this week?
+Can we do it next weekend instead?
+Can we do it on Friday?
+Can we do it this afternoon?
+Can we do it this evening?
+Can we do it this weekend?
+Can we do it today?
+Can we do it tomorrow?
+Can we do it tonight?
+Can we extend it by half an hour?
+Can we finalize it before Friday?
+Can we finish before 3 pm?
+Can we finish before 4 pm?
+Can we finish before lunch?
+Can we finish before noon?
+Can we finish it before 5 pm?
+Can we finish it before noon?
+Can we finish it by Friday?
+Can we finish it by today?
+Can we finish it by tomorrow?
+Can we finish it this month?
+Can we finish it today?
+Can we leave in five minutes?
+Can we leave now?
+Can we make it every other day?
+Can we meet after lunch today?
+Can we meet after lunch?
+Can we meet before noon?
+Can we meet earlier tomorrow?
+Can we meet in 10 minutes?
+Can we meet in 30 minutes?
+Can we meet in an hour?
+Can we meet next Monday?
+Can we meet next month?
+Can we meet next week?
+Can we meet on Friday?
+Can we meet on May 13?
+Can we meet on May 20?
+Can we meet on Monday?
+Can we meet on Saturday?
+Can we meet on Sunday?
+Can we meet on Thursday?
+Can we meet on Tuesday?
+Can we meet on Wednesday?
+Can we meet on the 15th?
+Can we meet on the 30th?
+Can we meet once a month?
+Can we meet this afternoon?
+Can we meet this evening?
+Can we meet this morning?
+Can we meet tomorrow afternoon?
+Can we meet tomorrow evening?
+Can we meet tomorrow morning?
+Can we meet tomorrow night?
+Can we move it to 10 am today?
+Can we move it to 3 pm?
+Can we move it to 4 pm?
+Can we move it to later today?
+Can we move it to next month?
+Can we move it to next week?
+Can we move it to the first week of June?
+Can we move it to tomorrow morning?
+Can we move it to tomorrow?
+Can we move the deadline to Friday?
+Can we postpone it until next week?
+Can we pull it to this week?
+Can we push it back 15 minutes?
+Can we push it back 30 minutes?
+Can we push it to next Friday?
+Can we push it to next month?
+Can we push it to next week?
+Can we reschedule for next Friday?
+Can we reschedule for next Monday?
+Can we reschedule for next Tuesday?
+Can we reschedule for next week?
+Can we reschedule to next week?
+Can we reschedule?
+Can we review it before 3?
+Can we schedule it for 10 am tomorrow?
+Can we schedule it for next month?
+Can we schedule it for next week?
+Can we schedule it for tomorrow?
+Can we set a time now?
+Can we set it for October 1 2025?
+Can we skip this week?
+Can we start 30 minutes earlier?
+Can we start 30 minutes later?
+Can we start a bit earlier?
+Can we start a bit later?
+Can we start at the same time tomorrow?
+Can we start earlier than planned?
+Can we start earlier today?
+Can we start five minutes late?
+Can we start in 30 minutes?
+Can we start later today?
+Can we start right now?
+Can we start tomorrow at 9?
+Can we submit it by noon?
+Can we take a break in 15 minutes?
+Can we talk after dinner?
+Can we talk around 3 pm your time?
+Can we talk at 10 am?
+Can we talk at 11 am tomorrow?
+Can we talk at 2 pm today?
+Can we talk at 5 pm today?
+Can we talk at 9 am tomorrow?
+Can we talk for five minutes?
+Can we talk later tonight?
+Can we talk on Saturday?
+Can we talk right after lunch?
+Can we talk this weekend?
+Can you be here in 1 hour?
+Can you be here in 12 hours?
+Can you be here in 2 hours?
+Can you be here in 3 hours?
+Can you be here in 4 hours?
+Can you be here in 5 hours?
+Can you be here in 6 hours?
+Can you be here in 8 hours?
+Can you call me at 3 pm?
+Can you call me in 10 minutes?
+Can you call me tomorrow morning?
+Can you call me tonight?
+Can you come earlier today?
+Can you finish it before lunch?
+Can you finish it by 4 pm?
+Can you finish it by 6 pm?
+Can you finish it this morning?
+Can you finish it today?
+Can you join at 9 am?
+Can you join in five minutes?
+Can you remind me in two hours?
+Can you send it before 3 pm?
+Can you send it before 5 pm?
+Can you send it before noon?
+Can you send it by noon?
+Can you send it by the 20th?
+Can you send it by the end of the day?
+Can you send it by tonight?
+Can you send it next week?
+Can you send it on Monday?
+Can you send it this week?
+Can you send it today?
+Can you stay a bit longer?
+Can you stay a little longer?
+Can you wait 10 minutes?
+Can you wait 15 minutes?
+Can you wait 20 minutes?
+Can you wait 25 minutes?
+Can you wait 30 minutes?
+Can you wait 40 minutes?
+Can you wait 45 minutes?
+Can you wait 5 minutes?
+Can you wait 50 minutes?
+Can you wait 60 minutes?
+Can you wait a few minutes?
+Can you wait for 15 minutes?
+Can you wait until 3 pm?
+Can you wait until 6 pm?
+Could we bring it forward by an hour?
+Could we delay it by an hour?
+Could we meet this weekend?
+Could we meet tonight?
+Could you arrive 15 minutes early?
+Could you arrive right on time?
+Could you call me in one hour?
+Could you join an hour later?
+Could you wait 10 minutes?
+Could you wait 30 minutes?
+Could you wait five minutes?
+Did you get my message this morning?
+Did you see the update yesterday?
+Dinner is at 7 pm.
+Do I have to be there at 8 am?
+Do I have to come in today?
+Do I have to come in tomorrow?
+Do I have to join the call at 7 pm?
+Do I have to stay late?
+Do I need to come early?
+Do I need to stay late?
+Do we have a break at 3 o'clock?
+Do we have a class today?
+Do we have a class tomorrow?
+Do we have a deadline today?
+Do we have a deadline tomorrow?
+Do we have a meeting next month?
+Do we have a meeting this week?
+Do we have a meeting today?
+Do we have a meeting tomorrow?
+Do we have class next Monday?
+Do we have class on Friday?
+Do we have class on June 2?
+Do we have class on Wednesday?
+Do we have class today?
+Do we have class tomorrow?
+Do we have time today?
+Do we have to decide today?
+Do we have to stay until midnight?
+Do we have to submit it by Friday?
+Do we have to submit it today?
+Do we have to submit it tomorrow?
+Do we meet every Tuesday?
+Do we meet every Wednesday?
+Do we meet on the first Monday of the month?
+Do we meet twice a week?
+Do we need more time for this?
+Do we need to do it before the weekend?
+Do we need to extend the deadline?
+Do we need to finish it today?
+Do we need to meet every week?
+Do we start on time?
+Do we still have time today?
+Do you close at eight in the evening?
+Do you finish at 6 pm?
+Do you have time after 5 pm?
+Do you have time at 4 pm?
+Do you have time at 7 pm?
+Do you have time at noon?
+Do you have time later today?
+Do you have time now?
+Do you have time on June 10?
+Do you have time on Sunday?
+Do you have time on Wednesday?
+Do you have time right now?
+Do you have time this Thursday?
+Do you have time this afternoon?
+Do you have time tonight?
+Do you know the date today?
+Do you know what day it is today?
+Do you need it by the end of the day?
+Do you need more time?
+Do you open at eight in the morning?
+Do you start at 9 am?
+Do you want to meet later tonight?
+Do you work on Saturdays?
+Do you work on Sundays?
+Do you work on holidays?
+Do you work on weekends?
+Does Thursday evening work for you?
+Does it finish after lunch?
+Does it finish before noon?
+Does it start right at noon?
+Does next Monday work for you?
+Does the bus run on Sundays?
+Does the deadline stay on the 30th?
+Does the store open at 10 in the morning?
+Does the store open on holidays?
+Does the train arrive at noon?
+Does the train leave at six?
+Does tomorrow at 11 am work?
+Everything is ready for today.
+Fall starts in September.
+Has the date changed for the event?
+Has the time changed for today?
+How about 7 pm tonight?
+How about 8 am tomorrow?
+How about this afternoon?
+How early can you come?
+How late can we stay today?
+How late can you stay?
+How long do you need today?
+How long do you think it will take?
+How long will it take?
+How many days are left?
+How many hours do we have left?
+How many hours do we have?
+How many minutes do we have?
+How much time do we have?
+How soon can we meet?
+How soon can you join?
+I am available all morning.
+I am busy all afternoon today.
+I am busy this afternoon.
+I am free all morning today.
+I am free at 9 am on Monday.
+I am free for 30 minutes now.
+I am free on Friday afternoon.
+I am free on Friday evening.
+I am free on Friday morning.
+I am free on Monday afternoon.
+I am free on Monday evening.
+I am free on Monday morning.
+I am free on Saturday afternoon.
+I am free on Saturday evening.
+I am free on Saturday morning.
+I am free on Sunday afternoon.
+I am free on Sunday evening.
+I am free on Sunday morning.
+I am free on Thursday afternoon.
+I am free on Thursday evening.
+I am free on Thursday morning.
+I am free on Tuesday afternoon.
+I am free on Tuesday evening.
+I am free on Tuesday morning.
+I am free on Wednesday afternoon.
+I am free on Wednesday evening.
+I am free on Wednesday morning.
+I am free this weekend.
+I am leaving at 6 in the morning.
+I am leaving in 10 minutes.
+I am on vacation next week.
+I am staying here for three days.
+I am working this weekend.
+I arrived on April 10.
+I arrived on April 20.
+I arrived on April 5.
+I arrived on August 10.
+I arrived on August 20.
+I arrived on August 5.
+I arrived on February 10.
+I arrived on February 20.
+I arrived on February 5.
+I arrived on January 10.
+I arrived on January 20.
+I arrived on January 5.
+I arrived on July 10.
+I arrived on July 20.
+I arrived on July 5.
+I arrived on June 10.
+I arrived on June 20.
+I arrived on June 5.
+I arrived on March 10.
+I arrived on March 20.
+I arrived on March 5.
+I arrived on May 10.
+I arrived on May 20.
+I arrived on May 5.
+I arrived on November 10.
+I arrived on November 20.
+I arrived on November 5.
+I arrived on October 10.
+I arrived on October 20.
+I arrived on October 5.
+I arrived on September 10.
+I arrived on September 20.
+I arrived on September 5.
+I arrived this morning.
+I arrived yesterday.
+I can do it in an hour.
+I can extend the deadline to Friday.
+I can finish it by Friday.
+I can finish it by next week.
+I can finish it by the end of the month.
+I can finish it today.
+I can finish it tomorrow.
+I can meet you tomorrow.
+I can not finish it by tomorrow.
+I can not finish it today.
+I can start in an hour.
+I can stay here until 5 pm.
+I can stay here until 7 pm.
+I can stay until 6 pm.
+I can stay until midnight.
+I can submit it later today.
+I checked the schedule for next month.
+I checked the schedule for this weekend.
+I checked the schedule for today.
+I checked the schedule yesterday.
+I checked the time zone already.
+I finished it last night.
+I finished the report three hours ago.
+I have a call first thing tomorrow.
+I have a call later this evening.
+I have a meeting at 3 o'clock.
+I have an appointment at 9 am tomorrow.
+I have been here since 8 in the morning.
+I have been waiting for 20 minutes.
+I have no time this afternoon.
+I have no time this week.
+I have no time today.
+I have time after 5 pm.
+I have time now.
+I have time this afternoon.
+I have time tomorrow.
+I have to leave at 7 in the evening.
+I have training every Friday at 5 pm.
+I left 10 minutes ago.
+I left an hour ago.
+I need 10 more minutes.
+I need more time.
+I need one more hour.
+I need this done before lunch.
+I set the reminder for 6 pm.
+I slept late this morning.
+I started this project two hours ago.
+I waited until the evening.
+I will arrive before midnight.
+I will arrive five minutes early.
+I will arrive on the 30th.
+I will arrive today.
+I will arrive tomorrow morning.
+I will arrive tomorrow night.
+I will be back before 9 pm.
+I will be busy all morning.
+I will be free later tonight.
+I will be late by 10 minutes.
+I will be late by 20 minutes.
+I will be out all evening.
+I will be there at 3 pm.
+I will be there at 5 pm.
+I will be there by 7 pm.
+I will be there in 10 minutes.
+I will be there in 15 minutes.
+I will be there in 5 minutes.
+I will call you at 11 am.
+I will call you tonight.
+I will contact you on Tuesday morning.
+I will finish it before noon.
+I will finish it by the end of the day.
+I will finish it next week.
+I will finish it this week.
+I will finish it tonight.
+I will finish the task before 3 pm.
+I will finish the task before 6 pm.
+I will finish the task before noon.
+I will finish the task this week.
+I will finish this before 4 pm.
+I will finish this by 4 pm.
+I will join the call at 2 pm.
+I will join you in five minutes.
+I will leave early tomorrow morning.
+I will not be available tomorrow.
+I will return in an hour.
+I will return in the afternoon.
+I will see you next weekend.
+I will send it before 5 pm.
+I will send it by Friday.
+I will send it by the end of the day.
+I will send it by tonight.
+I will send it in 10 minutes.
+I will send it on Monday.
+I will send it today.
+I will send it tomorrow morning.
+I will send it tonight.
+I will send the file by noon.
+I will send the file in the morning.
+I will send the report tonight.
+I will start early tomorrow.
+I will start the work next week.
+I will stay here all day.
+I will travel in early December.
+I will wake up at 6 am.
+I will work late tonight.
+Is 10 am too early for you?
+Is 3 pm ok for you?
+Is Monday a work day?
+Is it OK next week?
+Is it OK tomorrow?
+Is it already too late today?
+Is it due after lunch?
+Is it due before noon?
+Is it due next week?
+Is it due on Friday?
+Is it due this week?
+Is it due today?
+Is it due tomorrow?
+Is it happening this morning?
+Is it happening tonight?
+Is it okay if I arrive 5 minutes late?
+Is it okay if I call at 11 am?
+Is it okay to arrive at 9 30 am?
+Is it okay to arrive tomorrow afternoon?
+Is it okay to pay tomorrow?
+Is it open right now?
+Is it starting in 30 minutes?
+Is it still October 31 today?
+Is it still happening today?
+Is it still on for tomorrow?
+Is it today?
+Is it tomorrow?
+Is it too early to call now?
+Is it too early to visit?
+Is it too late to call?
+Is it too late to join today?
+Is it too late to send it today?
+Is it urgent today?
+Is next month better for you?
+Is next week better for you?
+Is noon good for you?
+Is now a bad time?
+Is our break only 10 minutes?
+Is seven in the evening good?
+Is ten in the morning good?
+Is the appointment for next Tuesday?
+Is the appointment on the 14th?
+Is the appointment still for next Monday?
+Is the call at 10 am Ottawa time?
+Is the call set for 2 pm Ottawa time?
+Is the call set for 9 am Toronto time?
+Is the class from 2 to 4?
+Is the deadline final?
+Is the deadline flexible?
+Is the deadline next Friday?
+Is the deadline next week?
+Is the deadline still June 5 2025?
+Is the deadline still May 13?
+Is the deadline today?
+Is the deadline tomorrow?
+Is the event on the weekend?
+Is the event really on July 20 2025?
+Is the flight delayed by two hours?
+Is the flight tomorrow night?
+Is the interview on May 20 2025?
+Is the meeting all day?
+Is the meeting on Friday?
+Is the meeting on Monday?
+Is the meeting on Thursday?
+Is the meeting on Tuesday?
+Is the meeting on Wednesday?
+Is the meeting still at 2 pm?
+Is the meeting still at 9 am today?
+Is the meeting still today?
+Is the meeting still tomorrow?
+Is the meeting this weekend?
+Is the next class in two weeks?
+Is the office closed on Sunday?
+Is the office open on December 25 2025?
+Is the office open on Sunday?
+Is the office open today?
+Is the payment due at the start of each month?
+Is the plan for this Thursday?
+Is the project ending tomorrow?
+Is the project starting today?
+Is the report due tomorrow?
+Is the schedule the same this week?
+Is the session on Friday evening?
+Is the store open right now?
+Is the system down at night?
+Is the ticket valid only today?
+Is the workshop in November?
+Is there a meeting every morning?
+Is this a good time?
+Is this a one hour meeting?
+Is this available on weekends?
+Is this the final schedule?
+Is this the right time?
+Is this time okay for you?
+Is this week busy for you?
+Is this week too busy for you?
+Is today May 13 2025?
+Is today a holiday?
+Is today the 13th of May?
+Is today the 5th or the 6th?
+Is today the first day of the month?
+Is today the last day to apply?
+Is tomorrow a holiday?
+Is tomorrow good for you?
+Is tomorrow still good for you?
+It is 2 in the afternoon right now.
+It is 3 pm already.
+It is 6 pm so the office is closed.
+It is 9 am right now.
+It is Friday today.
+It is July 1 today.
+It is May 13 today.
+It is Monday today.
+It is November 1 2025.
+It is Saturday today.
+It is Sunday today.
+It is Thursday today.
+It is Tuesday today.
+It is Wednesday today.
+It is almost midnight.
+It is almost noon now.
+It is almost noon.
+It is almost the end of the year.
+It is almost the weekend.
+It is already 3 pm here.
+It is already 3 pm.
+It is already Friday.
+It is already November.
+It is already late in the evening.
+It is already midnight here.
+It is already the second week of November.
+It is autumn today.
+It is due at the end of this month.
+It is due next Friday.
+It is due today.
+It is due tomorrow.
+It is early in the morning.
+It is eight in the evening.
+It is exactly noon.
+It is five in the afternoon.
+It is four in the afternoon.
+It is late at night.
+It is midnight now.
+It is nine at night.
+It is not a good time to talk.
+It is not due today.
+It is not due until Friday.
+It is not ready yet this morning.
+It is not urgent today.
+It is one in the afternoon.
+It is only five minutes away.
+It is only two days away.
+It is our day off tomorrow.
+It is our meeting day today.
+It is seven in the evening.
+It is six in the evening.
+It is spring today.
+It is still October.
+It is still dark because it is 5 am.
+It is still early in the morning.
+It is summer today.
+It is the 20th of this month today.
+It is the beginning of the month.
+It is the beginning of the week.
+It is the day of the event today.
+It is the deadline day today.
+It is the end of the month.
+It is the end of the week.
+It is the fifth week of May.
+It is the first day of the month.
+It is the first week of May.
+It is the first week of the year.
+It is the fourth week of May.
+It is the last day of the month.
+It is the last week of the year.
+It is the middle of the week.
+It is the same schedule as last week.
+It is the same time as yesterday.
+It is the second week of May.
+It is the third week of May.
+It is the usual time at 10 am.
+It is the weekend so I can stay longer.
+It is the weekend so the bank is closed.
+It is three in the afternoon.
+It is time to eat lunch.
+It is time to go now.
+It is time to join the meeting.
+It is time to sleep now.
+It is time to submit the form.
+It is too early to message him today.
+It is too early.
+It is too late to change the time today.
+It is too late to join today.
+It is too late.
+It is two in the afternoon.
+It is very late for a call today.
+It is winter today.
+It starts in 10 minutes.
+It starts in 15 minutes.
+It starts in 20 minutes.
+It starts in 25 minutes.
+It starts in 30 minutes.
+It starts in 40 minutes.
+It starts in 45 minutes.
+It starts in 5 minutes.
+It starts in 50 minutes.
+It starts in 60 minutes.
+It took me 30 minutes to get here.
+It usually takes me an hour in the morning.
+It was done yesterday.
+It was due yesterday.
+It was very busy yesterday afternoon.
+It will be Friday tomorrow.
+It will be Monday tomorrow.
+It will be Saturday tomorrow.
+It will be Sunday tomorrow.
+It will be Thursday tomorrow.
+It will be Tuesday tomorrow.
+It will be Wednesday tomorrow.
+It will be done by Friday.
+It will be done the day after tomorrow.
+It will be done today.
+It will be done tomorrow.
+It will be ready before dinner.
+It will be ready by 4 pm.
+It will be ready in 10 minutes.
+It will be ready in half an hour.
+It will be ready this afternoon.
+It will end at midnight.
+It will end before the holiday.
+It will end by 3 pm.
+It will end on the 30th.
+It will end this week.
+It will end today.
+It will not take long.
+It will start after lunch.
+It will start at 11 am.
+It will start at the usual time.
+It will start in 5 minutes.
+It will start next month.
+It will start on June 2.
+It will start on Monday.
+It will take 1 hour.
+It will take 12 hours.
+It will take 2 hours.
+It will take 3 hours.
+It will take 4 hours.
+It will take 5 hours.
+It will take 6 hours.
+It will take 8 hours.
+It will take about 20 minutes.
+It will take about one hour.
+It will take all day.
+It will take longer than I thought.
+It will take only a few hours.
+It will take until next week.
+Last month was October.
+Last week was very cold.
+Lunch break is at 12 30 pm.
+Lunch is at noon.
+My appointment is at 2 pm.
+My appointment is at noon.
+My appointment is at three.
+My appointment is in 15 minutes.
+My appointment is later today.
+My appointment is next Tuesday morning.
+My appointment is on the 15th.
+My appointment is on the 21st.
+My birthday is in June.
+My birthday is on July 3.
+My birthday is this week.
+My exam is in two hours.
+My exam is next Monday.
+My flight is on April 14 2025.
+My flight is on Monday morning.
+My interview is in one hour.
+My interview is in two days.
+My interview is on Wednesday.
+My project ends this week.
+My project is delayed by one day.
+My project starts next week.
+My rent is due on the first day of every month.
+My train leaves at 6 pm.
+My train leaves at 8 am.
+My train leaves in 40 minutes.
+My train leaves on Saturday.
+My visa expires in March 2027.
+My visa expires on September 30 2025.
+Next month is December.
+Next week is free.
+Next week is lighter than this week.
+Our appointment is at 9 o'clock tomorrow.
+Our break is only 10 minutes.
+Our call is at 10 am Ottawa time.
+Our deadline was moved to next Friday.
+Our dinner is at seven.
+Our flight is early tomorrow.
+Our flight is next Monday.
+Our flight is on Friday.
+Our flight is on May 20.
+Our flight is this afternoon.
+Our flight is tomorrow morning.
+Our flight is tomorrow night.
+Our flight is tonight.
+Our lunch break is at twelve.
+Our next session is on August 2 2025.
+Our shift ends at 5 pm.
+Our shift starts at 7 am.
+Our team meets every Friday.
+Our team meets every Monday at 10 am.
+Our team meets every Wednesday at 4 pm.
+Our team works late on Thursdays.
+See you at 2 pm.
+See you at 6 pm.
+See you in 10 minutes.
+See you in an hour.
+See you next week.
+See you on Monday.
+See you tomorrow.
+Should we delay it?
+Should we finish this before 4 pm?
+Should we finish this before noon?
+Should we meet at 9 o'clock?
+Should we meet next week?
+Should we meet on Monday?
+Should we meet today or tomorrow?
+Should we meet today?
+Should we meet tomorrow?
+Should we move this to next week?
+Should we start after lunch?
+Should we start at 1 pm?
+Should we start at nine?
+Should we start at ten?
+Should we start right away?
+Should we wait until tomorrow?
+Spring starts in March.
+Summer starts in June.
+The appointment is at 1 pm.
+The appointment is for next week.
+The appointment is on the 14th.
+The appointment was yesterday.
+The bank opens at 9 am today.
+The bus arrives at 3 pm.
+The bus arrives at 5 30 pm.
+The bus arrives at 9 10 am.
+The bus arrives every 15 minutes.
+The bus arrives in 10 minutes.
+The bus comes every 15 minutes.
+The bus comes every ten minutes.
+The bus is late today.
+The cafe opens at 7 am.
+The call is at 2 pm today.
+The call is at 9 30 am.
+The call is at 9 am.
+The call will be short today.
+The class begins at the same time tomorrow.
+The class ends at 4 pm.
+The class finishes at 5 pm.
+The class is at eleven tomorrow.
+The class is at nine tomorrow.
+The class is at six in the evening.
+The class is at ten tomorrow.
+The class is at two tomorrow.
+The class is every Monday.
+The class is every Tuesday at 7 pm.
+The class is every Tuesday.
+The class is on the first of every month.
+The class is on weekdays only.
+The class runs from 2 to 4.
+The class starts at 10 am tomorrow.
+The class starts at 10 am.
+The class starts at 11 am tomorrow.
+The class starts at 12 pm tomorrow.
+The class starts at 8 am tomorrow.
+The class starts at 9 am tomorrow.
+The class starts in 30 minutes.
+The concert is on Saturday night.
+The concert is on the weekend.
+The course lasts six weeks.
+The deadline is at noon.
+The deadline is in two hours.
+The deadline is next Monday.
+The deadline is next month.
+The deadline is next week.
+The deadline is on Friday.
+The deadline is the end of this month.
+The deadline is the end of this week.
+The deadline is this Friday.
+The deadline is today.
+The deadline is tomorrow morning.
+The deadline is tomorrow.
+The deadline was yesterday.
+The doctor is available at 2 pm today.
+The event ends at 9 pm.
+The event is in three hours.
+The event is next weekend.
+The event is on December 24.
+The event is on June 2.
+The event is on Saturday.
+The event is on the 15th.
+The event is this weekend.
+The event is tonight.
+The event starts at 7 pm.
+The event starts right now.
+The event takes place on July 20 2025.
+The exam is in November.
+The exam is in two weeks.
+The exam is next Tuesday.
+The exam is on June 1 2025.
+The exam is on May 20 2026.
+The exam is tomorrow afternoon.
+The exam is tomorrow morning.
+The festival is in August.
+The flight is at 11 pm.
+The flight is at 6 am.
+The flight is delayed by two hours.
+The flight is on Friday morning.
+The flight is tomorrow.
+The flight leaves tomorrow morning.
+The guest arrives this afternoon.
+The interview is next Tuesday.
+The interview is on Friday at 9 am.
+The interview is today.
+The interview is tomorrow.
+The invoice is due in seven days.
+The kids go to bed at 9 pm.
+The lesson takes one hour.
+The lesson takes thirty minutes.
+The library closes at 8 pm today.
+The library is open on weekends.
+The library opens at 10 in the morning.
+The library was closed yesterday.
+The meeting has been moved to tomorrow.
+The meeting is at 1 pm today.
+The meeting is at 10 am today.
+The meeting is at 11 am today.
+The meeting is at 12 pm today.
+The meeting is at 2 pm today.
+The meeting is at 3 pm today.
+The meeting is at 4 pm today.
+The meeting is at 5 pm today.
+The meeting is at 8 am today.
+The meeting is at 9 am today.
+The meeting is in ten minutes.
+The meeting is next Wednesday.
+The meeting is on April 10.
+The meeting is on April 20.
+The meeting is on April 5.
+The meeting is on August 10.
+The meeting is on August 20.
+The meeting is on August 5.
+The meeting is on December 5.
+The meeting is on February 10.
+The meeting is on February 20.
+The meeting is on February 5.
+The meeting is on Friday.
+The meeting is on January 10.
+The meeting is on January 20.
+The meeting is on January 5.
+The meeting is on July 10.
+The meeting is on July 20.
+The meeting is on July 5.
+The meeting is on June 10.
+The meeting is on June 20.
+The meeting is on June 5.
+The meeting is on March 10.
+The meeting is on March 20.
+The meeting is on March 5.
+The meeting is on May 10.
+The meeting is on May 20.
+The meeting is on May 5.
+The meeting is on Monday.
+The meeting is on November 10.
+The meeting is on November 20.
+The meeting is on November 5.
+The meeting is on October 10.
+The meeting is on October 20.
+The meeting is on October 5.
+The meeting is on Saturday.
+The meeting is on September 10.
+The meeting is on September 20.
+The meeting is on September 5.
+The meeting is on Sunday.
+The meeting is on Thursday.
+The meeting is on Tuesday.
+The meeting is on Wednesday.
+The meeting is on the 15th.
+The meeting is the same time every week.
+The meeting is this afternoon.
+The meeting is today.
+The meeting is tomorrow afternoon.
+The meeting is tomorrow morning.
+The meeting is tomorrow.
+The meeting lasted all morning.
+The meeting lasts two hours.
+The meeting starts in 30 minutes.
+The meeting was yesterday.
+The meeting will not go past 5 pm.
+The new schedule starts on Monday.
+The next holiday is in three days.
+The next holiday is in two weeks.
+The next review is on October 1 2025.
+The next session is in two weeks.
+The office closes at 5 pm sharp.
+The office closes at 5 pm.
+The office closes at 6 pm.
+The office closes at five.
+The office is also closed on January 1 2026.
+The office is closed on December 25 2025.
+The office is closed on Sunday.
+The office is open right now.
+The office opens at 8 am.
+The office opens at 9 am.
+The office opens at 9 in the morning.
+The office opens at nine.
+The office will reopen next month.
+The package arrived this morning.
+The package came earlier today.
+The package should arrive today.
+The package will arrive on March 4 2025.
+The payment arrived on time.
+The payment is due at the start of each month.
+The payment is due next Friday.
+The payment is due next month.
+The payment is due today.
+The payment is due tomorrow.
+The payment will be processed tomorrow.
+The project ends in December 2025.
+The project ends next Friday.
+The project runs for three months.
+The project runs for two weeks.
+The project starts next month.
+The project starts today.
+The project will end in December.
+The quarter ends today.
+The registration closes at noon.
+The rent is due on the first.
+The rent is due today.
+The rent is late by two days.
+The rent is paid on the first of each month.
+The report is due at 1 pm on Friday.
+The report is due at 2 pm on Friday.
+The report is due at 3 pm on Friday.
+The report is due at 4 pm on Friday.
+The report is due at 5 pm on Friday.
+The report is due at the end of the day.
+The report is due before noon.
+The report is due by 5 pm.
+The report is due next week.
+The report is due on April 10.
+The report is due on April 20.
+The report is due on April 5.
+The report is due on August 10.
+The report is due on August 20.
+The report is due on August 5.
+The report is due on December 5.
+The report is due on February 10.
+The report is due on February 20.
+The report is due on February 5.
+The report is due on January 10.
+The report is due on January 20.
+The report is due on January 5.
+The report is due on July 10.
+The report is due on July 20.
+The report is due on July 5.
+The report is due on June 10.
+The report is due on June 20.
+The report is due on June 5.
+The report is due on March 10.
+The report is due on March 20.
+The report is due on March 5.
+The report is due on May 10.
+The report is due on May 20.
+The report is due on May 5.
+The report is due on November 10.
+The report is due on November 20.
+The report is due on November 5.
+The report is due on October 10.
+The report is due on October 20.
+The report is due on October 5.
+The report is due on September 10.
+The report is due on September 20.
+The report is due on September 5.
+The report is due this Friday.
+The schedule is full this week.
+The seminar starts at 10 in the morning.
+The service is available only on weekdays.
+The session begins at noon.
+The shift begins at eight.
+The shift ends at four.
+The shop closes at 6 pm on Sunday.
+The shop opens at 8 am on weekdays.
+The show begins in a few minutes.
+The show starts at seven this evening.
+The show starts in ten minutes.
+The store closes at 6 pm on Sundays.
+The store closes at 8 in the evening.
+The store closes at 8 pm on weekdays.
+The store closes at 8 pm.
+The store closes at eight in the evening.
+The store closes in 20 minutes.
+The store is closed today.
+The store is open all day.
+The store is open all weekend.
+The store is open until 9 pm.
+The store opens at 10 am every day.
+The store opens at 10 am.
+The store opens at 9 am on weekdays.
+The store opens at 9 am.
+The store opens at eight in the morning.
+The store will open again tomorrow.
+The sun rises late in winter.
+The sun sets early today.
+The system update is at midnight.
+The system update is tonight.
+The system was down last night.
+The system will restart at 4 pm.
+The task takes about an hour.
+The ticket is valid for 24 hours.
+The time is nine in the morning.
+The time now is 11 30 am.
+The time now is 3 pm.
+The time now is 6 45 pm.
+The time now is 9 am.
+The train arrives at 5 pm.
+The train arrives at noon.
+The train leaves at 7 30 am.
+The train leaves at 7 am.
+The train leaves at six in the morning.
+The train leaves in half an hour.
+The train leaves tomorrow morning.
+The winter break starts on December 20 2025.
+The workshop is all day today.
+The workshop is next Tuesday.
+The workshop is next month.
+The workshop is this afternoon.
+The workshop runs from May 3 to May 5.
+The year began four months ago.
+The year ends next month.
+This is a one hour meeting.
+This offer ends at the end of the month.
+This plan is for next month.
+This plan is for tomorrow.
+This task is already late.
+This task will take all morning.
+This task will take one hour.
+This week is very busy for me.
+This week is very busy.
+This will take 10 minutes.
+This will take 30 minutes.
+This will take 5 minutes.
+This will take about an hour.
+This will take all day.
+Today is April 13 2025.
+Today is April 5.
+Today is August 13 2025.
+Today is August 5.
+Today is December 13 2025.
+Today is February 13 2025.
+Today is February 5.
+Today is Friday.
+Today is January 13 2025.
+Today is January 5.
+Today is July 13 2025.
+Today is July 5.
+Today is June 13 2025.
+Today is June 5.
+Today is March 13 2025.
+Today is March 5.
+Today is May 13 2025.
+Today is May 13.
+Today is May 5.
+Today is Monday.
+Today is November 1 2025.
+Today is November 13 2025.
+Today is October 13 2025.
+Today is October 5.
+Today is Saturday.
+Today is September 13 2025.
+Today is September 5.
+Today is Sunday.
+Today is Thursday.
+Today is Tuesday.
+Today is Wednesday.
+Today is a busy day.
+Today is a holiday.
+Today is a public holiday.
+Today is the first day of June.
+Today is the first day of the month.
+Today is the first day of the quarter.
+Today is the first working day of the week.
+Today is the last day of the month.
+Today is the last day to apply.
+Today is the last day.
+Today is the last working day.
+Tomorrow is Friday.
+Tomorrow is Monday.
+Tomorrow is Saturday.
+Tomorrow is Sunday.
+Tomorrow is Thursday.
+Tomorrow is Tuesday.
+Tomorrow is Wednesday.
+Tomorrow is a busy day.
+Tomorrow is a holiday.
+Tomorrow is already the 10th.
+Tomorrow is my day off.
+Tomorrow is the 14th.
+Tomorrow is the deadline for the form.
+Tomorrow is the meeting with the client.
+We announced the date last week.
+We are ahead of schedule.
+We are behind schedule.
+We are closing early today.
+We are meeting this Friday evening.
+We are meeting this evening.
+We are off on December 25.
+We are on a tight schedule this week.
+We are on time.
+We are still on for tonight.
+We are traveling in July this year.
+We arrived on time.
+We can meet after lunch today.
+We do not have class today.
+We finished the task early today.
+We have a deadline on June 5 2025.
+We have a meeting at 11 am.
+We have a meeting at 2 pm.
+We have a meeting every Monday.
+We have a meeting on the first Monday of every month.
+We have an event in July 2026.
+We have class at 9 am.
+We have class every Tuesday morning.
+We have class on Tuesdays and Thursdays.
+We have class this week.
+We have no meeting next Monday.
+We have two hours left.
+We meet every Tuesday at 6 pm.
+We meet here every day at 7 pm.
+We met on May 20 2025.
+We need to decide today.
+We plan to meet every month.
+We stayed there all day.
+We will celebrate the launch this Saturday.
+We will meet again next week.
+We will open in 10 minutes.
+We will release the update next Friday.
+We will release the update tomorrow.
+We will review the plan next Tuesday.
+We will start after lunch.
+We will start at 9 am sharp.
+We will start at noon.
+We will start in 5 minutes.
+We will start next week.
+We will start on time today.
+We will start on time.
+We will start tomorrow.
+We will work until 6 pm.
+What day is it today?
+What day is it tomorrow?
+What day is the deadline?
+What day is the test?
+What day works best for you?
+What is our meeting time again?
+What is the date today in Ottawa?
+What is the date today?
+What is the date tomorrow in Ottawa?
+What is the date tomorrow?
+What is the deadline for this task?
+What is the schedule for this week?
+What is the schedule for today?
+What is today's date?
+What time did you arrive today?
+What time did you leave yesterday?
+What time do we begin?
+What time do we finish?
+What time do we start?
+What time do you close?
+What time do you finish work today?
+What time do you get up on weekdays?
+What time do you need it by?
+What time do you open?
+What time do you usually have lunch?
+What time do you wake up on weekdays?
+What time does it close on Sunday?
+What time does it open on Sunday?
+What time does the bank open today?
+What time does the store close today?
+What time does the store close?
+What time does the store open?
+What time does the train leave today?
+What time does your shift end?
+What time does your shift start?
+What time is check in?
+What time is check out?
+What time is it now?
+What time is it there now?
+What time is the meeting today?
+What time is the meeting?
+What time is your flight on the 20th?
+What time is your flight?
+What time should I be there?
+What time works best for you?
+What time works for you today?
+What time zone are we using?
+When are you free this week?
+When are you leaving for Ottawa?
+When are you leaving on Tuesday?
+When can we have a quick call?
+When can you meet this weekend?
+When can you send the report?
+When do I have to send it?
+When do I have to submit it?
+When do we finish?
+When do we start?
+When do you finish work today?
+When do you need the report?
+When does it close?
+When does it end?
+When does it open?
+When does it start today?
+When does it start?
+When does the break start?
+When does the class end?
+When does the class finish today?
+When does the class start?
+When does the event end?
+When does the event start?
+When does the library close today?
+When does the new term begin?
+When does the office close?
+When does the office open?
+When does the store close today?
+When does the store open?
+When is the deadline for this task?
+When is the deadline this month?
+When is the deadline?
+When is the exam?
+When is the interview?
+When is the launch?
+When is the meeting this month?
+When is the meeting?
+When is the next bus?
+When is the next class?
+When is the next holiday?
+When is the next meeting?
+When is the next session?
+When is the next train?
+When is the payment due?
+When is the presentation on Friday?
+When is the rent due?
+When is your birthday?
+When is your flight on Monday?
+When is your flight?
+When is your next day off?
+When is your visa expiring?
+When will the bus arrive?
+When will the package arrive?
+When will the train leave?
+Which day is the interview?
+Which day is the release?
+Which day is the review meeting?
+Will I get the result today?
+Will it be done by the weekend?
+Will it be ready by 5 pm today?
+Will it be ready by noon?
+Will it be ready by tomorrow?
+Will it be ready by tonight?
+Will it be ready in an hour?
+Will it finish before 8 pm?
+Will it start after lunch?
+Will it start at nine?
+Will it start at noon?
+Will it start at ten?
+Will it start in 30 minutes?
+Will it start on time?
+Will it start this evening?
+Will it take less than an hour?
+Will it take more than an hour?
+Will the delivery arrive today?
+Will the meeting go past 5 pm?
+Will the meeting last all morning?
+Will the package arrive this week?
+Will the package arrive today?
+Will the package arrive tomorrow?
+Will the package come before Friday?
+Will the update take long?
+Will tomorrow morning work for you?
+Will you arrive before 2 pm?
+Will you be busy all morning?
+Will you be busy on Saturday night?
+Will you be free after 5 pm?
+Will you be free at four?
+Will you be free at three?
+Will you be free in the next hour?
+Will you be free next week?
+Will you be free on Saturday?
+Will you be free this weekend?
+Will you be free tonight?
+Will you be here at 6 pm?
+Will you be here at 8 am?
+Will you be here at noon?
+Will you be here by 7 pm?
+Will you be online at 7 am?
+Will you finish it this evening?
+Will you finish it this week?
+Will you finish it today?
+Will you send it by tonight?
+Will you send the file today?
+Will you travel in early December?
+Winter starts in December.
+Would tomorrow afternoon work?
+Would tomorrow evening be ok?
+Would tomorrow morning be better?
+Would tomorrow morning work?
+Would you prefer 10 am or 2 pm?
+Would you prefer Monday or Tuesday?
+Yesterday was April 12 2025.
+Yesterday was August 12 2025.
+Yesterday was December 12 2025.
+Yesterday was February 12 2025.
+Yesterday was January 12 2025.
+Yesterday was July 12 2025.
+Yesterday was June 12 2025.
+Yesterday was March 12 2025.
+Yesterday was May 12 2025.
+Yesterday was May 12.
+Yesterday was November 12 2025.
+Yesterday was October 12 2025.
+Yesterday was October 31.
+Yesterday was September 12 2025.
+Yesterday was Sunday.
+Yesterday was a holiday.
+Yesterday was really busy.
+Yesterday was very long.
+Your order will arrive today.

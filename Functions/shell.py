@@ -1,3 +1,4 @@
+from pathlib import Path
 import os, sys, json
 
 from Functions.scoring import score_pair
@@ -12,7 +13,6 @@ with open(CONFIG_PATH, "r", encoding="utf-8") as f:
     lang_dict = json.load(f)
 
 TITLE_NAME = 'CLI Translation Practice (GLOBAL → Target=en)'
-
 ROOT = 'root'
 CHOSEN = 'chosen'
 TESTING = 'testing'
@@ -75,8 +75,6 @@ class Shell:
 
     def _cmd_langs(self):
         langs = list_languages(self.text_root)
-
-
         if not langs:
             print("No languages found under text/. Create text/<src>/ first.")
             return
@@ -176,13 +174,20 @@ class Shell:
         self.prompt = f"Target (en): "
 
     def _evaluate_and_print(self, user_text: str):
-        _, src = self.current_pair
+        idx, src = self.current_pair
         score = min(score_pair(src, user_text), 100)/20
         try:
             score_str = f"{float(score):.2f}"
         except:
             score_str = "0.00"
         print(f"\n- Score: {score_str}/5.00")
-        print("- Alternative ->", translate_strict(src))
+        print("- Alternative ->", self._alternative(idx, src))
         self._next_question()
 
+    def _alternative(self, idx, src):
+        # alt = translator(idx, self.current_cat, self.cfg['tgt_lang'])
+        try:
+            file_path = _app_base() + f"\\text\\{self.cfg['tgt_lang']}\\{self.current_cat}.txt"
+            return Path(file_path).read_text(encoding="utf-8").splitlines()[idx]
+        except:
+            return translate_strict(src)

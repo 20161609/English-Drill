@@ -1,6 +1,0 @@
-openai
-torch
-transformers
-sentencepiece
-tqdm
-requests
